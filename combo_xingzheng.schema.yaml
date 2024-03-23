@@ -40,7 +40,6 @@ engine:
     - punct_translator
     - table_translator
     - script_translator
-    - reverse_lookup_translator
   filters:
     - uniquifier
 
@@ -56,33 +55,17 @@ speller:
 translator:
   dictionary: combo_xingzheng
   enable_user_dict: false
-  #enable_sentence: false
-  #enable_encoder: false
-  #sentence_over_completion: false
-  #max_phrase_length: 1
-
-reverse_lookup:
-  dictionary: guangshu_zhengma
-  prefix: "`"
-  tips: 〔郑码〕
-  enable_completion: true
 
 chord_composer:
 
 punctuator:
-  import_preset: custom_symbols
+  import_preset: default
 
 key_binder:
   import_preset: default
-  bindings:
-    - { when: paging, accept: comma, send: comma }
-    - { when: has_menu, accept: period, send: period }
 
 recognizer:
   import_preset: default
-  patterns:
-    reverse_lookup: "^`[a-z]*$"
-    punct: '^\^([0-9]0?|[A-Za-z]+)$'
 
 __patch:
   # 鍵盘布局
