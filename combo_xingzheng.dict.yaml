@@ -396,7 +396,7 @@ use_preset_vocabulary: false
 盤	aefcglpkmbfcdh
 爽	efkibdki
 隊	bfcknebdh
-楊	abliecpknim
+楊	abliecloj
 臺	aebcdhmagpojn
 往	egdlbcd
 片	ebfc
@@ -573,7 +573,7 @@ use_preset_vocabulary: false
 香	fgdli
 封	fgonfgh
 眼	bfcglpkon
-易	adpjebgdh
+易	adpjafc
 冷	efhoibh
 借	fclpkojiad
 派	afpkebcg
@@ -581,7 +581,7 @@ use_preset_vocabulary: false
 付	fconm
 十	gh
 廠	aghlphpki
-陽	bfcliecpknim
+陽	bfcliecloj
 樹	ablpkjimacdonm
 油	afpjim
 胡	ghmeh
@@ -599,18 +599,18 @@ use_preset_vocabulary: false
 權	abkjhpoi
 翻	efcgdhlpkoafcglojn
 隨	bfckmaefghpm
-場	fgliecpknimZ
+場	fglieclojZ
 帖	aebdhimh
 商	chknfhm
 庫	aghkimZ
 價	fcpoimacg
-物	fcdpjebgdh
+物	fcdpjafc
 泡	afpjbcdh
 寶	ahkjiaedljn
 玉	bcdl
 體	acghlihlji
 追	bhkbgdh
-傷	fcniecpknim
+傷	fcniecloj
 背	abcgdljeh
 腳	ehomhojn
 丟	bcdkon
@@ -682,7 +682,7 @@ use_preset_vocabulary: false
 斷	bfghkonmepk
 吾	dkonih
 虧	aebfcgpoidlpkom
-湯	afliecpknim
+湯	afliecloj
 民	bcdhkom
 極	ablpkomabfi
 命	fdihojn
@@ -840,7 +840,7 @@ use_preset_vocabulary: false
 圈	cgdhlkojibcdh
 迷	bhpkonm
 趕	ebhlidnm
-踢	agdhliecpknim
+踢	agdhliecloj
 勝	ehlkojiaeb
 史	hki
 甲	egdh
@@ -1297,7 +1297,7 @@ use_preset_vocabulary: false
 愁	fgdlkiebf
 鋪	echlpnmZ
 薩	bckojbpoji
-揚	abcliecpknim
+揚	abcliecloj
 勇	ecgdhlkojniaeb
 財	acgonmbZ
 鍊	echlkaeg
@@ -1340,7 +1340,7 @@ use_preset_vocabulary: false
 溝	afojnmfcgon
 碗	abcgdhlmafgdh
 賠	acgkjmhZ
-吻	hpjebgdh
+吻	hpjafc
 健	fclpojcdhji
 速	bhlkh
 失	fcdoi
@@ -1674,10 +1674,10 @@ use_preset_vocabulary: false
 傘	fdoifdnm
 碧	bcdpjiabcgdh
 籍	ebcdkniaebfcdli
-燙	afliebgdhlki
+燙	afliafclki
 瑪	bcdlimZ
 刮	abchko
-勿	ecpknim
+彡	afc
 坤	fgpjni
 汁	afnm
 冊	fcgkj
@@ -1744,7 +1744,7 @@ use_preset_vocabulary: false
 拳	abfcdponim
 浜	aflojnimfh
 齣	aebfdhpjh
-錫	echliecpknimZ
+錫	echlieclojZ
 薇	bcpniefchpki
 淫	afloiblpkjim
 拽	abclifgdh
@@ -1865,7 +1865,7 @@ use_preset_vocabulary: false
 渣	aflkadi
 熙	aecghkjimefcgh
 抖	abcpomgh
-忽	ecpknimebf
+忽	eclojebf
 津	afjimcd
 胎	ehkonh
 糧	ebfghliegdhji
@@ -1934,7 +1934,7 @@ use_preset_vocabulary: false
 磊	abcgdhlkjnimabcgdh
 雁	fdhojefd
 俠	fcpofdoi
-腸	ehliecpknim
+腸	ehliecloj
 窄	ebfcgdnidh
 昨	adnidh
 倪	fcojnieg
@@ -2238,7 +2238,7 @@ use_preset_vocabulary: false
 盲	abghkojn
 姿	efhojimcgh
 炫	abdjmbfgh
-賜	acgliecpknimZ
+賜	acglieclojZ
 湧	afpjnimabfcgdlpk
 潑	aflknimbfcdlpkm
 坎	fgojim
@@ -2284,7 +2284,7 @@ use_preset_vocabulary: false
 災	ebglki
 幢	aebdhkjmegdhji
 鈉	echojnfdZ
-暢	ecgdliecpknim
+暢	ecgdliecloj
 詠	bghlbfcgdh
 齡	aebfdhoibhZ
 焉	djnepojnm
@@ -2571,7 +2571,7 @@ use_preset_vocabulary: false
 捕	abclpnm
 蕊	bcpkoebfpko
 喪	ghmhpkoi
-盪	afliebgdhkojim
+盪	afliafckojim
 氨	aebfchlmcgh
 愣	acgdhlpnabg
 幺	bfgh
@@ -2956,11 +2956,11 @@ use_preset_vocabulary: false
 償	fclphljn
 沛	afiaebdh
 澗	aflpjadZ
-殤	dpkjecpknimZ
+殤	dpkjeclojZ
 掠	abcjmhlp
 崎	aedpoaebcdm
 贛	bchliaefghljnZ
-蕩	bcloecpknim
+蕩	bcloecloj
 菇	bcjnmghm
 砌	abcgdhkomfcgdh
 眯	bfcgpkonm
@@ -3755,7 +3755,7 @@ use_preset_vocabulary: false
 斟	ebfgpefhnm
 柑	abojnm
 匿	bfdkjefm
-剔	adpjebgdhko
+剔	adpjafcko
 崴	aedlpkojdjnm
 胯	ehpodlpkom
 眷	abfcdkojn
@@ -3961,7 +3961,7 @@ use_preset_vocabulary: false
 拇	abclpon
 兢	ghmhpn
 踮	agdhlnmdhm
-觴	edlkojniecpknim
+觴	edlkojniecloj
 汕	aflpi
 纓	aefljnacgjnmZ
 綻	aeflmdjnZ
@@ -4321,7 +4321,7 @@ use_preset_vocabulary: false
 蚜	acdhlkoi
 畸	aebfpoaebcdm
 箕	ebcdpkon
-匆	ecpknima
+匆	ecloja
 壕	fgjmagpkim
 撣	abcmadnm
 堇	aebfcdmagd
@@ -4462,7 +4462,6 @@ use_preset_vocabulary: false
 荐	bcpocjni
 蟮	acdhpnmacdm
 踰	agdhoiehko
-彡	afc
 鍶	echlpkoebfZ
 対	afgonm
 庖	aghpjbcdh
@@ -4720,7 +4719,7 @@ use_preset_vocabulary: false
 竣	bchkonfhpoj
 甑	bglpnfl
 悸	acgdhonicgd
-煬	abdliecpknim
+煬	abdliecloj
 縐	aefpjeclpm
 玓	bcdpja
 萇	bclpkiZ
@@ -4840,7 +4839,7 @@ use_preset_vocabulary: false
 哖	hniaebgh
 噔	hlknimhlji
 笫	ebcdkeoj
-惚	acgdhpjebgdhpko
+惚	acgdhpjafcpko
 澮	afoiaegli
 閫	aecjnimabZ
 瑙	bcdpknbcghki
@@ -5115,7 +5114,7 @@ use_preset_vocabulary: false
 桜	abpkjnimcgh
 蚧	acdhoifch
 骯	acghjmefch
-笏	ebcdpjebgdh
+笏	ebcdpjafc
 鎦	echpkjnfcgdhlpkoZ
 酋	bglpji
 鎏	afjmfchpjm
@@ -5289,7 +5288,7 @@ use_preset_vocabulary: false
 嚙	hlpkoimZ
 飫	ebchkefZ
 鈰	echjmaebdhZ
-惕	acgdhliecpknim
+惕	acgdhliecloj
 惘	acgdhojnacdlknm
 惦	acgdhlnmdhm
 潦	afpoadlp
@@ -5325,7 +5324,7 @@ use_preset_vocabulary: false
 劾	chkjnimfdlpk
 憧	acgdhkjmegdhji
 裑	achlkon
-裼	achliecpknim
+裼	achliecloj
 孿	bghlpoaefjni
 嫠	cdlpfdhjnm
 琇	bcdonifk
@@ -5334,7 +5333,7 @@ use_preset_vocabulary: false
 杪	ablpb
 榔	ablaebfgkoj
 隹	efd
-餳	ebchliecpknim
+餳	ebchliecloj
 鉺	echkjniZ
 鎌	echljibfom
 旆	abgnidlpkim
@@ -5393,7 +5392,7 @@ use_preset_vocabulary: false
 牯	fcdnmh
 簟	ebcdpoimadnm
 笮	ebcdnidh
-囪	bcghpknima
+囪	bcghloja
 儈	fcoiaegli
 鷂	afdojiaedlkjnm
 譲	bghjmfcghlpknW
@@ -5423,7 +5422,7 @@ use_preset_vocabulary: false
 蹌	agdhoiefcdhm
 嗍	hljiaehpm
 杲	adlky
-暘	adliecpknim
+暘	adliecloj
 骷	acghnmh
 爨	fcgdojneflki
 羸	abghmeghlkni
@@ -5542,7 +5541,7 @@ use_preset_vocabulary: false
 鉿	echoidmZ
 艫	aefcglpkojnaebfkojim
 諉	bghonicghZ
-瘍	abhliecpknim
+瘍	abhliecloj
 憒	acgdhlpkojnidljnZ
 郯	abdlkibfc
 邋	bhpknbdpkn
@@ -5794,7 +5793,7 @@ use_preset_vocabulary: false
 鷙	fglkojiafcdlkjnm
 験	adhoihoi
 蠆	bclibfgljim
-芴	bcpjebgdh
+芴	bcpjafc
 楝	ablkaeg
 鶇	bdhlkjnm
 耷	efkjni
@@ -5804,7 +5803,7 @@ use_preset_vocabulary: false
 込	bhoi
 臆	ehkjmadpko
 髙	chimfcgm
-埸	fgliecpknimJ
+埸	fglieclojJ
 拊	abcojfgh
 荑	bcpobfcd
 芤	bcjnie
@@ -5868,7 +5867,7 @@ use_preset_vocabulary: false
 釅	aecdmbcgdpki
 楂	ablkadi
 楫	abmbcgd
-碭	abcgdhliecpknim
+碭	abcgdhliecloj
 戔	gdhnim
 呻	adpjni
 叺	hoi
@@ -6332,7 +6331,7 @@ use_preset_vocabulary: false
 鷦	efdpojnmabcghZ
 徂	egdljni
 錆	echlniehZ
-刎	ecpknimbf
+刎	eclojbf
 燔	abdpojnimaebf
 洸	aflpaech
 瀵	afpkonmaebfcdom
@@ -6350,7 +6349,7 @@ use_preset_vocabulary: false
 傛	fcpkojnifdm
 辵	afcjn
 舾	aefcgpoim
-颺	aefhliecpknim
+颺	aefhliecloj
 膾	ehoiaegli
 憮	acgdhniaebfcdpojnm
 泐	afkojaeb
@@ -6612,7 +6611,7 @@ use_preset_vocabulary: false
 歴	fdhlkabjn
 尥	aechpja
 噱	hlpkojnebdh
-唿	hpjebgdhpko
+唿	hpjafcpko
 禸	fcgkon
 黝	aegjibfghlpk
 缽	fcdlpiabi
@@ -7159,7 +7158,7 @@ use_preset_vocabulary: false
 蛯	acdhloniac
 喨	hjmagpojm
 黻	aecgdhkojnimabfl
-鍚	echliecpknimz
+鍚	echlieclojz
 凖	efhpoigh
 廨	aghpifcgdhoji
 瘳	abhlojnfdloj
@@ -7174,7 +7173,7 @@ use_preset_vocabulary: false
 琊	bcdlkoibfc
 晢	abcpkad
 呣	hlpon
-昜	adiecpknim
+昜	adiecloj
 籀	ebcdlkjfcgdhlpko
 媵	ehlkojicgh
 癶	abgdh
@@ -7234,7 +7233,7 @@ use_preset_vocabulary: false
 紝	aefkaebcdhZ
 纘	aefojiegljnZ
 墠	fgmadnm
-塲	fgniecpknim
+塲	fgniecloj
 駆	adhkoibdZ
 撟	abckfcgm
 蔌	bclkhojim
@@ -7279,7 +7278,7 @@ use_preset_vocabulary: false
 烺	abdlaebfg
 熻	abdoiafcglojn
 潸	aflkabpm
-沕	afpjebgdh
+沕	afpjafc
 褑	achloieflko
 繖	aeflpkojiehpki
 孋	cghiapkoji
@@ -7385,7 +7384,7 @@ use_preset_vocabulary: false
 蕢	bclpkojnidljnZ
 棼	ablkfhojnim
 欑	abojiegljn
-蜴	acdhliecpknim
+蜴	acdhliecloj
 躕	agdhlnmacdonm
 甁	bifl
 簰	ebcdpkojbcghnm
@@ -7510,7 +7509,7 @@ use_preset_vocabulary: false
 荄	bcjmbcgdhoi
 薀	bclofdkojim
 酲	aecdmbcd
-囫	cgdhpjebgdh
+囫	cgdhpjafc
 蹓	agdhpkjnfcgdhlpko
 罽	aegoimabdko
 嶢	aedonfglpjm
@@ -7656,7 +7655,7 @@ use_preset_vocabulary: false
 晫	adimadnm
 黹	aecgdhkojnimfcg
 賎	acgnimcd
-惣	fcdpjebgdhpko
+惣	fcdpjafcpko
 皝	ecdkjiaelpjm
 傞	fcpnmaefgh
 衎	egdigh
@@ -7808,7 +7807,7 @@ use_preset_vocabulary: false
 舲	aefcgoibh
 狚	abfhlid
 鰕	abfcghnglko
-怱	ecpknimapko
+怱	eclojapko
 讃	bghlpkjnmaebcghljn
 癧	abhoimfgdjn
 瘐	abhojnifd
@@ -8158,7 +8157,7 @@ use_preset_vocabulary: false
 賛	aebcghlpkjnmacg
 頬	cdlkiaegdZ
 耵	bcgdlpkji
-瑒	bcdliecpknim
+瑒	bcdliecloj
 藨	bcpkojiefcgh
 圀	cgdhomabg
 踣	agdhkjmh
@@ -8241,7 +8240,7 @@ use_preset_vocabulary: false
 襌	achmadnm
 躄	bcgmaefgdlnim
 媦	cghlpkoeh
-婸	cghliecpknim
+婸	cghliecloj
 坏	fgpon
 坶	fglpon
 撙	abcknaecdonm
@@ -8269,7 +8268,7 @@ use_preset_vocabulary: false
 蘘	bcjmfcghlpkn
 蒟	bckjmecm
 蒄	bclnegonm
-覅	efdhjnmecpknim
+覅	efdhjnmecloj
 猋	eflefl
 敊	aebfgdhlpdhlko
 敹	dhlnefcgdhpki
@@ -8298,7 +8297,7 @@ use_preset_vocabulary: false
 瘖	abhkjmad
 陊	bfcpkjebc
 頇	dnmaegdZ
-鬺	dmecpknim
+鬺	dmecloj
 璈	bcdlniaebpki
 璆	bcdlojnfdloj
 莿	bclkfcgko
@@ -8664,7 +8663,7 @@ use_preset_vocabulary: false
 晊	adpojn
 盳	bfcglknm
 簻	ebcdkmecgh
-簜	ebcdloecpknim
+簜	ebcdloecloj
 儜	fclmbfcdhlpkji
 鏻	echpkonmebclpknmZ
 漶	afmaebfcgdpko
@@ -9123,7 +9122,7 @@ use_preset_vocabulary: false
 犪	fcdljifhpoj
 閷	bdlkaecoi
 鐕	echkomegli
-鐋	echloecpknim
+鐋	echloecloj
 夘	ebcojn
 誷	bghojnacdlknm
 瑑	bcdlpkoiebdh
@@ -9178,7 +9177,7 @@ use_preset_vocabulary: false
 檓	abojniaefghlpkm
 砯	abcgdhkojnima
 祡	cgljaebfgh
-蝪	acdhliecpknimy
+蝪	acdhlieclojy
 甿	aebflknm
 旿	adnigh
 帾	aebdhloni
@@ -9217,7 +9216,7 @@ use_preset_vocabulary: false
 棯	aboigpko
 敧	eflpkjidhlko
 匽	bfdlicgh
-匢	bfdpjebgdh
+匢	bfdpjafc
 嚚	hmaecghm
 崝	aedlnieh
 崀	aedlaebfg
@@ -9443,13 +9442,13 @@ use_preset_vocabulary: false
 獫	abfhoifdoi
 胣	ehniaebc
 朣	ehkjmegdhji
-鯣	abfcghliecpknim
+鯣	abfcghliecloj
 鵻	abcghpoi
 襃	chpkjnablpkn
 竸	bchliadpn
 旐	abgniafpn
 憯	acgdhkomegli
-愓	acgdhliecpknimy
+愓	acgdhlieclojy
 憿	acgdhpjiabgpki
 窐	ebfcgdonfg
 禫	afhpoimadnm
@@ -9485,7 +9484,7 @@ use_preset_vocabulary: false
 鑯	echoiabcdhi
 魶	abfcghojnfd
 鰡	abfcghpkjnfcgdhlpko
-甮	ecpknimabfcgd
+甮	eclojabfcgd
 褢	chkjnmaebg
 炣	abdlpkjih
 熛	abdpoimaebfgh
@@ -9517,7 +9516,7 @@ use_preset_vocabulary: false
 酖	aecdlneg
 輴	bdhpkghkojn
 靆	abdhjicdhlo
-踼	agdhliecpknimy
+踼	agdhlieclojy
 緜	ecdlpkimblpo
 谼	fhoiaebfcdom
 鶹	ebcglaebflkjnmZ
@@ -9570,7 +9569,7 @@ use_preset_vocabulary: false
 愊	acgdhihlpko
 憭	acgdhpoadlp
 滍	aflpmdljim
-禓	afhliecpknim
+禓	afhliecloj
 雝	ebgmabcgpoi
 繷	aeflibflpkjn
 塤	fgmacgZ
@@ -9663,7 +9662,7 @@ use_preset_vocabulary: false
 愼	acgdhljeom
 懰	acgdhpkjnechko
 漧	afnmgdlpkjnim
-淴	afpjebgdhpko
+淴	afpjafcpko
 礿	afhpja
 鼆	aglifhpkojim
 瑃	bcdpkojm
@@ -9852,7 +9851,7 @@ use_preset_vocabulary: false
 蘤	bcpjifpojnm
 檝	abmbcgdnim
 欉	ablpjnimbcgdlko
-鸉	abliebgdhlkjnm
+鸉	abliafclkjnm
 霨	abdhkjnaebfghonm
 豝	ebdhlkjn
 磜	abcgdhlonimaebfgh
@@ -10270,7 +10269,7 @@ use_preset_vocabulary: false
 狿	abfhlpojbjn
 腶	ehojbgdlpkm
 膌	ehlofdpm
-曶	ecpknimad
+曶	eclojad
 皽	chjnimdkojm
 竫	bchpicdh
 癗	abhlkimaebf
@@ -10351,7 +10350,7 @@ use_preset_vocabulary: false
 壷	aebcdhlnhi
 駼	adhoifgdZ
 馻	adhkoneg
-薚	bciecpknim
+薚	bciecloj
 薉	bcjndlp
 樲	abonimcdljn
 槾	abliaeglko
@@ -10418,7 +10417,7 @@ use_preset_vocabulary: false
 蠰	acdhjmfcghlpkn
 幖	aebdhpoimaebfgh
 嶕	aedpoiefcgh
-岉	aedpjebgdh
+岉	aedpjafc
 罏	fcdlpiaebfkojim
 犗	fcdlmagdm
 穮	fgdpkojiefcgh
@@ -10451,7 +10450,7 @@ use_preset_vocabulary: false
 詑	bghlmac
 浧	afmbcd
 沜	afpkoj
-歾	dpkjecpknimJ
+歾	dpkjeclojJ
 墐	fglpkojihlni
 趮	ebhmhlk
 赸	ebhlpi
@@ -10512,7 +10511,7 @@ use_preset_vocabulary: false
 匳	bfdoifdoi
 蝒	acdhlkjnimdhj
 劋	hmabko
-逿	bhliecpknim
+逿	bhliecloj
 羃	aegkjeflpkim
 崰	aedpknaebf
 眅	bfcgpkabf
@@ -10847,7 +10846,7 @@ use_preset_vocabulary: false
 溾	afkjnm
 邧	cdpnbfc
 镻	aebdojifd
-鬄	aebdlojecpknim
+鬄	aebdlojecloj
 駪	adhojiegZ
 騉	adhliaclj
 薞	bciebcpkjm
@@ -10933,7 +10932,7 @@ use_preset_vocabulary: false
 曮	admbcgdpki
 罭	aegnimhi
 岏	aedjieg
-崵	aedliecpknim
+崵	aedliecloj
 睮	bfcgoiehko
 籈	ebcdpoimfl
 鄅	bmbfgkoj
@@ -10982,7 +10981,7 @@ use_preset_vocabulary: false
 雺	abdhpjnimgoj
 蝿	acdhliadp
 蚥	acdhombd
-昒	adpjebgdhy
+昒	adpjafcy
 鄨	bfcgdhojnhlkjn
 眃	bfcgjibfg
 幧	aebdhmhlk
@@ -11293,7 +11292,7 @@ use_preset_vocabulary: false
 裋	achihlji
 隇	bfclpkojdjnm
 隑	bfclpihlji
-緆	aefliecpknim
+緆	aefliecloj
 嫷	cghkojaefghpm
 縃	aefncgpm
 玿	bcdojnimh
@@ -12568,7 +12567,7 @@ use_preset_vocabulary: false
 薭	bconibcghnm
 桛	ablpkonimdim
 橦	abkjmegdhji
-鶍	adpjebgdhlkjnm
+鶍	adpjafclkjnm
 峂	aedpojefh
 籡	ebcdlkjfdoi
 䅟	fgdkonefloj
@@ -12833,7 +12832,7 @@ use_preset_vocabulary: false
 壳	aebcdhlnefch
 声	aebcdhkjn
 韫	aefghoadkojim
-场	fgoebgdh
+场	fgoafc
 韬	aefghoafdojni
 运	bhjibfg
 玮	bcdlponmf
@@ -12906,7 +12905,7 @@ use_preset_vocabulary: false
 摈	abclmafcgdhom
 扫	abcjim
 摊	abclkoefd
-扬	abcoebgdh
+扬	abcoafc
 报	abcojnabf
 掺	abckonefloj
 拟	abckonfd
@@ -12944,7 +12943,7 @@ use_preset_vocabulary: false
 丧	ghknebfd
 啬	ghljicgdhm
 蕲	bcknghpk
-荡	bclofpknim
+荡	bclofloj
 苎	bclmd
 茔	bclnfg
 莹	bclnbcdl
@@ -13005,7 +13004,7 @@ use_preset_vocabulary: false
 树	ablkofgh
 棂	abjimabd
 椭	abkojefpm
-杨	aboebgdh
+杨	aboafc
 厅	fdhlpkji
 厉	fdhiaeb
 压	fdhona
@@ -13193,7 +13192,7 @@ use_preset_vocabulary: false
 肾	bflkoeh
 竖	bflkobch
 紧	bflkoaef
-畅	ecgdoebgdh
+畅	ecgdoafc
 赋	acgifgdhjnJ
 赇	acgonmaflJ
 屿	aediei
@@ -13222,7 +13221,7 @@ use_preset_vocabulary: false
 帜	aebdhmfh
 贶	acgmegJ
 刚	fcgkibf
-赐	acgliecpknimJ
+赐	acglieclojJ
 幞	aebdhlpjnimegh
 岿	aedkocdh
 𪾢	bfcgpjnJ
@@ -13374,7 +13373,7 @@ use_preset_vocabulary: false
 戗	fdkjimgdh
 创	fdkjimbf
 贫	fhojnimacgJ
-饧	ebchoebgdh
+饧	ebchoafc
 颂	fhkonaegdJ
 饴	ebchkonhJ
 钘	echibcJ
@@ -13440,7 +13439,7 @@ use_preset_vocabulary: false
 锁	echlpacgJ
 钞	echlpbJ
 销	echlpehJ
-锡	echliecpknimJ
+锡	echlieclojJ
 镤	echlpjnimeghJ
 镗	echlphonJ
 铛	echlpcdh
@@ -13516,7 +13515,7 @@ use_preset_vocabulary: false
 锑	echknbfcdojJ
 镂	echpkonmcgh
 铫	echloegJ
-铴	echlofpknim
+铴	echlofloj
 锭	echlmdjnJ
 爱	afdlneflko
 镩	echpkojnihlpkojni
@@ -13867,7 +13866,7 @@ use_preset_vocabulary: false
 阕	aeclknimdpoJ
 阚	aecnbcgdpkiJ
 瘫	abhlkoefd
-疡	abhoebgdh
+疡	abhoafc
 瘾	abhkojcdhpkoJ
 疖	abhojn
 妆	abcgdjnm
@@ -13905,7 +13904,7 @@ use_preset_vocabulary: false
 恽	acgdhlnbdhJ
 烬	abdkjnapom
 忆	acgdhlpkjnim
-炀	abdoebgdh
+炀	abdoafc
 鹈	bgkojifclkjnmJ
 递	bhknbfcdoj
 惨	acgdhkonefloj
@@ -13972,9 +13971,9 @@ use_preset_vocabulary: false
 浔	afjimfgh
 滩	aflkoefd
 涨	afkojiaebdJ
-汤	afoebgdh
+汤	afoafc
 涩	afojnimajn
-烫	afoebgdhlki
+烫	afoafclki
 渗	afkonefloj
 潍	aflpoefdJ
 逦	bhifcgl
@@ -14216,7 +14215,7 @@ use_preset_vocabulary: false
 䴕	dpkjbflkjnmJ
 鴷	dpkjbflkjnmZ
 殀	dpkjbpo
-殇	dpkjfpknim
+殇	dpkjfloj
 趸	dlpkagdh
 劢	dlpkaeb
 欤	dpdojim
@@ -14297,7 +14296,7 @@ use_preset_vocabulary: false
 騃	adhkongd
 珲	bcdlnbdhJ
 𬍤	bcdjimfgh
-玚	bcdoebgdh
+玚	bcdoafc
 擣	abclpkjimhonm
 撷	abclpkjimhlpniJ
 撵	abcjifdkim
@@ -14453,7 +14452,7 @@ use_preset_vocabulary: false
 尴	aechkoebcdkojim
 䃅	abcgdhknadnm
 硁	abcgdhnalponm
-砀	abcgdhoebgdh
+砀	abcgdhoafc
 碜	abcgdhkonefloj
 赜	aecghlniacgJ
 鸫	bfhlpabcgh
@@ -14574,7 +14573,7 @@ use_preset_vocabulary: false
 㫰	adlaebfg
 鳖	bfcgdhojnebdlkojnmJ
 晖	adlnbdhzJ
-旸	adoebgdh
+旸	adoafc
 㬎	adkonmbfghpojnm
 睐	bfcgjibfcgdh
 䎃	fcgonafcglojny
@@ -14771,7 +14770,7 @@ use_preset_vocabulary: false
 𫔍	echpojnimaebfJ
 䝙	ebfhkoibd
 铄	echpkjnae
-锪	echpjebgdhpko
+锪	echpjafcpko
 锴	echljacpjiJ
 镵	echpieglJ
 铯	echpiabcgJ
@@ -14817,7 +14816,7 @@ use_preset_vocabulary: false
 钇	echlpkjnimJ
 钯	echlkjnJ
 镪	echkojihljimJ
-钖	echoebgdh
+钖	echoafc
 镠	echlojnfdlojJ
 鸼	aefcglkjnmJ
 舣	aefcglbd
@@ -14827,7 +14826,7 @@ use_preset_vocabulary: false
 飔	aefhlpkoebfJ
 凤	efchlko
 飗	aefhpkjnfcgdhlpko
-飏	aefhoebgdh
+飏	aefhoafc
 腼	ehlkjnimdhj
 颾	aefhlkoaljim
 䐃	ehjnimfgd
@@ -14846,7 +14845,7 @@ use_preset_vocabulary: false
 脍	ehoicdkon
 䏲	ehknbfcdoj
 𦝼	ehpkonmcgh
-肠	ehoebgdh
+肠	ehoafc
 鲾	abfcghihlpko
 𬶮	abfcghlpkjimacdmJ
 𩸽	abfcghkjfclj
@@ -14870,7 +14869,7 @@ use_preset_vocabulary: false
 鳢	abfcghlihljiJ
 鳁	abfcghlibfcdh
 鲗	abfcghljnbf
-觞	edlkojnifpknim
+觞	edlkojnifloj
 鰤	abfcghkdlpkim
 鲊	abfcghnidhJ
 鳈	abfcghpjibfcgdh
@@ -15713,7 +15712,7 @@ use_preset_vocabulary: false
 㺞	abfhojnicom
 𩶟	abfcghkbh
 𠺾	hkjifcdlp
-𬟎	bckjiecpknim
+𬟎	bckjiecloj
 𫫗	hponecg
 𨷑	eghpodkj
 𦓜	afgdljafdhpo
@@ -16967,7 +16966,7 @@ use_preset_vocabulary: false
 𠊚	fclidonm
 鯜	abfcghkjmcgh
 𨎟	bdhlpkoefcm
-𢥉	acgdhkjecpknim
+𢥉	acgdhkjecloj
 㗶	hlknimbfcdlpkm
 𡮹	aekdpkim
 𣠑	abpkjiefclni
@@ -17001,7 +17000,7 @@ use_preset_vocabulary: false
 𩈂	abcdhljimabcdhpko
 𦄞	aeflpjh
 咘	hpoaebdh
-㧾	abcpjebgdhpko
+㧾	abcpjafcpko
 𡂱	hlknimacdkoj
 𣜴	aboibfpko
 𤹖	abhkimdnm
@@ -17533,7 +17532,7 @@ use_preset_vocabulary: false
 𦙏	ehlpiaebcgdh
 𨔾	bhloni
 𪀐	abcghkbh
-𬀺	abfcgliecpknim
+𬀺	abfcgliecloj
 䑅	ehkjagpkj
 𬩢	bhpojimbckjm
 𠸡	hlobkojim
@@ -18489,7 +18488,7 @@ use_preset_vocabulary: false
 𪛅	agdhpojedpkojim
 𦟽	ehlmblpi
 𪨖	bcgponiegdh
-𢪥	efgdhpjebgdh
+𢪥	efgdhpjafc
 𫚳	abcghimh
 𫅲	afcglojnadpy
 揬	abcpkojniefl
@@ -19060,7 +19059,7 @@ use_preset_vocabulary: false
 𠻂	hlpibgh
 𢯘	abckjfclj
 𬛏	abcgdljbdlpm
-𠤆	ecpknimafloni
+𠤆	eclojafloni
 㖔	hiefm
 𩷊	abfcghlpmebd
 𥺎	ebfghljnifh
@@ -19234,7 +19233,7 @@ use_preset_vocabulary: false
 秱	fgdojndm
 𬤴	fhoihlpni
 𬎣	ebcghkbh
-𫪏	hloecpknim
+𫪏	hloecloj
 𬏌	ecdhpkmabfcg
 𬗻	aeflponmabfkojim
 𧙽	achljim
@@ -19768,7 +19767,7 @@ use_preset_vocabulary: false
 𠼴	hljaegd
 𬞚	bclkjnimfdnm
 𬧇	agdhloafdjnm
-𡒮	ecgdliebgdhon
+𡒮	ecgdliafcon
 𨦁	echojaebcdh
 𢵉	abcljnbkm
 𢚹	acgdhlidlpkom
@@ -19795,7 +19794,7 @@ use_preset_vocabulary: false
 𥶯	bcghpkjiecdh
 𬂇	ehkjibfkji
 㧵	abcponh
-𢪱	abcpjebgdh
+𢪱	abcpjafc
 𢖕	egdkonmebfghjnm
 𪩬	abcgpic
 𩚧	ebchnimZ
@@ -20093,7 +20092,7 @@ use_preset_vocabulary: false
 𤯱	eflpkjihpoji
 𥻠	ebfghkojnaek
 𡮋	aelkebd
-啺	hliecpknim
+啺	hliecloj
 𪾦	bfcgimbcg
 𨫅	echojfcgkj
 𢱒	abcpnmef
@@ -20263,7 +20262,7 @@ use_preset_vocabulary: false
 𠺺	hlkfgon
 𢃉	aebdhmaebko
 𣺼	aflphpn
-𪷡	afljimecpknim
+𪷡	afljimecloj
 𫊐	bcnmfglpjm
 𠅐	fcdoiabgh
 𥑴	abcgdhjmaebg
@@ -20530,7 +20529,7 @@ use_preset_vocabulary: false
 𣹟	aflponmacg
 𬝴	bclonefd
 𩻟	abfcghloifpojnm
-𠤌	ecpknimbghloni
+𠤌	eclojbghloni
 炩	abdoibh
 𥮈	ebcdpoghkj
 𫂋	ebcdojnmab
@@ -20633,7 +20632,7 @@ use_preset_vocabulary: false
 𡂳	hlkjnimabcgdhlkjnim
 𤌅	abdkojefclpknm
 𡓮	aedkjnmfdon
-𫻜	ecpknimapojnm
+𫻜	eclojapojnm
 𧤁	edlkojnifhpoj
 𬂑	efpmfdhpoji
 𤊰	abdjmfhlko
@@ -20754,7 +20753,7 @@ use_preset_vocabulary: false
 𭆺	high
 𫴲	cdhonmcdkoj
 𬠳	acdhkjagpkj
-𥚯	afhpecpknim
+𥚯	afhpecloj
 𧐽	acdhloabdlki
 䊷	aefonmb
 𠵐	hljnimfgkon
@@ -21113,7 +21112,7 @@ use_preset_vocabulary: false
 𫴼	aeconmblpZ
 𦁁	aefljnimgnm
 𦁸	aefoihojn
-𬁏	afgonmecpknim
+𬁏	afgonmecloj
 洷	afpojn
 䉒	ebcdpojnimaebf
 㙴	fgpifhknm
@@ -21733,7 +21732,7 @@ use_preset_vocabulary: false
 𢧲	efgdhnimacji
 㭽	ablnmebcgl
 樑	ablofhlk
-𱐾	adhpjebgdh
+𱐾	adhpjafc
 𣒱	abmfcdhy
 𢹾	abckaglpkim
 𡦧	fgdjnifdnm
@@ -21920,7 +21919,7 @@ use_preset_vocabulary: false
 𣼴	afkimfcdh
 𤡛	abfhlmbfcdhlpkjiy
 𬕌	ebcdlnmab
-𧉚	acdhpjebgdh
+𧉚	acdhpjafc
 𢄂	acgdlpkchlpkim
 𨆢	agdhlkimaebf
 𪜚	aflkebdlpkjnim
@@ -22141,7 +22140,7 @@ use_preset_vocabulary: false
 𪄧	abcghkmacdlpm
 𠲕	hlnmfg
 𠹽	hkjbcgdhoi
-𫽌	abclpkmecpknim
+𫽌	abclpkmecloj
 𣹘	afpnifgonm
 㭼	abkojnimad
 𧊌	acdhlponmaebfh
