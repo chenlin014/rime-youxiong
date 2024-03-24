@@ -1,26 +1,30 @@
 use_wikibase_layout:
   chord_composer/+:
-    alphabet: 'zsvrkolejtpngiuafcmy'
+    alphabet: 'zsvrkole*cjtpngiua/m+d-h'
     algebra:
-      - xlit/zvklsroeugpjaintfcmy/abcdefghijklmnopxwyz/
+      - xlit|zvkl*sroec/ugpjmaint+d-h|abcdefghijklmnopqrstyyzz|
+      - xform|yy|y|
+      - xform|zz|z|
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: 'qawsedrfp;olikujcvnm'
+    alphabet: 'qawsedrfbvp;olikujnmtgyh'
     algebra:
-      - xlit/qwerasdfuiopjkl;cvnm/abcdefghijklmnopxwyz/
-      - xform|^p$|;|
+      - xlit|qwerbasdfvnuiopmjkl;tgyh|abcdefghijklmnopqrstyyzz|
+      - xform|^t$|;|
+      - xform|yy|y|
+      - xform|zz|z|
 
 simp_char_priority:
   speller/+:
     algebra:
-      - "xform/^([a-p]+)JW$/$1/"
-      - "xform/^([a-p]+)J$/$1/"
-      - "xform/^([a-p]+)[ZWNH]$/$1y/"
+      - "xform/^([a-t]+)JW$/$1/"
+      - "xform/^([a-t]+)J$/$1/"
+      - "xform/^([a-t]+)[ZWNH]$/$1y/"
 
 trad_char_priority:
   speller/+:
     algebra:
-      - "xform/^([a-p]+)JW$/$1y/"
-      - "xform/^([a-p]+)Z$/$1/"
-      - "xform/^([a-p]+)[JWNH]$/$1y/"
+      - "xform/^([a-t]+)JW$/$1y/"
+      - "xform/^([a-t]+)Z$/$1/"
+      - "xform/^([a-t]+)[JWNH]$/$1y/"
