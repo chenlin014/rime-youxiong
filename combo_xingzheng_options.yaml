@@ -5,9 +5,29 @@ use_qwerty_layout:
     alphabet: 'qawsedrfbvp;olikujnmtgyh'
     algebra:
       - xlit|qwerbasdfvnuiopmjkl;tgyh|abcdefghijklmnopqrstyyzz|
-      - xform|^t$|;|
       - xform|yy|y|
       - xform|zz|z|
+      - xform|^t$|;|
+
+use_dvorak_layout:
+  chord_composer/+:
+    alphabet: "'a,o.epuxklsrnctghbmyifd"
+    algebra:
+      - xlit|'a,o\.pxaoeukbgcrlmhtnsyifd|abcdefghijklmnopqrstyyzz|
+      - xform|yy|y|
+      - xform|zz|z|
+      - xform|^a$|'|
+      - xform|^c$|,|
+      - xform|^e$|.|
+
+use_colemak_layout:
+  chord_composer/+:
+    alphabet: 'qawrfsptbv;oyiuelnkm'
+    algebra:
+      - xlit|qwfpbarstvkluy;mneiogdjh|abcdefghijklmnopqrstyyzz|
+      - xform|yy|y|
+      - xform|zz|z|
+      - xform|^o$|.|
 
 # 维基果
 #

@@ -70,6 +70,8 @@ recognizer:
 __patch:
   # 鍵盘布局
   - combo_xingzheng_options:/use_qwerty_layout
+  #- combo_xingzheng_options:/use_dvorak_layout
+  #- combo_xingzheng_options:/use_colemak_layout
   #- combo_xingzheng_options:/use_wikibase_layout
   # 用字標準
   - combo_xingzheng_options:/trad_char_priority
