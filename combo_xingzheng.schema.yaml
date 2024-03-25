@@ -57,6 +57,8 @@ translator:
   enable_user_dict: false
 
 chord_composer:
+  algebra:
+    - xform|^ek$| |
 
 punctuator:
   import_preset: default
@@ -74,3 +76,5 @@ __patch:
   # 用字標準
   - combo_xingzheng_options:/trad_char_priority
   #- combo_xingzheng_options:/simp_char_priority
+  # 上屏
+  - combo_xingzheng_options:/text_commit

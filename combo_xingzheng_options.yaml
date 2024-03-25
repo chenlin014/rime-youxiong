@@ -1,10 +1,8 @@
 use_wikibase_layout:
   chord_composer/+:
-    alphabet: 'zsvrkole*cjtpngiua/m+d-h'
+    alphabet: 'zsvrkolecfjtpngiuamydh'
     algebra:
-      - xlit|zvkl*sroec/ugpjmaint+d-h|abcdefghijklmnopqrstyyzz|
-      - xform|yy|y|
-      - xform|zz|z|
+      - xlit|zvklcsroefmugpjyaintdh|abcdefghijklmnopqrstyz|
 
 use_qwerty_layout:
   chord_composer/+:
@@ -28,3 +26,8 @@ trad_char_priority:
       - "xform/^([a-t]+)JW$/$1y/"
       - "xform/^([a-t]+)Z$/$1/"
       - "xform/^([a-t]+)[JWNH]$/$1y/"
+
+text_commit:
+  chord_composer/+:
+    algebra/+:
+      - xform|^e$| |
