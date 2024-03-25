@@ -13,7 +13,7 @@ use_dvorak_layout:
   chord_composer/+:
     alphabet: "'a,o.epuxklsrnctghbmyifd"
     algebra:
-      - xlit|'a,o\.pxaoeukbgcrlmhtnsyifd|abcdefghijklmnopqrstyyzz|
+      - xlit|'a,o.pxaoeukbgcrlmhtnsyifd|abcdefghijklmnopqrstyyzz|
       - xform|yy|y|
       - xform|zz|z|
       - xform|^a$|'|
@@ -27,16 +27,22 @@ use_colemak_layout:
       - xlit|qwfpbarstvkluy;mneiogdjh|abcdefghijklmnopqrstyyzz|
       - xform|yy|y|
       - xform|zz|z|
-      - xform|^o$|.|
+      - xform|^o$|;|
 
 # 维基果
 #
 # 我自制的键盘局布
 use_wikibase_layout:
   chord_composer/+:
-    alphabet: 'zsvrkolecfjtpngiuamydh'
+    alphabet: "zsvrkole,cjtpngiua.m/d'h"
     algebra:
-      - xlit|zvklcsroefmugpjyaintdh|abcdefghijklmnopqrstyz|
+      - xlit|zvkl,sroec.ugpjmaint/d'h|abcdefghijklmnopqrstyyzz|
+      - xform|yy|y|
+      - xform|zz|z|
+      - xform|^y$|/|
+      - xform|^z$|'|
+      - xform|^e$|,|
+      - xform|^k$|.|
 
 # === 用字标准 ===
 # Z：正體字
@@ -65,4 +71,4 @@ trad_char_priority:
 text_commit:
   chord_composer/+:
     algebra/+:
-      - xform|^e$| |
+      - xform|^ej$| |
