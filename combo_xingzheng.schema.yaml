@@ -4,11 +4,11 @@
 schema:
   schema_id: combo_xingzheng
   name: 并击新郑
-  version: '0.0'
+  version: '0.1'
   author:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
-    新郑
+    并击形码输入法
 
 switches:
   - name: ascii_mode
@@ -43,6 +43,8 @@ engine:
   filters:
     - uniquifier
 
+chord_composer:
+
 editor:
   bindings:
     BackSpace: back_syllable
@@ -55,10 +57,6 @@ speller:
 translator:
   dictionary: combo_xingzheng
   enable_user_dict: false
-
-chord_composer:
-  algebra:
-    - xform|^ek$| |
 
 punctuator:
   import_preset: default

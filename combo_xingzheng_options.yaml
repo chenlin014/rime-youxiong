@@ -1,8 +1,4 @@
-use_wikibase_layout:
-  chord_composer/+:
-    alphabet: 'zsvrkolecfjtpngiuamydh'
-    algebra:
-      - xlit|zvklcsroefmugpjyaintdh|abcdefghijklmnopqrstyz|
+# === 键盘布局 ===
 
 use_qwerty_layout:
   chord_composer/+:
@@ -13,6 +9,23 @@ use_qwerty_layout:
       - xform|yy|y|
       - xform|zz|z|
 
+# 维基果
+#
+# 我自制的键盘局布
+use_wikibase_layout:
+  chord_composer/+:
+    alphabet: 'zsvrkolecfjtpngiuamydh'
+    algebra:
+      - xlit|zvklcsroefmugpjyaintdh|abcdefghijklmnopqrstyz|
+
+# === 用字标准 ===
+# Z：正體字
+# J：简体字
+# W：日本漢字，新字体
+# N：越南漢字，喃字
+# H：朝鮮漢字
+
+# 简体字
 simp_char_priority:
   speller/+:
     algebra:
@@ -20,6 +33,7 @@ simp_char_priority:
       - "xform/^([a-t]+)J$/$1/"
       - "xform/^([a-t]+)[ZWNH]$/$1y/"
 
+# 正體字
 trad_char_priority:
   speller/+:
     algebra:
@@ -27,6 +41,7 @@ trad_char_priority:
       - "xform/^([a-t]+)Z$/$1/"
       - "xform/^([a-t]+)[JWNH]$/$1y/"
 
+# 上屏
 text_commit:
   chord_composer/+:
     algebra/+:
