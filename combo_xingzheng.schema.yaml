@@ -76,5 +76,5 @@ __patch:
   # 用字標準
   - combo_xingzheng_options:/trad_char_priority
   #- combo_xingzheng_options:/simp_char_priority
-  # 上屏
-  - combo_xingzheng_options:/text_commit
+  # 汉字以外的字符
+  - combo_xingzheng_options:/non_han_char
