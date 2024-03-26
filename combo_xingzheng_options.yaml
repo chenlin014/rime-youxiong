@@ -91,9 +91,9 @@ non_han_char:
       - xform|^inz$|;|
       - xform|^iqz$|:|
       - xform|^bz$|'|
-      - xform|^nr$||
+      - xform|^nr$|"|
       - xform|^o$|\|
-      - xform|^m$|||
+      - xform/^m$/|/
       - xform|^fgheomqz$|`|
       - xform|^agolqz$|~|
       - xform|^cqz$|!|
@@ -106,7 +106,7 @@ non_han_char:
       - xform|^adsmlpz$|*|
       - xform|^fz$|(|
       - xform|^t$|)|
-      - xform|^fgirlqkz$|-|
+      - xform|^dz$|-|
       - xform|^abhomqz$|_|
       - xform|^afbqz$|+|
       - xform|^besrz$|=|
