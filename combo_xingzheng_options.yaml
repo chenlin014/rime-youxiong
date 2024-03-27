@@ -72,6 +72,7 @@ non_han_char:
   chord_composer/+:
     algebra/+:
       - xform|^ej$| |
+      - xform|^kp$|\r|
       - xform|^iz$|0|
       - xform|^l$|1|
       - xform|^ml$|2|
