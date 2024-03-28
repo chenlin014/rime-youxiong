@@ -50,7 +50,7 @@ editor:
     BackSpace: back_syllable
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyz
+  alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
   auto_select: true
   auto_select_unique_candidate: true
 
