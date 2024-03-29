@@ -7,6 +7,11 @@ use_qwerty_layout:
       - xlit|qweruiopasdfjkl;vbnmtgyh|abcdDCBAghijJIHGtuUTyyzz|
       - xform|yy|y|
       - xform|zz|z|
+
+# 恢复标点符号
+res_qwerty_punc:
+  chord_composer/+:
+    algebra/+:
       - xform|^G$|;|
 
 use_dvorak_layout:
@@ -16,6 +21,10 @@ use_dvorak_layout:
       - xlit|',.pgcrlaoeuhtnskxbmyifd|abcdDCBAghijJIHGtuUTyyzz|
       - xform|yy|y|
       - xform|zz|z|
+
+res_dvorak_punc:
+  chord_composer/+:
+    algebra/+:
       - xform|^a$|'|
       - xform|^b$|,|
       - xform|^c$|.|
@@ -27,6 +36,10 @@ use_colemak_layout:
       - xlit|qwfpluy;arstneiovbkmgdjh|abcdDCBAghijJIHGtuUTyyzz|
       - xform|yy|y|
       - xform|zz|z|
+
+res_colemak_punc:
+  chord_composer/+:
+    algebra/+:
       - xform|^A$|;|
 
 # 维基果
@@ -39,6 +52,10 @@ use_wikibase_layout:
       - xlit|zvklugpjsroeaintc,.m/d'h|abcdDCBAghijJIHGtuUTyyzz|
       - xform|yy|y|
       - xform|zz|z|
+
+res_wikibase_punc:
+  chord_composer/+:
+    algebra/+:
       - xform|^y$|/|
       - xform|^z$|'|
       - xform|^u$|,|
@@ -67,8 +84,8 @@ trad_char_priority:
       - "xform/^([a-uA-U]+)Z$/$1/"
       - "xform/^([a-uA-U]+)[XYWV]$/$1y/"
 
-# 汉字以外的字符
-non_han_char:
+# 以并击输入标点符号
+punc_chord:
   chord_composer/+:
     algebra/+:
       - xform|^ut$| |

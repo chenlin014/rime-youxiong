@@ -70,11 +70,16 @@ recognizer:
 __patch:
   # 鍵盘布局
   - combo_xingzheng_options:/use_qwerty_layout
+  # 恢复標點符號
+  - combo_xingzheng_options:/res_qwerty_punc
   #- combo_xingzheng_options:/use_dvorak_layout
+  #- combo_xingzheng_options:/res_dvorak_punc
   #- combo_xingzheng_options:/use_colemak_layout
+  #- combo_xingzheng_options:/res_colemak_punc
   #- combo_xingzheng_options:/use_wikibase_layout
+  #- combo_xingzheng_options:/res_wikibase_punc
   # 用字標準
   - combo_xingzheng_options:/trad_char_priority
   #- combo_xingzheng_options:/simp_char_priority
-  # 汉字以外的字符
-  - combo_xingzheng_options:/non_han_char
+  # 以並擊輸入標點符號
+  #- combo_xingzheng_options:/punc_chord
