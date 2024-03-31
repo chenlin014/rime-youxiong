@@ -99,40 +99,40 @@ punc_chord:
       - xform|^D$|1|
       - xform|^CD$|2|
       - xform|^BCDU$|3|
-      - xform|^HDJ$|4|
-      - xform|^abcIz$|5|
+      - xform|^AGBH$|4|
+      - xform|^cduIz$|5|
       - xform|^cjHJz$|6|
-      - xform|^BHIJ$|7|
+      - xform|^ABD$|7|
       - xform|^HJ$|8|
-      - xform|^GHCJ$|9|
+      - xform|^AIJ$|9|
       - xform|^B$|,|
       - xform|^J$|.|
-      - xform|^agiz$|<|
-      - xform|^AGI$|>|
+      - xform|^agjz$|<|
+      - xform|^AGJ$|>|
       - xform|^bhcHDz$|/|
-      - xform|^hcjJz$|?|
+      - xform|^gcjJz$|?|
       - xform|^jBz$|;|
       - xform|^jJz$|:|
       - xform|^bz$|'|
       - xform|^BI$|"|
       - xform|^A$|\|
       - xform/^C$/|/
-      - xform|^ghiuACJz$|`|
-      - xform|^ahADJz$|~|
+      - xform|^hijGHCz$|`|
+      - xform|^auABHz$|~|
       - xform|^cJz$|!|
       - xform|^ghCz$|@|
-      - xform|^cdGBCz$|#|
-      - xform|^dGHDz$|%|
+      - xform|^cdCUz$|#|
+      - xform|^dGBCz$|%|
       - xform|^hduIDJz$|$|
-      - xform|^aiBCz$|^|
+      - xform|^aiABz$|^|
       - xform|^dGz$|&|
       - xform|^adHCDTz$|*|
       - xform|^gz$|(|
       - xform|^G$|)|
       - xform|^dz$|-|
-      - xform|^abiACJz$|_|
-      - xform|^agbJz$|+|
-      - xform|^buHIz$|=|
+      - xform|^abiGHCz$|_|
+      - xform|^bhdJz$|+|
+      - xform|^iduHIz$|=|
       - xform|^iz$|[|
       - xform|^I$|]|
       - xform|^aiz$|{|
