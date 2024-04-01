@@ -101,7 +101,7 @@ use_preset_vocabulary: false
 月	gj
 真	ijCIDJUThj
 吃	jIDhu
-發	bdjtADJghjut
+發	bdjuADJghjut
 並	acdBHU
 它	ajAC
 其	abt
@@ -339,7 +339,7 @@ use_preset_vocabulary: false
 頂	dtABCUTZ
 某	abuBC
 條	hcCbijuBC
-亂	gbuBDJUbdjG
+亂	gbuBDJbdjG
 唔	jDiuJ
 馬	ahiutZ
 遠	bjHIjGHCU
@@ -457,7 +457,7 @@ use_preset_vocabulary: false
 清	auBCDTgj
 提	hijADdCI
 除	bhcHDbcu
-通	bjBDJUgju
+通	bjBDJgju
 酒	auGBJU
 貓	gctABbhci
 餓	hdtHIJUidjZ
@@ -567,7 +567,7 @@ use_preset_vocabulary: false
 流	auCJbhiCU
 噶	jABhdG
 招	hijBHDUj
-痛	abjBDJUgju
+痛	abjBDJgju
 列	dBIJbh
 石	abc
 香	bcuAD
@@ -632,7 +632,7 @@ use_preset_vocabulary: false
 刀	bhdu
 喔	jBCIabdu
 波	auABH
-證	cjuBDJTjACD
+證	cjuBDJUjACD
 鐵	hduHIbcdIDJ
 推	hijHCU
 落	abAUbijuJ
@@ -745,7 +745,7 @@ use_preset_vocabulary: false
 首	acdGCD
 思	bhciHCI
 橋	bcBhcjJ
-燈	biuBDJTjACD
+燈	biuBDJUjACD
 郭	cjJcidBHC
 亮	cjJaiGHJ
 干	dIJ
@@ -977,7 +977,7 @@ use_preset_vocabulary: false
 兼	acdCDJbhHJ
 溫	auJUhdAGBHU
 娘	cijAcdju
-登	bdjtDjACD
+登	bdjuDjACD
 悶	gcjHCIZ
 微	btHDJghjIDT
 佳	hcHIhi
@@ -1071,7 +1071,7 @@ use_preset_vocabulary: false
 扔	hijHb
 爭	gbuCDJ
 游	auCJTidCID
-鄧	bdjtDacdBHC
+鄧	bdjuDacdBHC
 腰	gjGBJcij
 嫩	cijBCjIDT
 肖	agGJ
@@ -1298,7 +1298,7 @@ use_preset_vocabulary: false
 鋪	hduGBIUZ
 薩	abBHCbHCDT
 揚	hijADgcBU
-勇	bdjuGJUbhd
+勇	bdjGJUbhd
 財	cidjuDUbZ
 鍊	hduBCagbh
 終	guBIJUahZ
@@ -1381,7 +1381,7 @@ use_preset_vocabulary: false
 播	hijBCTbhci
 岩	hdjABC
 逗	bjDjACD
-廢	abiBDJTadjGHJUT
+廢	abiBDJUadjGHJUT
 賢	gdjuBDJcidju
 限	bhcCDJU
 帝	cjBIaiHCJU
@@ -1404,7 +1404,7 @@ use_preset_vocabulary: false
 驚	abGCidtAHIUT
 坑	hiCJghj
 備	hcIJUbGJU
-撥	hijBDJTadjGHJUT
+撥	hijBDJUadjGHJUT
 袋	hcIDJTcjGHCU
 趁	citHDbu
 妖	cijBgh
@@ -1577,7 +1577,7 @@ use_preset_vocabulary: false
 俗	hcHJhdJ
 爺	hjBDabutBHC
 啓	acjIDTj
-霧	gbiBDJUbijuBHD
+霧	gbiBDJbijuBHD
 珍	bcdHDbu
 卓	djADij
 韋	iuJhcdu
@@ -1598,7 +1598,7 @@ use_preset_vocabulary: false
 歪	abcuDci
 晃	adAGghu
 斜	hdBCUahIJ
-預	bdjuIcABCUTZ
+預	bdjIcABCUTZ
 鄒	gcBHJbhjBHC
 崗	hdjHCJacdHDJ
 尤	ghu
@@ -1663,7 +1663,7 @@ use_preset_vocabulary: false
 潔	auBCDTbhduGU
 盟	adGJagbhu
 延	bhcuBci
-柔	bdjuIbBC
+柔	bdjIhcBC
 資	ahGDTcidjuZ
 粒	acduBCJ
 嶺	hdjHDbjABCUT
@@ -1677,7 +1677,7 @@ use_preset_vocabulary: false
 燙	auADbuBIU
 瑪	bcdAHIUTZ
 刮	hiduBH
-彡	bu
+勿	gcBU
 坤	hiBHCIUT
 汁	auIJ
 冊	hcjAB
@@ -1689,7 +1689,7 @@ use_preset_vocabulary: false
 鈣	hduDdjGZ
 菌	abJUbcu
 敵	cjBIjIDT
-桶	bcBDJUgju
+桶	bcBDJgju
 抹	hijDbc
 判	gijuBH
 寵	ajAHITZ
@@ -1726,7 +1726,7 @@ use_preset_vocabulary: false
 移	bcuBIJbij
 搖	hijBIJhcdHDJ
 畢	bhcitABcd
-予	bdjuIc
+予	bdjIc
 岳	gbutHDJ
 屎	bciACDU
 融	dJdtBHIU
@@ -1798,7 +1798,7 @@ use_preset_vocabulary: false
 丸	aiju
 券	gijuBHDU
 獃	hdjDghA
-辭	gbuBDJUbdjBCJU
+辭	gbuBDJbdjBCJU
 縫	guBJbijuBCDTZ
 俱	hcCIDJUThj
 菊	abGCacdu
@@ -1938,7 +1938,7 @@ use_preset_vocabulary: false
 窄	ajuIDdj
 昨	adIDdj
 倪	hcGHDgi
-務	bdjuIbijuBHD
+務	bdjIbijuBHD
 雯	gbiCJUT
 戈	idj
 爪	gbu
@@ -1950,7 +1950,7 @@ use_preset_vocabulary: false
 汝	auCIJ
 撮	hijADabutBDJ
 幸	hiGIJU
-揉	hijBDJUbBC
+揉	hijBDJhcBC
 醬	bhjuBIJduGBJU
 舟	ghiu
 訴	cjuGBaZ
@@ -1959,7 +1959,7 @@ use_preset_vocabulary: false
 繡	guCDJctBHJU
 蜜	ajHCIbBHIU
 漂	auGBJcdt
-序	abiBDJUiC
+序	abiBDJiC
 巷	ijuHJaciu
 梨	bcuBHbc
 舌	hidu
@@ -2239,8 +2239,8 @@ use_preset_vocabulary: false
 姿	ahGDTcij
 炫	biuCJgt
 賜	cidjuADgcBUZ
-湧	auBDJUgjuBHD
-潑	auBDJTadjGHJUT
+湧	auBDJgjuBHD
+潑	auBDJUadjGHJUT
 坎	hiGDT
 琦	bcdGHdtJ
 拌	hijGIJU
@@ -2334,7 +2334,7 @@ use_preset_vocabulary: false
 眠	cidjACIUabd
 途	bjHDbcu
 鄂	jJhtBHC
-捅	hijBDJUgju
+捅	hijBDJgju
 叢	bhuGIJabutBDJ
 禾	bcu
 磁	abcACDgtGT
@@ -2416,7 +2416,7 @@ use_preset_vocabulary: false
 凹	hcjDhcjD
 葬	abDacAB
 咦	jGHadj
-瞪	cidjBDJTjACD
+瞪	cidjBDJUjACD
 詹	gdAHIhjCJU
 侃	hcJcu
 授	hijGBUaiBDJ
@@ -2451,7 +2451,7 @@ use_preset_vocabulary: false
 禹	bJhcjBHI
 娥	cijHIJUidj
 醇	gbjuCJjCID
-橙	bcBDJTjACD
+橙	bcBDJUjACD
 辨	bcjuBHbcju
 暮	abADghAD
 祕	bjuHCIb
@@ -2480,7 +2480,7 @@ use_preset_vocabulary: false
 芒	abABJU
 畔	bhciGIJU
 豹	gctGCa
-澄	auBDJTjACD
+澄	auBDJUjACD
 冥	aiADcjHJ
 媒	cijABUbc
 燦	biuDJbdjACDU
@@ -2491,13 +2491,13 @@ use_preset_vocabulary: false
 塑	acdBHJgjHI
 卜	dj
 構	bcABUhcjHI
-茅	abBDJUcB
+茅	abBDJiHC
 鉅	hduGDJiZ
 慾	hjHDgdtHCI
 搏	hijGBIUdu
 鑄	hduHIUjDU
 沐	auBC
-豫	bdjuIjGHT
+豫	bdjIjGHT
 蒜	abCDTcdt
 淩	auHIhjBIJU
 雀	agBhcu
@@ -2578,7 +2578,7 @@ use_preset_vocabulary: false
 瀾	auGCJbcAGBHZ
 悔	hciuIDagi
 敦	cjJcidIDT
-葵	abBDJTdGH
+葵	abBDJUdGH
 煒	biuIUjHCDU
 磕	abcHIbhiAGBHU
 顫	cjJUdABCUTZ
@@ -2652,7 +2652,7 @@ use_preset_vocabulary: false
 睜	cidjGBUcdj
 撓	hijHIhiGHU
 掩	hijGHadG
-蹬	ciutBDJTjACD
+蹬	ciutBDJUjACD
 泳	auAagu
 玫	bcdIDT
 椅	bcGHdtJ
@@ -2694,7 +2694,7 @@ use_preset_vocabulary: false
 眨	cidjBbj
 循	btGBijCIDJ
 臀	bciIJUghjutGJ
-矛	bdjuIhc
+矛	bdjIhc
 努	cijBDJbhd
 黔	agbhCDaI
 乏	bBJ
@@ -2998,7 +2998,7 @@ use_preset_vocabulary: false
 槐	bcGBD
 粟	gbjACDU
 唆	jBHIhjBIJU
-誦	cjuBDJUgjuZ
+誦	cjuBDJgjuZ
 綜	guAJcdtZ
 詢	cjuGCadZ
 劃	cdjCDdBH
@@ -3134,7 +3134,7 @@ use_preset_vocabulary: false
 綴	guBDJbdjBDJZ
 軋	ghiGZ
 酬	gbjuATcu
-橘	bcBDJUhjJ
+橘	bcBDJhjJ
 啪	jHIJgbc
 睛	cidjBCDTgj
 斂	hdDhdIDT
@@ -3338,7 +3338,7 @@ use_preset_vocabulary: false
 匣	gdjBHCIT
 鉬	hduCIDJZ
 銹	hduBCUhBZ
-凳	bdjtDacdGHJ
+凳	bdjuDacdGHJ
 隙	bhcAGadAG
 娣	cijBIadjHC
 驟	ahiutABUTbdjGHTZ
@@ -3484,7 +3484,7 @@ use_preset_vocabulary: false
 癟	abjGCDhcjAB
 槳	bhjuBIJduBC
 恪	hciuBIJUj
-涌	auBDJUgju
+涌	auBDJgju
 妒	cijACJ
 醯	gbjuCJcuAGBHU
 圩	hiDdu
@@ -3759,7 +3759,7 @@ use_preset_vocabulary: false
 崴	hdjIDJUdCIJ
 胯	gjGHdHT
 眷	gijuCIDJ
-癸	bdjtDgh
+癸	bdjuDgh
 緞	guHCbcduGHJUTZ
 馴	ahiutCUZ
 蟎	bhiuIJUhdHD
@@ -3819,9 +3819,9 @@ use_preset_vocabulary: false
 帛	gbcHCJU
 膨	gjHIUacdBU
 涐	auHIJUidj
-甬	bdjuGJU
+甬	bdjGJU
 琉	bcdCJbhiCU
-抒	hijBDJUiC
+抒	hijBDJiC
 薊	abGDUbhZ
 酌	gbjuGCa
 榭	bcGCDUdu
@@ -3867,7 +3867,7 @@ use_preset_vocabulary: false
 陂	bhcABH
 藺	abGCJhcuZ
 軾	ghiIDJTcdu
-蛹	bhiuBDJUgju
+蛹	bhiuBDJgju
 丿	b
 儷	hcDaABIU
 僦	hcCJagGHU
@@ -3912,7 +3912,7 @@ use_preset_vocabulary: false
 榻	bcADagdAGD
 嗡	jHJagdAGD
 漣	auBJghiZ
-妤	cijBDJUiC
+妤	cijBDJiC
 墒	hiCJhjJ
 瑄	bcdAJcdAD
 隼	hcuIJ
@@ -4182,7 +4182,7 @@ use_preset_vocabulary: false
 蔬	abIbhiCU
 枷	bcBHDj
 啉	jBCbc
-俑	hcBDJUgju
+俑	hcBDJgju
 腋	gjCJbijuA
 癒	abjHDbhHCI
 憫	hciuGCJcjutZ
@@ -4208,7 +4208,7 @@ use_preset_vocabulary: false
 岫	hdjBHCIU
 筵	iduBHCUbCI
 裊	gidCJghcuZ
-矜	bdjuIaI
+矜	bdjIaI
 掬	hijGCacdu
 皿	agbhu
 纂	iduCIDJghGU
@@ -4306,7 +4306,7 @@ use_preset_vocabulary: false
 髯	gciBUhcjHI
 贅	bcdtBHDidtCIDJUZ
 捺	hijGHcdt
-懋	bcBDJUbcHCI
+懋	bcBDJbcHCI
 魘	ahiADaGBD
 齲	ciuBhcjBHIZ
 帷	hcjuHCU
@@ -4329,7 +4329,7 @@ use_preset_vocabulary: false
 涎	auBHCUbCI
 渲	auAJcdAD
 寳	ajBCDagCIDJU
-闋	gcjBDJTdGHZ
+闋	gcjBDJUdGHZ
 耽	abtAIgi
 菅	abAJbhct
 仝	hdCDU
@@ -4462,10 +4462,11 @@ use_preset_vocabulary: false
 荐	abGHcCID
 蟮	bhiuGIJacdJ
 踰	ciutHDgjBH
+彡	bu
 鍶	hduBHCIhciZ
 対	cjutDU
 庖	abiGCaciu
-鶩	bdjuIidtGIDZ
+鶩	bdjIidtGIDZ
 埂	hiDadBD
 琥	bcdDJU
 賁	ijABcidjuZ
@@ -4837,7 +4838,7 @@ use_preset_vocabulary: false
 嗶	jADabCDU
 唾	jHIDabCD
 哖	jIDhcdu
-噔	jBDJTjACD
+噔	jBDJUjACD
 笫	iduBgHC
 惚	hciuGCbuHCI
 澮	auHDagbhAD
@@ -4867,7 +4868,7 @@ use_preset_vocabulary: false
 闃	gcjCIDJghAZ
 翀	agdAGDjt
 妊	cijBhiu
-紓	guBDJUiCZ
+紓	guBDJiCZ
 荇	abBT
 蔸	abGHCiGI
 艿	abHb
@@ -4908,8 +4909,8 @@ use_preset_vocabulary: false
 鴕	gidAJacZ
 誆	cjuGDJbcdZ
 咫	bciAjHJ
-鍪	bdjuIidtHDU
-婺	bdjuIidtCIJ
+鍪	bdjIidtHDU
+婺	bdjIidtCIJ
 綹	guBIJUdjJZ
 搪	hijABIcdjJ
 葑	abHIhiDU
@@ -4923,7 +4924,7 @@ use_preset_vocabulary: false
 旎	cjtIDbciAC
 壅	cjGUThcuHI
 懦	hciuGBIabct
-発	bdjtCDgi
+発	bdjuCDgi
 繚	guGHadAGZ
 繹	guAGBHhiGIJU
 酆	bcdtBCDTacdBHC
@@ -4949,7 +4950,7 @@ use_preset_vocabulary: false
 羔	gijBIT
 熘	biuGHCbhduBHCI
 衿	bjtHDaI
-騖	bdjuIidtAHIUTZ
+騖	bdjIidtAHIUTZ
 盂	dDUagbhu
 髦	gciBUahj
 萸	abGHDhd
@@ -5368,7 +5369,7 @@ use_preset_vocabulary: false
 碓	abcHCU
 蟑	bhiuBCJadIJ
 蚓	bhiuADJc
-嗵	jBJbdjuGJU
+嗵	jBJbdjGJU
 嵴	hdjAUhdGJ
 憩	hiduGCDhci
 俁	hcJgGH
@@ -5380,7 +5381,7 @@ use_preset_vocabulary: false
 壊	hiIJcjGHCU
 琚	bcdBCIijJ
 葫	abIJjGJ
-鞣	ijtBDJUhcBC
+鞣	ijtBDJhcBC
 顴	abJhcuABCUTZ
 蕕	abGCUbiGBJU
 醴	gbjuADjACD
@@ -5604,7 +5605,7 @@ use_preset_vocabulary: false
 偸	hcHDgjAGJ
 兗	cjHJjGI
 淝	auGJacit
-鷸	bdjuIjGIDZ
+鷸	bdjIjGIDZ
 続	guHIUaiGI
 梘	bcCIDJTZ
 虺	ghuBHIU
@@ -5657,7 +5658,7 @@ use_preset_vocabulary: false
 榱	bcCJadGHCU
 槨	bcCJcidBHC
 郟	ghHDhdBHC
-踴	ciutBDJUgjuBHD
+踴	ciutBDJgjuBHD
 兎	bJgiA
 倳	hcDUjCDJ
 煳	biuIJjGJ
@@ -5696,7 +5697,7 @@ use_preset_vocabulary: false
 媄	cijGIJgh
 圮	hiACI
 耔	bcduAGcid
-揆	hijBDJTdGH
+揆	hijBDJUdGH
 苤	abABCUd
 苴	abCIDJUT
 苻	abHCdu
@@ -5707,7 +5708,7 @@ use_preset_vocabulary: false
 倬	hcDJadIJ
 饉	hdtIJUjBCDTZ
 彳	bty
-譎	cjuBDJUhjJZ
+譎	cjuBDJhjJZ
 奘	bhjuHIUgh
 痱	abjBHT
 疙	abjIDhu
@@ -5731,7 +5732,7 @@ use_preset_vocabulary: false
 炤	biuBHDUj
 単	atADij
 閶	gcjADadZ
-恿	bdjuGJUhci
+恿	bdjGJUhci
 坍	hiHCJcj
 垸	hiAJcdGI
 鬟	gciBUjGHCU
@@ -5936,7 +5937,7 @@ use_preset_vocabulary: false
 粞	acduGBJ
 湢	auDjBHCI
 涳	auAJUcdu
-蟊	bdjuIbhiuBHIU
+蟊	bdjIbhiuBHIU
 媲	cijGBDacAC
 緱	guHCiIDZ
 繅	guAGJadBCZ
@@ -6068,7 +6069,7 @@ use_preset_vocabulary: false
 劼	hiuJbhd
 踅	hijGBciut
 蘧	abBJdjuGHT
-杼	bcBDJUiC
+杼	bcBDJiC
 磽	abcHIhiGHU
 鳪	djGID
 蚋	bhiuHCJhd
@@ -6106,7 +6107,7 @@ use_preset_vocabulary: false
 蚣	bhiuHJbhi
 跎	ciutAJac
 呉	jGdHJ
-嶝	hdjBDJTjACD
+嶝	hdjBDJUjACD
 嶁	hdjADUcij
 郃	hdDjBHC
 貘	gctABadGH
@@ -6139,7 +6140,7 @@ use_preset_vocabulary: false
 齎	cjBIcuCIDJU
 萆	abGBDij
 槔	bcGBCghIJ
-磴	abcBDJTjACD
+磴	abcBDJUjACD
 蟣	bhiuGTidjHD
 畛	bhciHDbu
 岈	hdjABDT
@@ -6221,7 +6222,7 @@ use_preset_vocabulary: false
 晷	adBIJUdjJ
 筇	iduCDUbhc
 賃	hcBhiuCIDJUZ
-鐙	hduBDJTjACDZ
+鐙	hduBDJUjACDZ
 脒	gjACDU
 炻	biuABC
 泔	auABU
@@ -6285,7 +6286,7 @@ use_preset_vocabulary: false
 夼	ghCU
 蠕	bhiuGBIabct
 蹼	ciutBHUgij
-暌	adBDJTdGH
+暌	adBDJUdGH
 眇	cidjAGb
 儐	hcAJagCIDJU
 鈽	hduGHhcju
@@ -6451,7 +6452,7 @@ use_preset_vocabulary: false
 鬯	bdBHJac
 鐠	hduACDbhuADZ
 鯃	gduCDUiJ
-糅	acduBDJUhcBC
+糅	acduBDJhcBC
 嫗	cijGDJjJ
 鬨	bhBCDijuHJ
 嶅	bcdtBHDidtHDJ
@@ -6581,7 +6582,7 @@ use_preset_vocabulary: false
 蜻	bhiuBCDTgj
 圄	juCDUiJ
 筘	iduHIJj
-簦	iduBDJTjACD
+簦	iduBDJUjACD
 僨	hcIJabCIDJUZ
 鍰	hduGBUghBDJZ
 猾	gcuHCJT
@@ -6747,7 +6748,7 @@ use_preset_vocabulary: false
 嬬	cijGBIabct
 馹	ahiutADZ
 檎	bcHDhcjBHI
-踊	ciutBDJUgju
+踊	ciutBDJgju
 魡	gduGCa
 懨	hciuAHIghAZ
 澔	auGBChcdJ
@@ -6840,7 +6841,7 @@ use_preset_vocabulary: false
 壢	hiAHIbcuCI
 蒎	abAUgbGHC
 靉	gbiCDhciBIJU
-樋	bcBJbdjuGJU
+樋	bcBJbdjGJU
 鵪	ghADgGIDZ
 蝰	bhiuGHhiHI
 氅	agHCJidtAHJ
@@ -6860,7 +6861,7 @@ use_preset_vocabulary: false
 紒	guHDcu
 堞	hiIJUgBC
 聒	abutHIDU
-蹂	ciutBDJUhcBC
+蹂	ciutBDJhcBC
 笂	iduAIJU
 箹	iduGUgcA
 僬	hcHCUbit
@@ -6953,7 +6954,7 @@ use_preset_vocabulary: false
 呬	jAGBH
 瞌	cidjHIbhiAGBHU
 鼯	ghdAGJiJ
-猱	gcuBDJUhcBC
+猱	gcuBDJhcBC
 縻	abiBCbcGU
 怦	hciuDTacd
 忡	hciuJT
@@ -7015,7 +7016,7 @@ use_preset_vocabulary: false
 蒶	abGUhjBHDU
 唖	jCDjBH
 賅	cidjuCJgutHDZ
-睽	cidjBDJTdGH
+睽	cidjBDJUdGH
 箅	iduBHCIdCU
 傜	hcGBUhcdHDJ
 鏚	hduIDJUdjtAG
@@ -7026,7 +7027,7 @@ use_preset_vocabulary: false
 曽	biBHCIad
 濋	auBCiCI
 潕	auIDijuBIT
-戣	bdjtDghIDJ
+戣	bdjuDghIDJ
 姮	cijCDad
 塄	hiAGBHcjt
 桄	bcAGghu
@@ -7176,7 +7177,7 @@ use_preset_vocabulary: false
 昜	adDgcBU
 籀	iduHIJbhduBHCI
 媵	gjGIJUcij
-癶	bdjt
+癶	bdju
 覿	hiuAGBHcidjuCIDJT
 騒	ahiutBDJbhiu
 揄	hijHDgjBH
@@ -7336,7 +7337,7 @@ use_preset_vocabulary: false
 傒	hcGBUgtGH
 獼	gcuADJbdBD
 卆	aijIJ
-袤	cjBDJUhcGHCU
+袤	cjBDJhcGHCU
 悗	hciuGDjGI
 洑	auHCghA
 瀷	auAGDijuHJ
@@ -7430,7 +7431,7 @@ use_preset_vocabulary: false
 慥	hciuBJhcdJ
 祧	bjuAUgi
 褕	bjtHDgjBH
-堥	bdjuIidtHI
+堥	bdjIidtHI
 夃	hBbdj
 妧	cijCDgi
 媺	cijHDJghjIDT
@@ -7441,7 +7442,7 @@ use_preset_vocabulary: false
 籐	iduGJgijuAGU
 穜	bcuBCJbhcitCD
 倻	hcABUTbhc
-癈	abjBDJTadjGHJUT
+癈	abjBDJUadjGHJUT
 漭	auABaAB
 襤	bjtGDJUiduAGBHU
 憙	hiuJjHCI
@@ -7555,7 +7556,7 @@ use_preset_vocabulary: false
 脥	gjGHhdHD
 亹	cjGHDjCIDJUT
 膂	cjtIDghcGJ
-廃	abiBDJTcdGI
+廃	abiBDJUcdGI
 癉	abjJadIJ
 愭	hciuHITacAD
 褗	bjtGDJadCIJ
@@ -7698,9 +7699,9 @@ use_preset_vocabulary: false
 颻	gbuHCDhdjGHJT
 鵺	cjHCaGID
 奨	ahuGBUduGH
-湀	auBDJTdGH
+湀	auBDJUdGH
 灉	auAGJacitHCU
-矞	bdjuIhjJ
+矞	bdjIhjJ
 娯	cijJdHJ
 邽	hiHIbhc
 択	hijBCIa
@@ -7728,7 +7729,7 @@ use_preset_vocabulary: false
 瞴	cidjIDijuBIT
 飳	hdtAbcd
 譫	cjuGDhjCJUZ
-遹	bjBDJUhjJ
+遹	bjBDJhjJ
 翯	agdAGDhcjJ
 繍	guCDJcuAU
 堧	hiABCTgh
@@ -7748,7 +7749,7 @@ use_preset_vocabulary: false
 禔	bjuADdCI
 禘	bjuCJaiHCJU
 弸	adjGJgj
-繘	guBDJUhjJ
+繘	guBDJhjJ
 莰	abHIgdt
 棈	bcBCDTgj
 棤	bcIJUad
@@ -8076,7 +8077,7 @@ use_preset_vocabulary: false
 恉	hciuACad
 冖	ai
 檗	bciJbcjuBC
-瞀	bdjuIidtCIDJ
+瞀	bdjIidtCIDJ
 絿	guDUauA
 隷	hiuCDTcdjAU
 鵐	cduHDhdGIDZ
@@ -8363,7 +8364,7 @@ use_preset_vocabulary: false
 臗	gjAJcidjtA
 痏	abjGHgj
 誾	gcjCJUZ
-蝥	bdjuIidtBHIU
+蝥	bdjIidtBHIU
 貮	dIDJTcidju
 摋	hijBDbcGHJUT
 葍	abDjBHCI
@@ -8371,7 +8372,7 @@ use_preset_vocabulary: false
 靬	ijtDij
 蕡	abIJabCIDJU
 蒡	abCJaiCJT
-蕷	abBDJUcABCUTZ
+蕷	abBDJcABCUTZ
 輇	ghiHDbcdZ
 剗	idjIDJbh
 掔	gdjuBDJhiju
@@ -8433,7 +8434,7 @@ use_preset_vocabulary: false
 鄫	biAGBHadBHC
 懽	hciuABjHCU
 糨	acduADJjBHIU
-燏	biuBDJUhjJ
+燏	biuBDJhjJ
 袨	bjtCJgt
 毣	agdAGDahj
 嫽	cijGHadAG
@@ -8542,7 +8543,7 @@ use_preset_vocabulary: false
 醤	ahuGBUduGBJU
 慠	hciuBCDTbhdIDT
 煓	biuHDJabct
-熥	biuBJbdjuGJU
+熥	biuBJbdjGJU
 沷	auGHbdjA
 沘	auACac
 瀯	auBIUjJ
@@ -8635,7 +8636,7 @@ use_preset_vocabulary: false
 讘	cjuABUTabutABUT
 頏	cjGHJabcutZ
 塭	hiADagbhu
-埇	hiBDJUgju
+埇	hiBDJgju
 耟	bcduAGgdjI
 掞	hijBIUbiu
 鞁	ijtABH
@@ -8762,7 +8763,7 @@ use_preset_vocabulary: false
 徯	btGBUgtGH
 頴	acCDTabcut
 瘜	abjGCDhci
-憕	hciuBDJTjACD
+憕	hciuBDJUjACD
 濔	auDTbdBD
 潎	auAGUhcjIDT
 濶	auGCJhidu
@@ -8865,7 +8866,7 @@ use_preset_vocabulary: false
 滭	auADabCDU
 湩	auHIDadCD
 溓	auACDbhHJ
-潏	auBDJUhjJ
+潏	auBDJhjJ
 祴	bjuIDJab
 闉	gcjGBJhiZ
 頵	bciuJabcutZ
@@ -8910,7 +8911,7 @@ use_preset_vocabulary: false
 熇	biuCJhcjJ
 瀿	auIDidtGU
 覜	auGIcidjt
-澦	auBDJUcABCUTZ
+澦	auBDJcABCUTZ
 湑	auIciGJ
 祲	bjuCDJaiBDJ
 褞	bjtADagbhu
@@ -9028,7 +9029,7 @@ use_preset_vocabulary: false
 媓	cijGBCbcd
 緂	guBIUbiu
 杅	bcDdu
-醱	gbjuBDJTadjGHJUT
+醱	gbjuBDJUadjGHJUT
 礞	abcABdGHT
 厞	ahiBHT
 螝	bhiuGBD
@@ -9172,7 +9173,7 @@ use_preset_vocabulary: false
 捥	hijAJbijt
 尭	ijABghu
 藙	abBCJghtGHJUT
-蓪	abBJbdjuGJU
+蓪	abBJbdjGJU
 楬	bcADhdG
 檓	bcGHDcduGHJUT
 砯	abcAGUa
@@ -9192,7 +9193,7 @@ use_preset_vocabulary: false
 廗	abiIJUaiHCJU
 忣	hciuHhd
 韣	iuJgcBHIU
-癹	bdjtGHJUT
+癹	bdjuGHJUT
 姎	cijHCJgh
 絻	guGDjGI
 纕	guCJabuGHCUZ
@@ -9307,7 +9308,7 @@ use_preset_vocabulary: false
 棸	abutBDJbc
 莍	abDUauA
 蕸	abBJiBDJ
-芧	abBDJUiC
+芧	abBDJiC
 榃	bcBCbhci
 槬	bcGHhtGBT
 檇	bcHCUdHCJ
@@ -9349,12 +9350,12 @@ use_preset_vocabulary: false
 蹛	ciutIJUaiHCJU
 咢	jJdHT
 噣	jAGBHgcBHIU
-罞	agbhBDJUiHC
+罞	agbhBDJiHC
 崿	hdjJdHT
 睩	cidjCDJagu
 筻	iduDadBD
 稙	bcuIJcidjut
-筩	iduBDJUgju
+筩	iduBDJgju
 魆	gbdIDJg
 侫	hcABJUcij
 伔	hcAIghj
@@ -9422,7 +9423,7 @@ use_preset_vocabulary: false
 詗	cjuHCJjZ
 疢	abjBIU
 耇	hitGCj
-騤	ahiutBDJTdGHZ
+騤	ahiutBDJUdGHZ
 捄	hijDUauA
 莟	abHDiJ
 杤	bcDbhd
@@ -9649,13 +9650,13 @@ use_preset_vocabulary: false
 笯	iduCIJbdj
 儳	hcGDgiA
 傔	hcACDbhHJ
-僪	hcBDJUhjJ
+僪	hcBDJhjJ
 嵞	hdBCUhdjHDJ
 劔	hdDbhduAz
 爼	bdBDcidjut
 饂	hdtADagbhu
 狤	gcuHIUj
-魣	gduBDJUiC
+魣	gduBDJiC
 穈	abiBCbcBCU
 罃	biuBIUhcdHDJ
 憸	hciuHDhdHD
@@ -9742,7 +9743,7 @@ use_preset_vocabulary: false
 粻	acduGCI
 粃	acduACac
 燀	biuJadIJ
-悀	hciuBDJUgju
+悀	hciuBDJgju
 汯	auGHbhi
 悹	ajBHCThci
 窴	ajuIJcidjutHJ
@@ -9830,7 +9831,7 @@ use_preset_vocabulary: false
 袵	bjtHCbHIU
 袾	bjtHCDag
 袟	bjtHCDhd
-矠	bdjuIijuAD
+矠	bdjIijuAD
 纒	guAHIbitHI
 妦	cijBCDT
 嫴	cijIJjBCJU
@@ -9872,7 +9873,7 @@ use_preset_vocabulary: false
 熯	biuIJUjCDUT
 盓	auDduAGBHU
 溔	auGIJbit
-慂	auBDJUgjuHCI
+慂	auBDJgjuHCI
 袺	bjtHIUj
 邥	aiGIbhc
 衋	cdjCDbAGBHU
@@ -9980,7 +9981,7 @@ use_preset_vocabulary: false
 窵	ajuGIDZ
 禗	bjuBHCIhci
 闚	gcjCDUTcidjt
-劀	bdjuIjBH
+劀	bdjIjBH
 纎	guHIdIDJ
 塼	hiGHIdu
 莏	abHIJagB
@@ -10016,7 +10017,7 @@ use_preset_vocabulary: false
 玃	gcuCIDJhcuBDJ
 鱄	gduGHIdu
 觺	acIDgdGJU
-鯒	gduBDJUgjuZ
+鯒	gduBDJgjuZ
 臝	abjuJbcGHJU
 毃	cjJjGHJUT
 廎	abiACabcutZ
@@ -10207,7 +10208,7 @@ use_preset_vocabulary: false
 轇	ghiAGDhdBU
 棭	bcCJbijuA
 顬	gbiABCTabcutZ
-霿	gbiBDJUbijuCIDJ
+霿	gbiBDJbijuCIDJ
 鄏	ahiuDUbhc
 躣	ciutCIDJcidjHCU
 嘐	jAGDhdBU
@@ -10245,7 +10246,7 @@ use_preset_vocabulary: false
 駈	ahiutGBUT
 騬	ahiutBCUahuAC
 璸	bcdAJagCIDJU
-璚	bcdBDJUhjJ
+璚	bcdBDJhjJ
 揥	hijCJaiHCJU
 菎	abADacAC
 葂	abGDgiBHD
@@ -10297,7 +10298,7 @@ use_preset_vocabulary: false
 噅	jGBUhBIT
 覣	bcuCIJcidjt
 鱴	gduABidjuA
-鱍	gduBDJTadjGHJUT
+鱍	gduBDJUadjGHJUT
 詅	cjuHDbj
 痡	abjGBIU
 愖	hciuABTg
@@ -10374,7 +10375,7 @@ use_preset_vocabulary: false
 鎉	hduADagdAGD
 腢	gjADhcjBHI
 胏	gjBgHC
-鱊	gduBDJUhjJ
+鱊	gduBDJhjJ
 鯞	gduCDJaiHCJU
 鰼	gduAGDagdGBCZ
 鱳	gduGBCgtBC
@@ -10426,7 +10427,7 @@ use_preset_vocabulary: false
 帠	ghdHCJU
 侇	hcGHadj
 膫	gjGHadAG
-獝	gcuBDJUhjJ
+獝	gcuBDJhjJ
 鮖	gduABC
 鰐	gduJdHTZ
 欴	aCDJUgdt
@@ -10437,7 +10438,7 @@ use_preset_vocabulary: false
 洍	auGDJU
 鶷	ajBCDTjGID
 禂	bjuHCJhiJ
-邆	bjBDJTjACD
+邆	bjBDJUjACD
 隶	cdjAU
 陾	bhcABCTgh
 阰	bhcACac
@@ -10495,7 +10496,7 @@ use_preset_vocabulary: false
 餫	hdtAIghi
 膇	gjBJbBHCT
 湆	auBCJad
-襏	bjtBDJTadjGHJUT
+襏	bjtBDJUadjGHJUT
 堼	hiHIduHI
 尌	hiuJacdDU
 珫	bcdCJbhiGI
@@ -10546,7 +10547,7 @@ use_preset_vocabulary: false
 刵	abutBH
 騞	ahiutBCDTabcZ
 騜	ahiutGBCbcd
-璒	bcdBDJTjACD
+璒	bcdBDJUjACD
 摎	hijAGDhdBU
 蔪	abGHIgb
 蒧	abIDJUdjJ
@@ -10613,9 +10614,9 @@ use_preset_vocabulary: false
 犿	gcuCJdj
 鶀	gidABT
 庮	abiGBJU
-煣	biuBDJUhcBC
+煣	biuBDJhcBC
 閜	gcjDTj
-楘	bdjuIidtBC
+楘	bdjIidtBC
 翂	agdAGDhjBHDU
 邿	hiDUbhc
 撋	hijGCJbcd
@@ -10658,7 +10659,7 @@ use_preset_vocabulary: false
 篭	iduBCJadG
 饁	hdtHIbhiAGBHUZ
 鑕	hduGBgbCIDJU
-覶	gbuBDJUbdjCIDJT
+覶	gbuBDJbdjCIDJT
 獿	gcuDhjBIJU
 腛	gjBCIabdu
 鯲	gduCJThdAH
@@ -10978,7 +10979,7 @@ use_preset_vocabulary: false
 菕	abHDhcjAB
 梂	bcDUauA
 梐	bcACacHI
-雺	gbiBDJUiHC
+雺	gbiBDJiHC
 蝿	bhiuADadG
 蚥	bhiuHJbd
 昒	adGCbuy
@@ -11170,12 +11171,12 @@ use_preset_vocabulary: false
 壛	hiGCJgdGHD
 郰	abutBDJbhc
 刌	duBH
-撜	hijBDJTjACD
+撜	hijBDJUjACD
 蓲	abGDJjJ
 醳	gbjuAGBHhiGIJU
 醷	gbjuBCJadHCI
 檡	bcAGBHhiGIJU
-楺	bcBDJUhcBC
+楺	bcBDJhcBC
 碅	abcJUbcu
 韰	djBIJbhtD
 蝺	bhiuBhcjBHI
@@ -11183,7 +11184,7 @@ use_preset_vocabulary: false
 黤	agbhCDadG
 峬	hdjGBIU
 剬	hdjABCTbh
-瞲	cidjBDJUhjJ
+瞲	cidjBDJhjJ
 垼	btGHJUThi
 鋺	hduAJbijt
 峱	gcuIijHDJ
@@ -11211,7 +11212,7 @@ use_preset_vocabulary: false
 恲	hciuACDab
 阺	bhcGHCa
 螜	hiuAIghjutBHIU
-墱	hiBDJTjACD
+墱	hiBDJUjACD
 髬	gciBUabcuD
 鬎	gciBUjBH
 鬖	gciBUhdBU
@@ -11220,7 +11221,7 @@ use_preset_vocabulary: false
 樝	bcDJUcidjut
 轙	ghiGIJhijuIDJ
 甝	djuABU
-蝚	bhiuBDJUhcBC
+蝚	bhiuBDJhcBC
 嚾	jABjHCU
 躩	ciutCIDJhcuBDJ
 躈	ciutGBCcjtIDT
@@ -11288,7 +11289,7 @@ use_preset_vocabulary: false
 麎	abiuAHIU
 憉	hciuHIUacdBU
 潀	auAGBHhdHD
-溌	auBDJTcdGI
+溌	auBDJUcdGI
 裋	bjtDjACD
 隇	bhcIDJUdCIJ
 隑	bhcHDJjACD
@@ -11404,7 +11405,7 @@ use_preset_vocabulary: false
 諈	cjuHIDabCD
 憛	hciuGBJadIJ
 顲	biuBIUjABCUT
-憰	hciuBDJUhjJ
+憰	hciuBDJhjJ
 滜	auGBCghIJ
 祳	bjuAHIU
 襹	bjtDaABIU
@@ -11423,7 +11424,7 @@ use_preset_vocabulary: false
 髼	gciBUbijuBCDT
 蛪	bcdtBHDUbhiu
 撠	hijIJijIDJ
-蓩	abBDJUbijuBHD
+蓩	abBDJbijuBHD
 葌	abCIJcijCIJ
 磩	abcIDJUdjtAG
 鬵	abdGIbiDT
@@ -11602,7 +11603,7 @@ use_preset_vocabulary: false
 舮	ghiuACJ
 浲	auBIJUbcdt
 竁	ajuAHJahjAHJ
-氄	bdjuIjAHJ
+氄	bdjIjAHJ
 彋	adjAGBHjGHCU
 媰	cijGCgcBHJ
 纐	guCJbdABCUT
@@ -11700,7 +11701,7 @@ use_preset_vocabulary: false
 鼖	ijABijBDJ
 蕵	abBIJhdt
 萒	abCJbhiGIy
-醗	gbjuBDJTcdGI
+醗	gbjuBDJUcdGI
 蜲	bhiuBCUcij
 蟤	bhiuACIUijuHJ
 嘾	jGBJadIJ
@@ -11895,7 +11896,7 @@ use_preset_vocabulary: false
 轈	ghiAGJadBC
 裻	djtAGcjGHCU
 螔	bhiuGBdju
-噊	jBDJUhjJ
+噊	jBDJhjJ
 雂	hdAiHCU
 躗	btIUhcduCIUT
 鐀	hduJTdCIDJU
@@ -12022,7 +12023,7 @@ use_preset_vocabulary: false
 瀩	auBCUghjABCUT
 祐	bjuGHj
 馯	ahiutDij
-騥	ahiutBDJUhcBC
+騥	ahiutBDJhcBC
 揯	hijHCIUgdAH
 薂	abGBCcjtIDT
 遳	bjABhdHI
@@ -12054,13 +12055,13 @@ use_preset_vocabulary: false
 讄	cjuBHCIbhciBHCI
 旝	cjtIDagbhAD
 瀱	auAGBHbiuBH
-鄈	bdjtDghBHC
+鄈	bdjuDghBHC
 蝞	bhiuBCIcidj
 饇	hdtGDJjJ
 戄	hciuCIDJhcuBDJ
 孷	cdAGahiCID
 焣	abutBDJbit
-驈	ahiutBDJUhjJ
+驈	ahiutBDJhjJ
 蘳	abIJUhiHI
 蕱	abBCUagGJ
 楈	bcIciGJ
@@ -12183,7 +12184,7 @@ use_preset_vocabulary: false
 羳	gijBCTbhci
 韗	iuJaiGHI
 鷵	bciHITgid
-鞪	bdjuIidtIJT
+鞪	bdjIidtIJT
 桏	bcCDUbhc
 胊	gjGCjy
 藆	abAJhjHIJU
@@ -12192,7 +12193,7 @@ use_preset_vocabulary: false
 郺	bijBIJjACIT
 涄	auBHCIUht
 鵳	acjGJgid
-鶔	bdjuIbcGID
+鶔	bdjIbcGID
 蔰	abACJjACIT
 迺	bjGBJ
 鶐	bjBCaGID
@@ -12217,7 +12218,7 @@ use_preset_vocabulary: false
 銔	hduABCUij
 旚	cjtIDgbjCDT
 虇	abADJjHCU
-鶜	abBDJUhcGID
+鶜	abBDJhcGID
 蟡	bhiuGBUhBIT
 襺	bjtABguBHIU
 鰬	gduDJUcjut
@@ -12236,7 +12237,7 @@ use_preset_vocabulary: false
 霤	gbiGHCbhduBHCI
 祼	bjuADbc
 踍	ciutHITcid
-蹳	ciutBDJTadjGHJUT
+蹳	ciutBDJUadjGHJUT
 矎	cidjGDhdBIJU
 餰	hdtBTau
 痺	abjGBDij
@@ -12626,7 +12627,7 @@ use_preset_vocabulary: false
 輗	ghiGHDgiZ
 軨	ghiHDbj
 㰀	bcBCUhdAGU
-楙	bcBDJUhcBCy
+楙	bcBDJhcBCy
 碕	abcGHdtJ
 囓	jBCDTciCIU
 啣	jHCDciHCJ
@@ -12638,7 +12639,7 @@ use_preset_vocabulary: false
 貙	gctGDJjJ
 貍	gctBHCITcd
 録	hduCDJagu
-鐍	hduBDJUhjJZ
+鐍	hduBDJhjJZ
 䏝	gjCDgA
 鱰	gduAGBHhit
 鮸	gduGDjGIZ
@@ -13795,7 +13796,7 @@ use_preset_vocabulary: false
 译	cjuBDJcdu
 诀	cjuIghX
 诐	cjuABHX
-诵	cjuBDJUgjuX
+诵	cjuBDJgjuX
 𬣳	cjuCDJU
 词	cjuHdJX
 讯	cjuHUijX
@@ -13863,7 +13864,7 @@ use_preset_vocabulary: false
 闼	gcjBJgh
 庐	abiACJ
 闷	gcjHCIX
-阕	gcjBDJTdGHX
+阕	gcjBDJUdGHX
 阚	gcjIabutIDTX
 瘫	abjBDJhcu
 疡	abjHbu
@@ -14061,7 +14062,7 @@ use_preset_vocabulary: false
 骟	ahiutACJagdAGDX
 恳	cdjuHCI
 驿	ahiutBDJcdu
-预	bdjuIcABCUTX
+预	bdjIcABCUTX
 艰	bdjCDJU
 驭	ahiutBDJX
 骉	ahiutAHIUTahiutX
@@ -14190,7 +14191,7 @@ use_preset_vocabulary: false
 妇	cijCDJ
 纽	guIijX
 绿	guCDJaguX
-纾	guBDJUiCX
+纾	guBDJiCX
 纼	guADJcX
 绍	guBHDUjX
 贯	agiCIDJUX
@@ -14371,7 +14372,7 @@ use_preset_vocabulary: false
 莺	abAIgid
 茕	abAIhuIJ
 荨	abCDJdu
-蓣	abBDJUcABCUTX
+蓣	abBDJcABCUTX
 荩	abBCIaAH
 荬	abIahGH
 䓛	abBCIbhjHDJ
@@ -14400,7 +14401,7 @@ use_preset_vocabulary: false
 栌	bcDJbci
 𣗋	bcAGjGIy
 榅	bcADagbhu
-輮	ghiBDJUhcBCZ
+輮	ghiBDJhcBCZ
 榄	bcBHiduCIDJTX
 槛	bcBHiduAGBHU
 軿	ghiACDab
@@ -14468,7 +14469,7 @@ use_preset_vocabulary: false
 辐	ghiDjBHCIX
 𨐈	ghiAGghu
 辒	ghiADagbhu
-𫐓	ghiBDJUhcBCX
+𫐓	ghiBDJhcBCX
 轶	ghiHCDhdX
 𫐐	ghiGHDgiX
 轸	ghiHDbuX
@@ -14638,7 +14639,7 @@ use_preset_vocabulary: false
 籁	iduBCgdCIDJUX
 鹙	bcuBIUgidX
 秾	bcuAIghcu
-𥝱	bcuBDJUiC
+𥝱	bcuBDJiC
 岙	bGHhdj
 氇	ahjGDUad
 鸹	hiduGIDX
@@ -14808,8 +14809,8 @@ use_preset_vocabulary: false
 铵	hduAJcijX
 铎	hduBDJcdu
 钮	hduIijX
-镫	hduBDJTjACDX
-𫔎	hduBDJUhjJX
+镫	hduBDJUjACDX
+𫔎	hduBDJhjJX
 锓	hduCDJaiBDJX
 锔	hduBCIhJX
 锕	hduBHCdtJX
@@ -14897,7 +14898,7 @@ use_preset_vocabulary: false
 𬶍	gduAJacX
 𩽾	gduAJcijX
 鳚	gduBCIcdtDU
-鲬	gduBDJUgjuX
+鲬	gduBDJgjuX
 鲃	gduACIT
 鸲	gcJgidX
 鲺	gduHUbBHIU
@@ -14964,7 +14965,7 @@ use_preset_vocabulary: false
 谝	cjuACJhcjABX
 谧	cjuHCIbAGBHUX
 谞	cjuIciGJX
-谲	cjuBDJUhjJX
+谲	cjuBDJhjJX
 㮾	aCDJUgjBC
 𬸦	cjtIDidGIDX
 谬	cjuAGDhdBUX
@@ -15088,7 +15089,7 @@ use_preset_vocabulary: false
 瀁	auGIJaCDJU
 泻	auAIgD
 泾	auIaCDU
-滪	auBDJUcABCUTX
+滪	auBDJcABCUTX
 渌	auCDJagu
 𬍡	auHbcdA
 塚	hiAIghty
@@ -15145,13 +15146,13 @@ use_preset_vocabulary: false
 驺	ahiutGDcdj
 刭	iAcduBH
 颡	bdjBDJbcABCUTX
-鹬	bdjuIjGIDX
-鹜	bdjuIidtGIDX
-骛	bdjuIidtAHIUTX
+鹬	bdjIjGIDX
+鹜	bdjIidtGIDX
+骛	bdjIidtAHIUTX
 双	bdjBDJ
 𫠊	ahiutCJgt
 𬴊	ahiutACDUbijHCDUX
-骙	ahiutBDJTdGHX
+骙	ahiutBDJUdGHX
 𫘝	ahiutIghX
 𫘧	ahiutCDJaguX
 骕	ahiutCDJcuHJ
@@ -15212,7 +15213,7 @@ use_preset_vocabulary: false
 嫔	cijAJgbutHJ
 嬝	cijGIDcjGHCU
 𫰛	cijIaCDU
-㛚	cijBDJUgju
+㛚	cijBDJgju
 驽	cijBDJahiutX
 纥	guIDhuX
 缒	guBJbBHCTX
@@ -15324,8 +15325,8 @@ use_preset_vocabulary: false
 𨰺	hduCJUguIDT
 𥇺	cidjBHJUghA
 𬟛	ajACDUcAD
-𥎁	bdjuIdjJ
-𨪞	hduABIbdjuGJU
+𥎁	bdjIdjJ
+𨪞	hduABIbdjGJU
 𢸟	hijHChdHD
 𢫚	hijCDUht
 𠞸	gidBH
@@ -15387,7 +15388,7 @@ use_preset_vocabulary: false
 𦸰	abBCJbHCDT
 𧜖	bjtIJcidjutHJ
 𥷧	iduAUagdHCU
-𡎝	hiBDJTdGH
+𡎝	hiBDJUdGH
 𢹈	hijIDUadG
 𪾤	cidjIDJU
 𬂙	bcjADbHIU
@@ -15824,7 +15825,7 @@ use_preset_vocabulary: false
 𪥾	cijABCgdC
 𡇸	juHIDahuAC
 𪩔	hdjBIijIDJ
-𧔛	bhiuBDJTacdBHC
+𧔛	bhiuBDJUacdBHC
 𠻥	jAGJadBC
 𡏣	hiGCDghA
 𬏨	abjJbABD
@@ -15944,7 +15945,7 @@ use_preset_vocabulary: false
 𩚔	hdtCIJ
 炲	biuBHIj
 𫆴	ajHCIhdjGJ
-𦽰	abBDJUgbuCDJ
+𦽰	abBDJgbuCDJ
 𫈅	abHJhdJ
 𠽓	jCJjGHCU
 𤉒	biuGCT
@@ -16130,7 +16131,7 @@ use_preset_vocabulary: false
 樳	bcCDJjDU
 鴼	gidBIJUj
 𥽍	acduBCbcCDT
-汿	auBDJUiC
+汿	auBDJiC
 𦎍	gijCJU
 𫲴	cidABbcAGBH
 𬅧	ahGDTcidj
@@ -16169,7 +16170,7 @@ use_preset_vocabulary: false
 𠑢	hcABcdBHI
 𤊬	biuBHT
 𡮳	agbhCIDJUagB
-𤢈	gcuBDJTjACD
+𤢈	gcuBDJUjACD
 𩂏	gbiIJbdj
 𫮲	hiABghHI
 𣭯	ahjGHadj
@@ -16366,7 +16367,7 @@ use_preset_vocabulary: false
 𠑋	hdBDbcdAB
 𪬤	gcdHCIhciB
 𪿐	idGHIgjBH
-𣠳	bdjuIhjCJU
+𣠳	bdjIhjCJU
 𡂂	jCJUiJ
 莯	abAUbc
 檊	bcIJdIJ
@@ -16410,7 +16411,7 @@ use_preset_vocabulary: false
 𢪭	hijBhiu
 𨦽	hduCJUTj
 𡅒	jHIJhciBIJU
-𡓂	hiBDJTacdBHC
+𡓂	hiBDJUacdBHC
 𢩽	hijACI
 𢢁	hciuBCIcidCID
 𫃼	guACDUahIJ
@@ -16601,7 +16602,7 @@ use_preset_vocabulary: false
 𬫀	bhcitCDhiHI
 𣿌	auBJhdG
 𫺱	gcdHCIdjHT
-𠟹	bhduBDJUcABCUT
+𠟹	bhduBDJcABCUT
 𠖈	aiCDdDJ
 𧑅	bhiuCITidjG
 𫧂	hcdJgcA
@@ -16866,7 +16867,7 @@ use_preset_vocabulary: false
 𪷞	auABbdjAGBHU
 䤵	hduBHT
 𣡙	adBCgdCIDJU
-𨙖	bjBDJUauIJ
+𨙖	bjBDJauIJ
 𡫡	ajHCDgcjJ
 𪡗	jGBgdt
 𠝫	gijGHbh
@@ -16890,7 +16891,7 @@ use_preset_vocabulary: false
 𱓕	jCIJbdjADJ
 湈	auABUbc
 喡	jIUjHCDU
-𥊦	cidjBDJUbijuBHD
+𥊦	cidjBDJbijuBHD
 槯	bcHDJhcu
 𣙺	bcGBDhjBIJU
 𭋙	jBJUcijuAGU
@@ -16967,7 +16968,7 @@ use_preset_vocabulary: false
 鯜	gduBCJcij
 𨎟	ghiBHCIbijuJ
 𢥉	hciuABgcBU
-㗶	jBDJTadjGHJUT
+㗶	jBDJUadjGHJUT
 𡮹	agBdGHT
 𣠑	bcIDUbijuBCDT
 揞	hijBCJad
@@ -17001,7 +17002,7 @@ use_preset_vocabulary: false
 𦄞	guGCJj
 咘	jGHhcju
 㧾	hijGCbuHCI
-𡂱	jBDJTacdBHC
+𡂱	jBDJUacdBHC
 𣜴	bcHDbhHCI
 𤹖	abjGHIdIJ
 𫸐	abiIJUbjGHT
@@ -17071,7 +17072,7 @@ use_preset_vocabulary: false
 𡀨	jBJTgbiu
 𢩭	hijDU
 𡄥	jHDhdGDT
-𬐂	bdjtDgHIU
+𬐂	bdjuDgHIU
 𨪝	hduDJUcjut
 𱤔	bcABbdjBDJ
 𡚝	ghCIDJcidjHCU
@@ -17263,7 +17264,7 @@ use_preset_vocabulary: false
 𫃈	acduGHDcHT
 鋾	hduGChcdHDJ
 𡮘	abuBCagB
-㖻	jBDJUhcBC
+㖻	jBDJhcBC
 𬱶	ghjCDgtH
 𧕬	bhiuBJUjACD
 𠸤	jBThiDU
@@ -17329,7 +17330,7 @@ use_preset_vocabulary: false
 𪀚	gidIDJgh
 𤚆	hcdBHCabh
 抩	hijHCJhi
-𫮢	hiBJbdjuGJU
+𫮢	hiBJbdjGJU
 𢮿	hijHIDahuAC
 𤉚	biuJgdt
 𪮣	hijIJhijGB
@@ -17437,7 +17438,7 @@ use_preset_vocabulary: false
 鈂	hduAIgi
 𫵫	bciACDUacAC
 𨬉	hduHIhcu
-𢄩	hcjuABaiHCJU
+𢄩	hcjuIJUaiHCJU
 𬳖	acdGCDghcHCJ
 𫁎	ajuCDUcidG
 𥈢	cidjGIJgh
@@ -17502,7 +17503,7 @@ use_preset_vocabulary: false
 𫼰	hijCIJj
 𣷴	auBCDTghcu
 𥑃	abcCJdj
-𦪏	ghiuBJbdjuGJU
+𦪏	ghiuBJbdjGJU
 𠶂	jBDbdIDT
 𢱎	hijHIJUdBCDT
 𢱔	hijHJbhduAGBHU
@@ -17517,7 +17518,7 @@ use_preset_vocabulary: false
 㯖	bcIJdHCI
 𨏧	djuBHCIagbhuGHI
 𡏥	hiHIJgbJ
-𧐺	bhiuBJbdjuGJU
+𧐺	bhiuBJbdjGJU
 𬥠	idjtCDhHD
 𦀾	guABIbc
 𨅥	ciutBHThci
@@ -17682,7 +17683,7 @@ use_preset_vocabulary: false
 𣞍	bcAGBHhit
 𣃺	cjtHJhdJ
 𤒙	hdBUaijuBIT
-𦄷	guBJbdjuGJU
+𦄷	guBJbdjGJU
 𪺬	hcdAIJad
 𧁶	abABIhjHI
 𡦂	ajCIDajCID
@@ -17761,7 +17762,7 @@ use_preset_vocabulary: false
 𦛺	gjJbhdBH
 𥈱	cidjHbdjAGBHU
 𬯜	bhcDThcjHD
-䳱	bdjuIbhdGID
+䳱	bdjIbhdGID
 𫼳	hijABabju
 𫤯	bhiGHbuHJ
 𫡯	ijADgjHU
@@ -17947,7 +17948,7 @@ use_preset_vocabulary: false
 𩅜	gbiAcdjuGJ
 𨇀	ciutBJdBHCT
 𥀌	abhABbhiJ
-𬗝	guBDJUgju
+𬗝	guBDJgju
 𬛀	acjGJcdu
 𫿸	hdCIahIJ
 𦄵	guBCThci
@@ -17980,7 +17981,7 @@ use_preset_vocabulary: false
 挸	hijCIDJT
 𬟣	abAUbhduCIDJU
 㗱	jHCUbc
-𬁒	adBDJUbijuBHD
+𬁒	adBDJbijuBHD
 𢴍	hijAJbhciuHJ
 𢗸	hciuAHij
 𠲿	jBCj
@@ -18288,7 +18289,7 @@ use_preset_vocabulary: false
 𪾟	cidjDgD
 𠝇	abiGCaciuBH
 𢹤	hijCITgcBHJ
-𧜵	bjtABaiHCJU
+𧜵	bjtIJUaiHCJU
 𥌧	cidjGDUad
 𫫒	jCDJcdAD
 𫮐	hiACDgcd
@@ -18501,7 +18502,7 @@ use_preset_vocabulary: false
 𢉾	abiGTgtHDJ
 㮀	bcIaguBHJ
 𨀕	ciutGDJbcd
-䮴	ahiutBDJTjACD
+䮴	ahiutBDJUjACD
 𠽒	jDTabcut
 𤮃	dGghAGBHU
 𠆍	cjGJcidjutHJ
@@ -18670,7 +18671,7 @@ use_preset_vocabulary: false
 𤹘	abjAHIUdu
 𥈳	cidjAJUghA
 𢹫	bcdtBHDUbHDJ
-𣞽	bcBDJTacdBHC
+𣞽	bcBDJUacdBHC
 𬛯	gcdGHbcjAD
 𤆹	biuABDT
 𧐾	bhiuBCJjBHC
@@ -19187,7 +19188,7 @@ use_preset_vocabulary: false
 𬃴	bcBCdGBC
 蕯	abBHCdHCDT
 𧶬	cidjuCIJadD
-葇	abBDJUhcBC
+葇	abBDJhcBC
 㗜	jCJgtBHCI
 𣠲	bcBJUjACD
 𣛥	bcBHThci
@@ -19410,7 +19411,7 @@ use_preset_vocabulary: false
 𩺩	gduAGBHhiBHI
 𣡚	adBCgdCIDJUy
 𣇊	adABCUj
-𦄂	guABaiHCJU
+𦄂	guIJUaiHCJU
 𨐿	bcjuGBgbCIDJU
 𤀕	auAJhjHI
 𤒟	biuBCUbABCUT
@@ -19528,7 +19529,7 @@ use_preset_vocabulary: false
 㕪	jAIgi
 𨇘	ahitCIUT
 𡃘	jCJUbiuBIU
-䔲	abBDJTjACD
+䔲	abBDJUjACD
 柪	bcGTbhd
 𨀾	ciutAUcij
 𱒚	jGHjA
@@ -19610,7 +19611,7 @@ use_preset_vocabulary: false
 𢡿	hciuGCJbc
 𢟎	hciuBTcit
 𥚅	bjuGUabut
-𬩐	bjBDJUbhjHDJ
+𬩐	bjBDJbhjHDJ
 𥻸	acduAGBHbcD
 𥒮	abcBCIahj
 𤗤	ctCDUcidju
@@ -19636,7 +19637,7 @@ use_preset_vocabulary: false
 𣈖	cidjBCDUTcdu
 𣅘	adDhty
 𢳳	hijHDJhcjAB
-𫸉	abiBDJUhiGIJ
+𫸉	abiBDJhiGIJ
 𡅨	jIDUhjCJU
 𫯐	bijBIJbcD
 𤐡	biuHIgbd
@@ -19645,7 +19646,7 @@ use_preset_vocabulary: false
 𥮉	iduGBIU
 𫮂	hiABIbhciu
 螉	bhiuHJagdAGD
-𩊾	ijtBDJUgju
+𩊾	ijtBDJgju
 𬩕	bjHCJUTidIJ
 𱣜	bcHIJahiACIU
 𦚗	gjGDJhcju
@@ -19714,7 +19715,7 @@ use_preset_vocabulary: false
 𦛍	gjDhcjHI
 𬳚	acdGCDhijCIUT
 𧽇	adGcitACI
-𨐸	bcjuBDJTjACD
+𨐸	bcjuBDJUjACD
 𬦶	ciutABDUbh
 𫢍	gbHD
 𩭜	gciBUjGDT
@@ -19914,7 +19915,7 @@ use_preset_vocabulary: false
 𢸢	hijIDUcijuGHT
 𠤩	agbhBHIacACy
 𩻻	gduGHadAG
-𠁑	abAIdDJ
+𠁑	ijuAIdDJ
 撁	hijCJaiHCD
 𦕳	abutHITac
 熣	biuHDJhcu
@@ -19993,7 +19994,7 @@ use_preset_vocabulary: false
 𩟂	hdtBJhcjut
 𤒠	biuHITcidjt
 𪹷	biuADabuGHCUy
-䠏	ciutBDJTdGH
+䠏	ciutBDJUdGH
 𨃋	ciutACDhcju
 𨴦	bdjBCDTgcj
 𤟂	gcuCJbhiGJ
@@ -20427,7 +20428,7 @@ use_preset_vocabulary: false
 䟘	ciutCJghj
 𪱨	gjBCJadG
 𥴜	iduCJUbhduJ
-䐭	gjABaiHCJU
+䐭	gjIJUaiHCJU
 𧋽	bhiuABabju
 𢄯	hcjuIDagiIDT
 𠀨	dDJhHD
@@ -20491,12 +20492,12 @@ use_preset_vocabulary: false
 𠵘	jGCJ
 挄	hijAGghu
 𩸮	gduBCDUTcdu
-𢵮	hijBDJUhjJ
+𢵮	hijBDJhjJ
 𢵻	hijAUhit
 𤒚	biuAUbhAHIU
 淎	auBCDUTcdu
 𬗩	guABCgb
-𢠆	hciuBJbdjuGJU
+𢠆	hciuBJbdjGJU
 𢬧	hijIDhcdu
 𡁎	jGHDcHJ
 𦞁	gjHIjIDJ
@@ -20604,7 +20605,7 @@ use_preset_vocabulary: false
 韈	ijtABidjuA
 𬔈	ajuBHCIU
 𫓒	hduADbhAHIU
-𨮌	hduBDJUcABCUT
+𨮌	hduBDJcABCUT
 𨓑	djtBJghcHCJ
 𫄓	guAGBHghA
 𫐂	ajADUcijGHI
@@ -20657,7 +20658,7 @@ use_preset_vocabulary: false
 𨃵	ciutGJacdGH
 𡅍	jGUhiGHU
 𡦶	cidGBTahIJ
-𧑐	bhiuBDJUhjJ
+𧑐	bhiuBDJhjJ
 𨷈	gcjABhcjBHI
 𠶔	jHCIUbdjHI
 椲	bcIUjHCDU
@@ -20896,7 +20897,7 @@ use_preset_vocabulary: false
 𱳍	cidjCIUTbijuJ
 𤏪	biuBIUaiBHDy
 㛎	cijJj
-𣟮	bdjuIhjBIJU
+𣟮	bdjIhjBIJU
 𬀦	dGad
 𨆺	ciutAUgbjCDT
 𠽦	jAUdJ
@@ -20997,7 +20998,7 @@ use_preset_vocabulary: false
 𢃊	ghHCJUdJ
 𫋨	bhiuCJUbcAGBH
 𤆈	biuHb
-𪜝	bdjuIcABT
+𪜝	bdjIcABT
 𬇁	ahjHDJaI
 𤀜	auCIDJbcdtGJ
 𡹡	hdjCJjAGy
@@ -21057,7 +21058,7 @@ use_preset_vocabulary: false
 𫒅	hidADbdjBDJ
 𨭑	guCJgiHDU
 𡎤	hiGIJgh
-𤠹	gcuABaiHCJU
+𤠹	gcuIJUaiHCJU
 𥇀	cidjABabju
 㨶	hijGID
 𣑌	bcGbhduJ
@@ -21188,7 +21189,7 @@ use_preset_vocabulary: false
 𠱀	jABH
 𡀯	jHCghiDU
 𱿂	abADbhiABCUT
-𢋴	abAIghcA
+𢋴	ijuAIghcA
 抯	hijCIDJUT
 𫬍	jBHTcjGHCU
 𤇢	biuGBC
@@ -21719,7 +21720,7 @@ use_preset_vocabulary: false
 𡐗	hiGDahIJ
 𦟣	gjGBDhjBIJU
 𫻽	idjuHidHCDU
-𬘂	guBDJUcABCUT
+𬘂	guBDJcABCUT
 𢚳	bcDUhci
 𡐘	hiAUgbcCDU
 𪡈	jHCgbc
@@ -21847,7 +21848,7 @@ use_preset_vocabulary: false
 𦈽	hcdHDJaiBDJ
 𣟃	bcABdBIJ
 𦇇	guHIghuHI
-𢸞	hijBDJTacdBHC
+𢸞	hijBDJUacdBHC
 𥨧	ajuACDUcijIDT
 𤈪	biuIDJab
 𫑅	bjBChdBJ
@@ -21887,7 +21888,7 @@ use_preset_vocabulary: false
 𠯪	jDbij
 𠟀	bhduGIDy
 㳄	auGDT
-𫠿	djtBDJTjACD
+𫠿	djtBDJUjACD
 𫑀	bjBHhjCDU
 𬉵	ghBIT
 𤻐	abjBCJadGDT
@@ -22060,7 +22061,7 @@ use_preset_vocabulary: false
 𣻄	auBThdBCU
 𫷤	gtBHDbBHCT
 𩼸	bhuGIJduGDU
-櫈	bcBDJTacdGHJ
+櫈	bcBDJUacdGHJ
 𪥻	cijDbBJ
 𨙛	bjBChdHD
 𢺹	hjBHDUijBDJ
@@ -22074,7 +22075,7 @@ use_preset_vocabulary: false
 𡓈	hiBCUacAD
 𧕀	bhiuBCIbcjuHI
 𠶇	jHCJUaAGU
-㗈	jBDJUgjuBHD
+㗈	jBDJgjuBHD
 𣼲	auJhcu
 𱍧	cdjCDUdDJ
 𤊫	biuHIabh
