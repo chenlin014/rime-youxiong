@@ -89,7 +89,7 @@ space_return:
   chord_composer/+:
     algebra/+:
       - xform|^ut$| |
-      - xform|^UT$|\r|
+      - xform|^UT$|\n|
 
 # 以并击输入标点符号
 punc_chord:
