@@ -104,7 +104,7 @@ punc_chord:
       - xform|^cjHJz$|6|
       - xform|^ABD$|7|
       - xform|^HJ$|8|
-      - xform|^AIJ$|9|
+      - xform|^AHI$|9|
       - xform|^B$|,|
       - xform|^J$|.|
       - xform|^agjz$|<|
@@ -122,7 +122,7 @@ punc_chord:
       - xform|^cJz$|!|
       - xform|^ghCz$|@|
       - xform|^cdCUz$|#|
-      - xform|^dGBCz$|%|
+      - xform|^dGCDz$|%|
       - xform|^hduIDJz$|$|
       - xform|^aiABz$|^|
       - xform|^dGz$|&|
@@ -130,7 +130,7 @@ punc_chord:
       - xform|^gz$|(|
       - xform|^G$|)|
       - xform|^dz$|-|
-      - xform|^abiGHCz$|_|
+      - xform|^abjGHCz$|_|
       - xform|^bhdJz$|+|
       - xform|^iduHIz$|=|
       - xform|^iz$|[|
