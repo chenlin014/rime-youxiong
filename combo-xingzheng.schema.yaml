@@ -2,9 +2,9 @@
 # encoding: utf-8
 
 schema:
-  schema_id: combo_xingzheng
+  schema_id: combo-xingzheng
   name: 并击新郑
-  version: '0.1'
+  version: '0.2'
   author:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
@@ -55,7 +55,10 @@ speller:
   auto_select_unique_candidate: true
 
 translator:
-  dictionary: combo_xingzheng
+  # 正體字典
+  dictionary: combo-xingzheng-zt
+  # 简体字典
+  # dictionary: combo-xingzheng-jt
   enable_user_dict: false
 
 punctuator:
@@ -69,20 +72,17 @@ recognizer:
 
 __patch:
   # 鍵盘布局
-  - combo_xingzheng_options:/use_qwerty_layout
+  - combo-xingzheng-options:/use_qwerty_layout
   # 恢复標點符號
-  #- combo_xingzheng_options:/res_qwerty_punc
-  #- combo_xingzheng_options:/use_dvorak_layout
-  #- combo_xingzheng_options:/res_dvorak_punc
-  #- combo_xingzheng_options:/use_colemak_layout
-  #- combo_xingzheng_options:/res_colemak_punc
-  #- combo_xingzheng_options:/use_wikibase_layout
-  #- combo_xingzheng_options:/res_wikibase_punc
-  # 用字標準
-  - combo_xingzheng_options:/trad_char_priority
-  #- combo_xingzheng_options:/simp_char_priority
+  #- combo-xingzheng-options:/res_qwerty_punc
+  #- combo-xingzheng-options:/use_dvorak_layout
+  #- combo-xingzheng-options:/res_dvorak_punc
+  #- combo-xingzheng-options:/use_colemak_layout
+  #- combo-xingzheng-options:/res_colemak_punc
+  #- combo-xingzheng-options:/use_wikibase_layout
+  #- combo-xingzheng-options:/res_wikibase_punc
   # -- 並擊替代 --
   # 空格、換行
-  - combo_xingzheng_options:/space_return
+  - combo-xingzheng-options:/space_return
   # 標點符號
-  - combo_xingzheng_options:/punc_chord
+  - combo-xingzheng-options:/punc_chord
