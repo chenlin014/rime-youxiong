@@ -81,8 +81,5 @@ __patch:
   #- combo-xingzheng-options:/res_colemak_punc
   #- combo-xingzheng-options:/use_wikibase_layout
   #- combo-xingzheng-options:/res_wikibase_punc
-  # -- 並擊替代 --
-  # 空格、換行
-  - combo-xingzheng-options:/space_return
   # 標點符號
   - combo-xingzheng-options:/punc_chord

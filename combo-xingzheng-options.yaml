@@ -84,13 +84,6 @@ trad_char_priority:
       - "xform/^([a-uA-U]+)Z$/$1/"
       - "xform/^([a-uA-U]+)[XYWV]$/$1y/"
 
-# 空格、换行
-space_return:
-  chord_composer/+:
-    algebra/+:
-      - xform|^ut$| |
-      - xform|^UT$|\n|
-
 # 以并击输入标点符号
 punc_chord:
   chord_composer/+:
@@ -137,3 +130,5 @@ punc_chord:
       - xform|^I$|]|
       - xform|^aiz$|{|
       - xform|^AI$|}|
+      - xform|^BT$|\n|
+      - xform|^ut$| |
