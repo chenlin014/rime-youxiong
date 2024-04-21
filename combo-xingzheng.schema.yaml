@@ -73,13 +73,7 @@ recognizer:
 __patch:
   # 鍵盘布局
   - combo-xingzheng-options:/use_qwerty_layout
-  # 恢复標點符號
-  #- combo-xingzheng-options:/res_qwerty_punc
   #- combo-xingzheng-options:/use_dvorak_layout
-  #- combo-xingzheng-options:/res_dvorak_punc
   #- combo-xingzheng-options:/use_colemak_layout
-  #- combo-xingzheng-options:/res_colemak_punc
-  #- combo-xingzheng-options:/use_wikibase_layout
-  #- combo-xingzheng-options:/res_wikibase_punc
   # 標點符號
   - combo-xingzheng-options:/punc_chord

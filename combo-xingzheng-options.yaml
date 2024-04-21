@@ -2,133 +2,73 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: 'qawsedrfbvp;olikujnmtgyh'
+    alphabet: "qawsedrftgvbp;olikujyhmn"
     algebra:
-      - xlit|qweruiopasdfjkl;vbnmtgyh|abcdDCBAghijJIHGtuUTyyzz|
-      - xform|yy|y|
-      - xform|zz|z|
-
-# 恢复标点符号
-res_qwerty_punc:
-  chord_composer/+:
-    algebra/+:
-      - xform|^G$|;|
+      - xlit|qwertgyhuiopasdfjkl;vbnm|abcdeeEEDCBAghijJIHGtuUT|
+      - xform|ee|e|
+      - xform|EE|E|
 
 use_dvorak_layout:
   chord_composer/+:
-    alphabet: "'a,o.epuxklsrnctghbmyifd"
+    alphabet: "'a,o.epuyikxlsrnctghfdmb"
     algebra:
-      - xlit|',.pgcrlaoeuhtnskxbmyifd|abcdDCBAghijJIHGtuUTyyzz|
-      - xform|yy|y|
-      - xform|zz|z|
-
-res_dvorak_punc:
-  chord_composer/+:
-    algebra/+:
-      - xform|^a$|'|
-      - xform|^b$|,|
-      - xform|^c$|.|
+      - xlit|',.pyifdgcrlaoeuhtnskxbmyifd|abcdeeEEDCBAghijJIHGtuUT|
+      - xform|ee|e|
+      - xform|EE|E|
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: 'qawrfsptbv;oyiuelnkmgdjh'
+    alphabet: 'qawrfsptgdvb;oyiuelnjhmk'
     algebra:
-      - xlit|qwfpluy;arstneiovbkmgdjh|abcdDCBAghijJIHGtuUTyyzz|
-      - xform|yy|y|
-      - xform|zz|z|
-
-res_colemak_punc:
-  chord_composer/+:
-    algebra/+:
-      - xform|^A$|;|
-
-# 维基果
-#
-# 我自制的键盘局布
-use_wikibase_layout:
-  chord_composer/+:
-    alphabet: "zsvrkole,cjtpngiua.m/d'h"
-    algebra:
-      - xlit|zvklugpjsroeaintc,.m/d'h|abcdDCBAghijJIHGtuUTyyzz|
-      - xform|yy|y|
-      - xform|zz|z|
-
-res_wikibase_punc:
-  chord_composer/+:
-    algebra/+:
-      - xform|^y$|/|
-      - xform|^z$|'|
-      - xform|^u$|,|
-      - xform|^U$|.|
-
-# === 用字标准 ===
-# Z：正體字
-# X：简体字
-# Y：朝鮮漢字
-# W：日本漢字，新字体
-# V：越南漢字，喃字
-
-# 简体字
-simp_char_priority:
-  speller/+:
-    algebra:
-      - "xform/^([a-uA-U]+)XW$/$1/"
-      - "xform/^([a-uA-U]+)X$/$1/"
-      - "xform/^([a-uA-U]+)[ZYWV]$/$1y/"
-
-# 正體字
-trad_char_priority:
-  speller/+:
-    algebra:
-      - "xform/^([a-uA-U]+)XW$/$1y/"
-      - "xform/^([a-uA-U]+)Z$/$1/"
-      - "xform/^([a-uA-U]+)[XYWV]$/$1y/"
+      - xlit|qwfpgdjhluy;arstneiovbkmgdjh|abcdeeEEDCBAghijJIHGtuUT|
+      - xform|ee|e|
+      - xform|EE|E|
 
 # 以并击输入标点符号
 punc_chord:
   chord_composer/+:
     algebra/+:
-      - xform|^jz$|0|
+      - xform|^jE$|0|
       - xform|^D$|1|
       - xform|^CD$|2|
       - xform|^BCDU$|3|
       - xform|^AGBH$|4|
-      - xform|^cduIz$|5|
-      - xform|^cjHJz$|6|
-      - xform|^ABD$|7|
+      - xform|^acIE$|5|
+      - xform|^cjHJE$|6|
+      - xform|^GBH$|7|
       - xform|^HJ$|8|
-      - xform|^AHI$|9|
+      - xform|^GBI$|9|
       - xform|^B$|,|
       - xform|^J$|.|
-      - xform|^agjz$|<|
+      - xform|^agjE$|<|
       - xform|^AGJ$|>|
-      - xform|^bhcHDz$|/|
-      - xform|^gcjJz$|?|
-      - xform|^jBz$|;|
-      - xform|^jJz$|:|
-      - xform|^bz$|'|
+      - xform|^bhcHDE$|/|
+      - xform|^gcjJE$|?|
+      - xform|^jBE$|;|
+      - xform|^jJE$|:|
+      - xform|^bE$|'|
       - xform|^BI$|"|
       - xform|^A$|\|
       - xform/^C$/|/
-      - xform|^hijGHCz$|`|
-      - xform|^auABHz$|~|
-      - xform|^cJz$|!|
-      - xform|^ghCz$|@|
-      - xform|^cdCUz$|#|
-      - xform|^dGCDz$|%|
-      - xform|^hduIDJz$|$|
-      - xform|^aiABz$|^|
-      - xform|^dGz$|&|
-      - xform|^adHCDTz$|*|
-      - xform|^gz$|(|
+      - xform|^ghiGIDE$|`|
+      - xform|^auBCDJE$|~|
+      - xform|^cJE$|!|
+      - xform|^ghCE$|@|
+      - xform|^cdHCDE$|#|
+      - xform|^dGHDE$|%|
+      - xform|^hduIDJE$|$|
+      - xform|^aiABE$|^|
+      - xform|^dGE$|&|
+      - xform|^adGHCDE$|*|
+      - xform|^gE$|(|
       - xform|^G$|)|
-      - xform|^dz$|-|
-      - xform|^abjGHCz$|_|
-      - xform|^bhdJz$|+|
-      - xform|^iduHIz$|=|
-      - xform|^iz$|[|
+      - xform|^dE$|-|
+      - xform|^abjGIDE$|_|
+      - xform|^bhdJE$|+|
+      - xform|^buHIE$|=|
+      - xform|^iE$|[|
       - xform|^I$|]|
-      - xform|^aiz$|{|
+      - xform|^aiE$|{|
       - xform|^AI$|}|
-      - xform|^BT$|\n|
-      - xform|^ut$| |
+      - xform|^GBD$|\n|
+      - xform|^tu$| |
