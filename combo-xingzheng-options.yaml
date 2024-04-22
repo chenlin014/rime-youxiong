@@ -12,15 +12,15 @@ use_dvorak_layout:
   chord_composer/+:
     alphabet: "'a,o.epuyikxlsrnctghfdmb"
     algebra:
-      - xlit|',.pyifdgcrlaoeuhtnskxbmyifd|abcdeeEEDCBAghijJIHGtuUT|
+      - xlit|',.pyifdgcrlaoeuhtnskxbm|abcdeeEEDCBAghijJIHGtuUT|
       - xform|ee|e|
       - xform|EE|E|
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: 'qawrfsptgdvb;oyiuelnjhmk'
+    alphabet: "qawrfsptgdvb;oyiuelnjhmk"
     algebra:
-      - xlit|qwfpgdjhluy;arstneiovbkmgdjh|abcdeeEEDCBAghijJIHGtuUT|
+      - xlit|qwfpgdjhluy;arstneiovbkm|abcdeeEEDCBAghijJIHGtuUT|
       - xform|ee|e|
       - xform|EE|E|
 

@@ -4,7 +4,7 @@
 schema:
   schema_id: combo-xingzheng
   name: 并击新郑
-  version: '0.2'
+  version: '0.3'
   author:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
@@ -50,7 +50,7 @@ editor:
     BackSpace: back_syllable
 
 speller:
-  alphabet: abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
   auto_select: true
   auto_select_unique_candidate: true
 
