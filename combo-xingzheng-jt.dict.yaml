@@ -3,7 +3,7 @@
 
 ---
 name: combo-xingzheng-jt
-version: "0.0"
+version: "0.3"
 use_preset_vocabulary: false
 ...
 
@@ -349,7 +349,7 @@ use_preset_vocabulary: false
 熱	hiHJgbiuGHJU
 光	agGHU
 咋	jIDdj
-風	ghcj
+風	ghcje
 且	cidju
 林	bcBC
 滿	auIJUhdHD
@@ -2185,7 +2185,7 @@ use_preset_vocabulary: false
 擰	ghiAJagbhuABCU
 莎	abAUagB
 糞	acdBHCIijuHJ
-嵐	hdjGHCJ
+嵐	hdjeGHCJ
 濱	auAJagGBJ
 夕	gcd
 苯	abBCd
@@ -4078,7 +4078,7 @@ use_preset_vocabulary: false
 逵	bjHIhjHI
 悳	ijCIDJgHCI
 秩	bijHIDhd
-颯	acjGHCJ
+颯	acjeGHCJ
 湜	auADdCI
 蕃	abBIJUbhci
 朽	bcIU
@@ -6752,7 +6752,7 @@ use_preset_vocabulary: false
 魡	agjuGCa
 懨	hciuAHIJgheA
 澔	auGHDhidJ
-渢	auGHCJ
+渢	aeuGHCJ
 幇	hiHIabcHCJU
 髭	gciGBDUciBD
 珎	bcdGDag
@@ -12461,7 +12461,7 @@ use_preset_vocabulary: false
 菫	abDjHIJ
 偪	hcDjBHCI
 僣	hcACUacuAD
-沨	auABDhju
+沨	auGHCJ
 栒	bcGCad
 鐎	hduHCUghju
 萹	abGCJUhcjAB
@@ -12724,7 +12724,7 @@ use_preset_vocabulary: false
 腻	gjAGBHCcdGBJ
 独	gcuABHCIDJ
 肿	gjAGBHCID
-风	abdHJU
+风	ghcj
 脱	gjBIjBDU
 鱼	agju
 条	aijBC
@@ -13232,7 +13232,7 @@ use_preset_vocabulary: false
 赌	gbjBJU
 则	gbjBH
 赂	gbjAIJj
-岚	hdjABDhju
+岚	hdjGHCJ
 岁	hdjGCD
 睁	cidjGDcdj
 购	gbjGCgu
@@ -14960,7 +14960,7 @@ use_preset_vocabulary: false
 戆	acjADgbjHCI
 産	acjBghcd
 彦	acjBgbdu
-飒	acjABDhju
+飒	acjGHCJ
 𦒍	acjAGDJagdAGD
 谝	bcjGCJUhcjAB
 谧	bcjHCIbAGBHU
@@ -24092,7 +24092,6 @@ use_preset_vocabulary: false
 刚	hcjBHT
 赐	gbjGBDTU
 婴	gbjBHIT
-岚	hdjHJTU
 睁	cidjCDJT
 购	gbjGTU
 罚	agbhBHT
@@ -24498,6 +24497,7 @@ use_preset_vocabulary: false
 羁	agbhHIDJT
 逻	bjGCDT
 黩	agbhGHT
+岗	hdjHJTU
 峥	hdjCDJT
 贬	gbjBJT
 赊	gbjCDTU
@@ -24559,7 +24559,6 @@ use_preset_vocabulary: false
 谆	bcjCIDT
 赣	acjGBJT
 彦	acjGBDTU
-飒	acjHJTU
 盗	ahAGBHTU
 癫	abijGHIDTU
 鹧	abjGBHCT
@@ -25003,6 +25002,7 @@ use_preset_vocabulary: false
 颗	ghiduADT
 赎	ghGBJT
 颛	ghiduHDJT
+岖	hjuHDJT
 选	bduBJT
 俩	hdHCT
 侦	gbjHCT
@@ -25086,7 +25086,6 @@ use_preset_vocabulary: false
 辍	bdjGIT
 唠	bhdJT
 哝	giduJT
-岗	hjuHDJT
 秽	gcdBIJT
 篑	gbjBTU
 箪	ijBTU
@@ -25335,7 +25334,6 @@ use_preset_vocabulary: false
 噜	jAGJTU
 唤	jGDT
 暧	adGBCT
-岖	hdjGDJT
 赂	gbjAIJT
 犊	hidIJT
 债	hcHIJT
