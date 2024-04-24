@@ -37,11 +37,11 @@ punc_chord:
       - xform|^cjHJE$|6|
       - xform|^GBH$|7|
       - xform|^HJ$|8|
-      - xform|^GBI$|9|
+      - xform|^GHCJ$|9|
       - xform|^B$|,|
       - xform|^J$|.|
-      - xform|^agjE$|<|
-      - xform|^AGJ$|>|
+      - xform|^agiE$|<|
+      - xform|^AGI$|>|
       - xform|^bhcHDE$|/|
       - xform|^gcjJE$|?|
       - xform|^jBE$|;|
@@ -51,7 +51,7 @@ punc_chord:
       - xform|^A$|\|
       - xform/^C$/|/
       - xform|^ghiGIDE$|`|
-      - xform|^auBCDJE$|~|
+      - xform|^auACIE$|~|
       - xform|^cJE$|!|
       - xform|^ghCE$|@|
       - xform|^cdHCDE$|#|
