@@ -12,4 +12,4 @@
 
 郑码发明人：郑易里、郑珑。
 
-方案参考：[宮保拼音](https://github.com/rime/rime-combo-pinyin)。
+参考方案：[宮保拼音](https://github.com/rime/rime-combo-pinyin)。
