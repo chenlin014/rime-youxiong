@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: combo-xingzheng
-  name: 并击新郑
+  schema_id: xingzheng
+  name: 新郑
   version: '0.3'
   author:
     - 陈林 <1chen0bryan@gmail.com>
@@ -56,9 +56,9 @@ speller:
 
 translator:
   # 正體字典
-  dictionary: combo-xingzheng-zt
+  dictionary: xingzheng-zt
   # 简体字典
-  # dictionary: combo-xingzheng-jt
+  # dictionary: xingzheng-jt
   enable_user_dict: false
 
 punctuator:
@@ -72,8 +72,8 @@ recognizer:
 
 __patch:
   # 鍵盘布局
-  - combo-xingzheng-options:/use_qwerty_layout
-  #- combo-xingzheng-options:/use_dvorak_layout
-  #- combo-xingzheng-options:/use_colemak_layout
+  - xingzheng-options:/use_qwerty_layout
+  #- xingzheng-options:/use_dvorak_layout
+  #- xingzheng-options:/use_colemak_layout
   # 標點符號
-  - combo-xingzheng-options:/punc_chord
+  - xingzheng-options:/punc_chord
