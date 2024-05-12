@@ -9,6 +9,9 @@ schema:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
     并击形码输入法
+  dependencies:
+    - luna_pinyin
+    - pinyin_simp
 
 switches:
   - name: ascii_mode
@@ -40,6 +43,7 @@ engine:
     - punct_translator
     - table_translator
     - script_translator
+    - reverse_lookup_translator
   filters:
     - uniquifier
 
@@ -61,6 +65,16 @@ translator:
   # dictionary: xingzheng-jt
   enable_user_dict: false
 
+reverse_lookup:
+  dictionary: luna_pinyin
+  # dictionary: pinyin_simp
+  prefix: "E"
+  tips: 〔拼音〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
 punctuator:
   import_preset: default
 
@@ -69,6 +83,8 @@ key_binder:
 
 recognizer:
   import_preset: default
+  patterns:
+    reverse_lookup: "E[a-z]*'?$|[a-z]+'$"
 
 __patch:
   # 鍵盘布局
