@@ -2,73 +2,88 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "qawsedrftgvbp;olikujyhmn"
+    alphabet: "qawsedrfbp;olikujnvmtgyh"
     algebra:
-      - xlit|qwertgyhuiopasdfjkl;vbnm|abcdeeEEDCBAghijJIHGtuUT|
-      - xform|ee|e|
-      - xform|EE|E|
+      - xlit|qwertgyhuiopasdfjkl;vbnm|abcdzzyyDCBAghijJIHGwuUv|
+      - xform|zz|z|
+      - xform|yy|y|
 
 use_dvorak_layout:
   chord_composer/+:
-    alphabet: "'a,o.epuyikxlsrnctghfdmb"
+    alphabet: "'a,o.epuxlsrnctghbkmyifd"
     algebra:
-      - xlit|',.pyifdgcrlaoeuhtnskxbm|abcdeeEEDCBAghijJIHGtuUT|
-      - xform|ee|e|
-      - xform|EE|E|
+      - xlit|',.pyifdgcrlaoeuhtnskxbm|abcdzzyyDCBAghijJIHGwuUv|
+      - xform|zz|z|
+      - xform|yy|y|
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: "qawrfsptgdvb;oyiuelnjhmk"
+    alphabet: "qawrfsptb;oyiuelnkvmgdjh"
     algebra:
-      - xlit|qwfpgdjhluy;arstneiovbkm|abcdeeEEDCBAghijJIHGtuUT|
-      - xform|ee|e|
-      - xform|EE|E|
+      - xlit|qwfpgdjhluy;arstneiovbkm|abcdzzyyDCBAghijJIHGwuUv|
+      - xform|zz|z|
+      - xform|yy|y|
+
+# 设单击为默认
+one_stroke_mode:
+  chord_composer/+:
+    output_format:
+      - "xform/^([a-u]+[A-U]*[vyz]*)$/$1 /"
+      - "xform/^([a-u]+[A-U]+)w$/$1/"
+
+# 设双击为默认
+two_stroke_mode:
+  chord_composer/+:
+    output_format:
+      - "xform/^([a-u]+)$/$1 /"
+      - "xform/^([a-u]+[A-U]*[vyz]+)$/$1 /"
+      - "xform/^([a-u]+[A-U]*)w$/$1 /"
 
 # 以并击输入标点符号
 punc_chord:
   chord_composer/+:
     algebra/+:
-      - xform|^jE$|0|
+      - xform|^jy$|0|
       - xform|^D$|1|
       - xform|^CD$|2|
       - xform|^BCDU$|3|
       - xform|^AGBH$|4|
-      - xform|^acIE$|5|
-      - xform|^cjHJE$|6|
+      - xform|^acIy$|5|
+      - xform|^cjHJy$|6|
       - xform|^GBH$|7|
       - xform|^HJ$|8|
       - xform|^GBIJ$|9|
       - xform|^B$|,|
       - xform|^J$|.|
-      - xform|^agiE$|<|
+      - xform|^agiy$|<|
       - xform|^AGI$|>|
-      - xform|^bhcHDE$|/|
-      - xform|^gcjJE$|?|
-      - xform|^jBE$|;|
-      - xform|^jJE$|:|
-      - xform|^bE$|'|
+      - xform|^bhcHDy$|/|
+      - xform|^gcjJy$|?|
+      - xform|^jBy$|;|
+      - xform|^jJy$|:|
+      - xform|^by$|'|
       - xform|^BI$|"|
       - xform|^A$|\|
       - xform/^C$/|/
-      - xform|^ghiGIDJE$|`|
-      - xform|^auACIE$|~|
-      - xform|^cJE$|!|
-      - xform|^ghCE$|@|
-      - xform|^cdHCDE$|#|
-      - xform|^dGHDE$|%|
-      - xform|^hduIDJE$|$|
-      - xform|^aiABE$|^|
-      - xform|^dGE$|&|
-      - xform|^adGHCDE$|*|
-      - xform|^gE$|(|
+      - xform|^ghiGIDJy$|`|
+      - xform|^auACIy$|~|
+      - xform|^cJy$|!|
+      - xform|^ghCy$|@|
+      - xform|^cdHCDy$|#|
+      - xform|^dGHDy$|%|
+      - xform|^HDU$|$|
+      - xform|^aiABy$|^|
+      - xform|^dGy$|&|
+      - xform|^adGHCDy$|*|
+      - xform|^gy$|(|
       - xform|^G$|)|
-      - xform|^dE$|-|
-      - xform|^abjGIDJE$|_|
-      - xform|^bhdJE$|+|
-      - xform|^buHIE$|=|
-      - xform|^iE$|[|
+      - xform|^dy$|-|
+      - xform|^abjGIDJy$|_|
+      - xform|^bhdJy$|+|
+      - xform|^buHIy$|=|
+      - xform|^iy$|[|
       - xform|^I$|]|
-      - xform|^aiE$|{|
+      - xform|^aiy$|{|
       - xform|^AI$|}|
-      - xform|^GBD$|\n|
-      - xform|^tu$| |
+      - xform|^U$|\n|
+      - xform|^u$| |

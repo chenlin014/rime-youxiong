@@ -4,7 +4,7 @@
 schema:
   schema_id: xingzheng
   name: 新郑
-  version: '0.3'
+  version: '0.4'
   author:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
@@ -55,8 +55,8 @@ editor:
 
 speller:
   alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
-  auto_select: true
-  auto_select_unique_candidate: true
+  auto_select: false
+  auto_select_unique_candidate: false
 
 translator:
   # 正體字典
@@ -68,7 +68,7 @@ translator:
 reverse_lookup:
   dictionary: luna_pinyin
   # dictionary: pinyin_simp
-  prefix: "E"
+  prefix: "`"
   tips: 〔拼音〕
   preedit_format:
     - xform/([nl])v/$1ü/
@@ -84,7 +84,7 @@ key_binder:
 recognizer:
   import_preset: default
   patterns:
-    reverse_lookup: "E[a-z]*'?$|[a-z]+'$"
+    reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
 
 __patch:
   # 鍵盘布局
@@ -93,3 +93,7 @@ __patch:
   #- xingzheng-options:/use_colemak_layout
   # 標點符號
   - xingzheng-options:/punc_chord
+  # 雙擊模式
+  - xingzheng-options:/two_stroke_mode
+  # 單擊模式
+  #- xingzheng-options:/one_stroke_mode
