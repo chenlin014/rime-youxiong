@@ -43,46 +43,46 @@ two_stroke_mode:
 punc_chord:
   chord_composer/+:
     algebra/+:
-      - xform|^jy$|0|
+      - xform|^hy$|0|
       - xform|^D$|1|
       - xform|^CD$|2|
       - xform|^BCDU$|3|
       - xform|^AGBH$|4|
-      - xform|^acIy$|5|
+      - xform|^acBy$|5|
       - xform|^cjHJy$|6|
       - xform|^GBH$|7|
       - xform|^HJ$|8|
       - xform|^GBIJ$|9|
-      - xform|^B$|,|
-      - xform|^J$|.|
+      - xform|^C$|,|
+      - xform|^H$|.|
       - xform|^agiy$|<|
       - xform|^AGI$|>|
       - xform|^bhcHDy$|/|
-      - xform|^gcjJy$|?|
-      - xform|^jBy$|;|
-      - xform|^jJy$|:|
-      - xform|^by$|'|
+      - xform|^gcjHy$|?|
+      - xform|^hCy$|;|
+      - xform|^hHy$|:|
+      - xform|^cy$|'|
       - xform|^BI$|"|
-      - xform|^A$|\|
-      - xform/^C$/|/
-      - xform|^ghiGIDJy$|`|
-      - xform|^auACIy$|~|
-      - xform|^cJy$|!|
-      - xform|^ghCy$|@|
+      - xform|^I$|\|
+      - xform/^J$/|/
+      - xform|^duGHCIy$|`|
+      - xform|^iuACIy$|~|
+      - xform|^jHy$|!|
+      - xform|^ghJy$|@|
       - xform|^cdHCDy$|#|
       - xform|^dGHDy$|%|
       - xform|^HDU$|$|
       - xform|^aiABy$|^|
       - xform|^dGy$|&|
-      - xform|^adGHCDy$|*|
+      - xform|^adGCIJy$|*|
       - xform|^gy$|(|
       - xform|^G$|)|
       - xform|^dy$|-|
-      - xform|^abjGIDJy$|_|
-      - xform|^bhdJy$|+|
-      - xform|^buHIy$|=|
-      - xform|^iy$|[|
-      - xform|^I$|]|
+      - xform|^abjGHCIy$|_|
+      - xform|^bhdHy$|+|
+      - xform|^cuHIy$|=|
+      - xform|^by$|[|
+      - xform|^B$|]|
       - xform|^aiy$|{|
       - xform|^AI$|}|
       - xform|^U$|\n|
