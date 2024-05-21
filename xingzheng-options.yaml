@@ -74,7 +74,7 @@ punc_chord:
       - xform|^HDU$|$|
       - xform|^aiABy$|^|
       - xform|^dGy$|&|
-      - xform|^adGCIJy$|*|
+      - xform|^adGHIDy$|*|
       - xform|^gy$|(|
       - xform|^G$|)|
       - xform|^dy$|-|
