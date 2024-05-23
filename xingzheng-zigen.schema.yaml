@@ -4,11 +4,11 @@
 schema:
   schema_id: xingzheng-zigen
   name: 新郑字根
-  version: '0.4'
+  version: '0.4.1'
   author:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
-    并击形码输入法
+    用来输入新郑所用的字根
 
 switches:
   - name: ascii_mode
@@ -72,5 +72,16 @@ __patch:
   - xingzheng-options:/use_qwerty_layout
   #- xingzheng-options:/use_dvorak_layout
   #- xingzheng-options:/use_colemak_layout
-  # 單擊模式
-  - xingzheng-options:/one_stroke_mode
+  # 自動上屏
+  - auto_commit
+  - use_space
+
+auto_commit:
+  chord_composer/+:
+    output_format:
+      - xform/^(.+)$/$1 /
+
+use_space:
+  chord_composer/+:
+    algebra/+:
+      - xform/^u$/ /
