@@ -28,16 +28,16 @@ use_colemak_layout:
 one_stroke_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-u]+[A-U]*[vyz]*)$/$1 /"
-      - "xform/^([a-u]+[A-U]+)w$/$1/"
+      - "xform/^([a-uA-U]+[vyz]*)$/$1 /"
+      - "xform/^([a-uA-U]+)w$/$1/"
 
 # 设双击为默认
 two_stroke_mode:
   chord_composer/+:
     output_format:
       - "xform/^([a-u]+)$/$1 /"
-      - "xform/^([a-u]+[A-U]*[vyz]+)$/$1 /"
-      - "xform/^([a-u]+[A-U]*)w$/$1 /"
+      - "xform/^([a-uA-U]+[vyz]+)$/$1 /"
+      - "xform/^([a-uA-U]+)w$/$1 /"
 
 # 以并击输入标点符号
 punc_chord:
