@@ -2,7 +2,7 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "qawsedrfvp;olikujncmtgyh"
+    alphabet: "qawsedrfvp;olikujncmyhtg"
     algebra:
       - xlit|qwertgyhuiopasdfjkl;cvnm|abcdzzyyDCBAghijJIHGwuUv|
       - xform|zz|z|
@@ -10,7 +10,7 @@ use_qwerty_layout:
 
 use_dvorak_layout:
   chord_composer/+:
-    alphabet: "'a,o.epuklsrnctghbjmyifd"
+    alphabet: "'a,o.epuklsrnctghbjmfdyi"
     algebra:
       - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdzzyyDCBAghijJIHGwuUv|
       - xform|zz|z|
@@ -18,7 +18,7 @@ use_dvorak_layout:
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: "qawrfsptv;oyiuelnkcmgdjh"
+    alphabet: "qawrfsptv;oyiuelnkcmjhgd"
     algebra:
       - xlit|qwfpgdjhluy;arstneiovbkm|abcdzzyyDCBAghijJIHGwuUv|
       - xform|zz|z|
