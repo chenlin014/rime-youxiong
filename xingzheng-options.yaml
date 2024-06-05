@@ -4,7 +4,7 @@ use_qwerty_layout:
   chord_composer/+:
     alphabet: "qawsedrfvp;olikujncmyhtg"
     algebra:
-      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdzzyyDCBAghijJIHGwuUv|
+      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdzzyyDCBAghijJIHGwsSv|
       - xform|zz|z|
       - xform|yy|y|
 
@@ -12,7 +12,7 @@ use_dvorak_layout:
   chord_composer/+:
     alphabet: "'a,o.epuklsrnctghbjmfdyi"
     algebra:
-      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdzzyyDCBAghijJIHGwuUv|
+      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdzzyyDCBAghijJIHGwsSv|
       - xform|zz|z|
       - xform|yy|y|
 
@@ -20,7 +20,7 @@ use_colemak_layout:
   chord_composer/+:
     alphabet: "qawrfsptv;oyiuelnkcmjhgd"
     algebra:
-      - xlit|qwfpgdjhluy;arstneiovbkm|abcdzzyyDCBAghijJIHGwuUv|
+      - xlit|qwfpgdjhluy;arstneiovbkm|abcdzzyyDCBAghijJIHGwsSv|
       - xform|zz|z|
       - xform|yy|y|
 
@@ -46,7 +46,7 @@ punc_chord:
     - xform|^hy$|0|
     - xform|^D$|1|
     - xform|^CD$|2|
-    - xform|^BCDU$|3|
+    - xform|^BCDS$|3|
     - xform|^AGBH$|4|
     - xform|^AC$|5|
     - xform|^CJ$|6|
@@ -66,13 +66,13 @@ punc_chord:
     - xform|^I$|\|
     - xform/^J$/|/
     - xform|^HI$|`|
-    - xform|^IU$|~|
+    - xform|^IS$|~|
     - xform|^AG$|!|
     - xform|^GH$|@|
-    - xform|^DJU$|#|
+    - xform|^DJS$|#|
     - xform|^GHD$|%|
-    - xform|^HDU$|$|
-    - xform|^JU$|^|
+    - xform|^HDS$|$|
+    - xform|^JS$|^|
     - xform|^dGy$|&|
     - xform|^AD$|*|
     - xform|^gy$|(|
@@ -85,5 +85,5 @@ punc_chord:
     - xform|^B$|]|
     - xform|^aiy$|{|
     - xform|^AI$|}|
-    - xform|^U$|\n|
-    - xform|^u$| |
+    - xform|^S$|\n|
+    - xform|^s$| |
