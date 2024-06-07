@@ -3,7 +3,7 @@
 
 ---
 name: xingzheng-zt
-version: "0.5.2"
+version: "0.5.3"
 use_preset_vocabulary: false
 ...
 
@@ -19692,7 +19692,7 @@ use_preset_vocabulary: false
 𡄨	hHDJhBHI
 𪰓	adDbiIJ
 埁	hiHDJiB
-𤳰	bciGBDJSbhdjsBHIJz
+𤳰	bciGBDJSbhdjBHIJz
 𫀥	cjHJSijsAD
 𢜝	hcisABChCDJ
 𦞍	bcjIJhdHD
@@ -20623,7 +20623,7 @@ use_preset_vocabulary: false
 𩙍	gbhjHDbhHCI
 𫐝	abisBCJagbhdHD
 𧍈	bhjsABJdjH
-𡳒	bciGBDJSbhdjsBHIJ
+𡳒	bciGBDJSbhdjBHIJ
 𩂶	hcijDgcdBH
 𦾢	abBCbcsG
 𩛜	acdsBCJSabc
@@ -22266,20 +22266,20 @@ use_preset_vocabulary: false
 𪲝	bcABJbc
 練	cijBCad
 爛	ghjGCJbcAD
-蘭	abGCJbcAGBH
+蘭	abGCJbcAD
 欄	bcGCJbcAD
 攔	dsGCJbcAD
-瀾	isGCJbcAGBH
-闌	gcjBCagbh
+瀾	isGCJbcAD
+闌	gcjBCad
 煉	ghjBCad
-斕	bcjsGCJbcAGBH
-讕	bcjGCJbcAGBH
-鑭	hdsGCJbcAGBH
+斕	bcjsGCJbcAD
+讕	bcjGCJbcAD
+鑭	hdsGCJbcAD
 籣	csGCJbcAD
 灡	isABbcAD
-襴	gbdsGCJbcAGBH
+襴	gbdsGCJbcAD
 暕	adBCad
-鰊	agisBCagbh
+鰊	agisBCad
 鶫	bcADagcs
 朄	agcisBCad
 瑓	bcdBCad
@@ -22290,21 +22290,21 @@ use_preset_vocabulary: false
 𫲴	cidABbcAD
 𡄮	hHDSbcAD
 𫇡	gisABbcAD
-㘓	hGCJbcAGBH
+㘓	hGCJbcAD
 𢦂	hcisABbcAD
 𠣂	bcjBCadBHD
 㦨	hcisGCJbcAD
-囒	hABbcAGBH
+囒	hABbcAD
 䃹	bsGCJbcAD
 𬵿	agisABbcAD
 𥈵	cidjBCad
 𫋨	bhjsBCJbcAD
 𢒞	bcADgbs
-欗	bcABbcAGBH
+欗	bcABbcAD
 𢺤	dsABbcAD
 𩽥	agisGCJbcAD
-誤	bcjHdGH
-誤	bcjHdGH
+誤	bcjHgGH
+誤	bcjHdHJ
 虞	agbsHgGH
 虞	agbsHdHJ
 蜈	bhjsHgGH
@@ -22320,22 +22320,17 @@ use_preset_vocabulary: false
 𪽗	bciIbhdjsBHIJ
 𤳰	bciGBDJSbhdjsBHIJz
 𡳒	bciGBDJSbhdjsBHIJ
-鰩	agisGBChidHDJ
+鰩	agisGCDhidHDJ
 徭	gbjGCDhidHDJ
 傜	hcGCDhidHDJ
 愮	hcisGCDhidHDJ
 颻	gcdHIDhdjGBHJ
 媱	bhiGCDhidHDJ
 猺	ghdGCDhidHDJ
-𤁓	isBCDhidHDJ
-𤁠	isBJhidHDJ
-𩆍	hcijIShidHDJ
 嗂	hGCDhidHDJ
 䁘	cidjGCDhidHDJ
-𩆡	hcijBJhidHDJ
 𡏟	hiGCDhidHDJ
-𩆋	hcijDShidHDJ
-謡	bcjGBChidHDJ
+謡	bcjGBCijBHIJ
 瑶	bcdGBCijBHIJ
 遥	bjGBCijBHIJ
 
