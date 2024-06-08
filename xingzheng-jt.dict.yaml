@@ -3,7 +3,7 @@
 
 ---
 name: xingzheng-jt
-version: "0.5.3"
+version: "0.5.4"
 use_preset_vocabulary: false
 ...
 
@@ -22333,6 +22333,67 @@ use_preset_vocabulary: false
 謡	bcjGBCijBHIJ
 瑶	bcdGBCijBHIJ
 遥	bjGBCijBHIJ
+直	ijCIDJg
+置	agbhIJcidjG
+植	bcIJcidjG
+殖	dGCDcidjG
+矗	ijCIDJcidjG
+埴	hiIJcidjG
+淔	isIJcidjG
+稙	bijIJcidjG
+犆	hidIJcidjG
+𫹦	ijCIDJhiABC
+𬑚	ijCIDJgciHCJS
+𫤁	hcAGcidjG
+𪧡	ijCIDJajABC
+𫕾	agbhIJgHCDJS
+𥊢	ijCIDJhcjH
+𤣡	ghdAGBHcidjG
+𥊣	agHCJcidjG
+𤊧	ghjIJcidjG
+𫗾	bijADcidjG
+𠶗	hIJcidjG
+滇	isBDgHJ
+嗔	hBDgHJ
+癲	abdjBDhjAGCJ
+縝	cijBDgHJ
+禛	acjBDgHJ
+禛	acjsBDgHJ
+闐	gcjBDgHJ
+瞋	cidjBDgHJ
+稹	bijBDgHJ
+寘	ajBDgHJ
+瑱	bcdBDgHJ
+傎	hcBDgHJ
+搷	dsBDgHJ
+鬒	gdjGBSgHJ
+窴	ajsBDgHJ
+磌	bsBDgHJ
+蹎	ghisBDgHJ
+衠	gbjBDgHJ
+鷏	bdCIDJhjAGCS
+齻	acidjBDgHJ
+𤄱	isHDSgHJ
+𧜖	gbdsBDgHJ
+𬹙	bdCIDJcdGHJS
+𠆍	cjGJgHJ
+𨁷	ghisIJcidjG
+𡂌	hBDagC
+𡻗	hdjBDgHJ
+𬉌	isHgHJ
+𤛇	hidBDgHJ
+𢅬	bhcijHCJSgHJ
+𩝻	acdsBDgHJ
+𤠶	ghdBDgHJ
+具	cidjDhj
+真	ijCIDJdHJ
+鎮	hdsIJdHJ
+填	hiIJdHJ
+顛	ijCIDJhjAGCJ
+慎	hcisIJdHJ
+槙	bcIJdHJ
+黰	agbhCDdHJ
+鷏	ijCIDJhjAGCS
 
 # 简码
 的	bhcijv
@@ -22544,7 +22605,7 @@ use_preset_vocabulary: false
 赶	GBJSv
 场	HIv
 敢	Bv
-南	IJv
+直	IJv
 确	BSv
 求	ABCv
 鼓	HISv
@@ -22749,6 +22810,7 @@ use_preset_vocabulary: false
 菜	abBCv
 混	isBDv
 探	dsBCv
+南	ijGIJSv
 德	gbjHCIv
 局	bciHv
 吴	hGHv
@@ -23013,7 +23075,7 @@ use_preset_vocabulary: false
 肺	gjHCJSv
 附	bhcABCv
 制	hidBHv
-置	agbhCIDJSv
+置	agbhGv
 豪	cjBHCJv
 煤	ghjBCv
 华	hcIJv
@@ -23262,7 +23324,7 @@ use_preset_vocabulary: false
 糟	acdADv
 激	isDJSv
 珊	bcdDv
-植	bcCIDJSv
+植	bcGv
 姨	bhiBCDJv
 幢	hcjsCDv
 痰	abdjGHJv
@@ -23682,7 +23744,6 @@ use_preset_vocabulary: false
 抒	dsJv
 酌	agbhcIv
 濠	isBHCJv
-殖	dCIDJSv
 眶	cidjBCDv
 稼	bijBHCJv
 莓	abAGJv
@@ -23753,7 +23814,7 @@ use_preset_vocabulary: false
 怖	hcisHCJSv
 扈	gcjsAGDSv
 磬	hisBSv
-矗	ijCIDJSv
+矗	ijGv
 晰	adGBv
 鼬	cidsBHDJSv
 揩	dsBHCIJv
@@ -23939,7 +24000,7 @@ use_preset_vocabulary: false
 瑁	bcdCIDJv
 爨	cidsGHJv
 譬	bciBCJv
-瞑	cidjHJv
+具	cidjHJv
 璩	bcdBHCJv
 豺	ghdsCv
 獐	ghdIJv
@@ -24182,7 +24243,7 @@ use_preset_vocabulary: false
 歼	dGHCv
 殓	gcdBHCIDJv
 殁	dGCIJv
-殡	dHJv
+慎	dHJv
 迈	bjBHDv
 坛	hiBHJv
 颉	hisAGCJv
@@ -25021,6 +25082,7 @@ use_preset_vocabulary: false
 羸	abcjHv
 攫	dsCIDJv
 僭	hcGBHv
+瞑	cidjGBIv
 肫	gjGBHv
 茁	abBHIJv
 咨	abdGDSv
@@ -25282,6 +25344,7 @@ use_preset_vocabulary: false
 蔓	agbhBDJv
 茬	jHIv
 佰	dBHCIJv
+滇	gHJv
 涮	hcjsBHv
 倘	hcjHv
 沛	dHCJSv
@@ -25329,6 +25392,7 @@ use_preset_vocabulary: false
 摹	ghGHIv
 棣	cdjISv
 渤	cidBHDv
+殖	cidjGv
 馥	adCISv
 啖	ghjGHJv
 垛	ghcjBCv
@@ -25411,6 +25475,7 @@ use_preset_vocabulary: false
 拨	bdjIv
 伪	aIv
 蚕	ghBHJSv
+槟	hdjsHJv
 挟	cdGHJv
 捞	gbiBHDv
 拣	aHJv
@@ -25424,7 +25489,6 @@ use_preset_vocabulary: false
 荪	cidAGv
 栉	abAGBv
 枢	gciHJSv
-槟	hdjsHJv
 呓	abGSv
 哗	bdIJv
 颛	gbdjAGCJv
@@ -25499,7 +25563,6 @@ use_preset_vocabulary: false
 拐	bhdDSv
 喉	idsHv
 澄	bisISv
-慎	hjHCISv
 曝	agsADv
 墩	djsHIv
 侍	abcHCv
@@ -25507,7 +25570,6 @@ use_preset_vocabulary: false
 淳	cidISv
 捻	hciDSv
 嗅	iHv
-滇	hjISv
 淹	gISv
 澈	djsISv
 寓	bhjAJv
@@ -25590,6 +25652,7 @@ use_preset_vocabulary: false
 瘉	bhABDJv
 櫂	hcsBCv
 啣	agbHv
+殡	hjDv
 抡	bdDSv
 掷	bhcDSv
 掺	gbsDSv
@@ -25655,6 +25718,7 @@ use_preset_vocabulary: false
 苞	gcABv
 梧	acBCv
 焙	abiGHJv
+汾	hjISv
 漳	abiISv
 宥	ghAJv
 踝	adGHISv
@@ -25697,7 +25761,6 @@ use_preset_vocabulary: false
 唆	cisHJv
 吭	ghcjCJv
 萃	ijHDv
-汾	bhsHJv
 吠	iGHv
 噙	bhjHCJv
 肱	bhjGHv
