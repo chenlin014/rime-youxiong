@@ -1,0 +1,91 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+    schema_id: mono-xingzheng
+    name: 单指新郑
+    version: "0.0"
+    author:
+        - 陈林 <1chen0bryan@gmail.com>
+    dependencies:
+        - luna_pinyin
+        - pinyin_simp
+
+switches:
+    - name: ascii_mode
+      reset: 0
+      states: [ 中文, 西文 ]
+    - name: full_shape
+      states: [ 半角, 全角 ]
+    - options: [ zh_trad, zh_jt, no_change ]
+      states: [ 傳統漢字, 简化汉字, 无转换 ]
+      reset: 0
+    - name: ascii_punct
+      states: [ 。，, ．， ]
+
+engine:
+    processors:
+        - ascii_composer
+        - recognizer
+        - key_binder
+        - speller
+        - punctuator
+        - selector
+        - navigator
+        - express_editor
+    segmentors:
+        - ascii_segmentor
+        - matcher
+        - abc_segmentor
+        - punct_segmentor
+        - fallback_segmentor
+    translators:
+        - punct_translator
+        - table_translator
+        - reverse_lookup_translator
+    filters:
+        - simplifier@traditional
+        - simplifier
+        - uniquifier
+
+speller:
+    alphabet: 'abcdefghijklmnopqrstuvwxyz'
+    delimiter: " '"
+    max_code_length: 5
+    auto_select: true
+    auto_select_unique_candidate: true
+
+translator:
+    dictionary: mono-xingzheng
+    enable_user_dict: false
+    max_phrase_length: 5
+    preedit_format:
+        - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
+    comment_format:
+        - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
+
+reverse_lookup:
+    dictionary: luna_pinyin
+    prefix: "`"
+    tips: 〔拼音〕
+
+simplifier:
+    tips: all
+    option_name: zh_jt
+
+traditional:
+    opencc_config: s2t.json
+    option_name: zh_trad
+
+punctuator:
+    import_preset: default
+
+key_binder:
+    import_preset: default
+
+editor:
+  bindings:
+    Escape: commit_script_text
+
+recognizer:
+    import_preset: default
