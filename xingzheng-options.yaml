@@ -65,7 +65,7 @@ punc_chord:
     - xform|^HJ$|:|
     - xform|^IJ$|;|
     - xform|^H$|?|
-    - xform|^J$|!|
+    - xform|^G$|!|
     - xform|^HI$|\|
     - xform/^GJ$/|/
     - xform|^HIJ$|$|
