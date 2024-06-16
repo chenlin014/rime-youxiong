@@ -3,7 +3,7 @@
 
 schema:
     schema_id: mono-xingzheng
-    name: 单指新郑
+    name: 连击新郑
     version: "0.0"
     author:
         - 陈林 <1chen0bryan@gmail.com>
@@ -65,7 +65,7 @@ translator:
         - "xlit|zvklugpjsroedhaintxwfcmybq|广大川竹人巛米七二乙寸言卜之一曲儿口斤三又十梄目添月|"
 
 reverse_lookup:
-    dictionary: luna_pinyin
+    dictionary: pinyin_simp
     prefix: "`"
     tips: 〔拼音〕
 
@@ -89,3 +89,6 @@ editor:
 
 recognizer:
     import_preset: default
+    patterns:
+        punct: '^/([0-9]0?|[A-Za-z]+)$'
+        reverse_lookup: "`[a-z]*'?$|[a-z]+'$"

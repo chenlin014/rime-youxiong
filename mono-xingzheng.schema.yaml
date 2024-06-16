@@ -3,8 +3,8 @@
 
 schema:
     schema_id: mono-xingzheng
-    name: 单指新郑
-    version: "0.0"
+    name: 连击新郑
+    version: "0.1"
     author:
         - 陈林 <1chen0bryan@gmail.com>
     dependencies:
@@ -89,3 +89,6 @@ editor:
 
 recognizer:
     import_preset: default
+    patterns:
+        punct: '^/([0-9]0?|[A-Za-z]+)$'
+        reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
