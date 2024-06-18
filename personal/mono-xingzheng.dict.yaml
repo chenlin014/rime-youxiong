@@ -20,7 +20,7 @@ encoder:
       formula: "AaAcBaBcCa"
     - length_equal: 4
       formula: "AaAcBaCaDa"
-    - length_equal: [5, 20]
+    - length_in_range: [5, 20]
       formula: "AaBaCaDaEa"
 ...
 
