@@ -2,14 +2,11 @@
 # encoding: utf-8
 
 schema:
-    schema_id: mono-xingzheng
-    name: 连击新郑
-    version: "0.1"
+    schema_id: mono-xingzheng-zigen
+    name: 连击式新郑字根
+    version: "0.0"
     author:
         - 陈林 <1chen0bryan@gmail.com>
-    dependencies:
-        - luna_pinyin
-        - pinyin_simp
 
 switches:
     - name: ascii_mode
@@ -17,9 +14,6 @@ switches:
       states: [ 中文, 西文 ]
     - name: full_shape
       states: [ 半角, 全角 ]
-    - options: [ zh_jt, zh_trad, no_change ]
-      states: [ 简化汉字, 傳統漢字, 无转换 ]
-      reset: 0
     - name: ascii_punct
       states: [ 。，, ．， ]
 
@@ -42,40 +36,23 @@ engine:
     translators:
         - punct_translator
         - table_translator
-        - reverse_lookup_translator
     filters:
-        - simplifier@traditional
-        - simplifier
         - uniquifier
 
 speller:
     alphabet: 'abcdefghijklmnopqrstuvwxyz'
     delimiter: " '"
-    max_code_length: 5
+    max_code_length: 2
     auto_select: true
     auto_select_unique_candidate: true
 
 translator:
-    dictionary: mono-xingzheng
+    dictionary: mono-xingzheng-zigen
     enable_user_dict: false
-    max_phrase_length: 5
     preedit_format:
         - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
     comment_format:
         - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
-
-reverse_lookup:
-    dictionary: simp_pinyin
-    prefix: "`"
-    tips: 〔拼音〕
-
-simplifier:
-    tips: all
-    option_name: zh_jt
-
-traditional:
-    opencc_config: s2t.json
-    option_name: zh_trad
 
 punctuator:
     import_preset: symbols
@@ -91,4 +68,3 @@ recognizer:
     import_preset: default
     patterns:
         punct: '^/([0-9]0?|[A-Za-z]+)$'
-        reverse_lookup: "`[a-z]*'?$|[a-z]+'$"
