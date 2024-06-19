@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.2"
+version: "0.0.3"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1702,7 +1702,7 @@ encoder:
 浴	bbuut
 翼	rzrcu
 哲	obxot
-涵	bbfig
+涵	bbfbg
 鈣	xaadg
 菌	cdtol
 敵	eaptl
@@ -1915,7 +1915,7 @@ encoder:
 卿	njlfr
 琪	wacw
 鶴	hhkdn
-函	fbibg
+函	frbbg
 確	vahhk
 郡	fvtar
 奈	vosi
@@ -4059,7 +4059,7 @@ encoder:
 墉	sazfq
 揖	obtaw
 攙	obnne
-菡	cdfig
+菡	cdfbg
 伎	kbcof
 脛	qbags
 愕	pdtaf
@@ -4583,7 +4583,7 @@ encoder:
 牲	lslw
 氳	lrtuy
 牒	kfcgm
-戦	xbicj
+戦	boicj
 漩	bbefd
 殞	abnty
 玳	wakbj
@@ -7532,7 +7532,7 @@ encoder:
 罽	yivpi
 嶢	yyssv
 崁	yysan
-崡	yyfig
+崡	yyfbg
 牤	lsej
 黧	lmnsp
 僸	kbmms
@@ -11769,7 +11769,7 @@ encoder:
 恞	pdvor
 涆	bbiac
 褅	hzehy
-顄	fbigv
+顄	frbgv
 鳭	rong
 翨	rzrad
 跇	tdcag
@@ -11789,7 +11789,7 @@ encoder:
 醥	momts
 軯	miapc
 輷	minre
-蜬	tgfig
+蜬	tgfbg
 踥	tdepg
 鄵	tatmr
 睼	ysiad
@@ -18517,7 +18517,7 @@ encoder:
 𤎛	publs
 𣺾	bbcgt
 𢉾	zvggy
-㮀	mafig
+㮀	mafbg
 𨀕	tdjbw
 䮴	wpftp
 𠽒	taadv
@@ -20016,7 +20016,7 @@ encoder:
 𨴦	fewdf
 𤟂	qlegq
 檒	mamaq
-𨅰	tdoia
+𨅰	tdmfa
 𠻉	tahal
 𤔷	rblxf
 𮬩	pdng

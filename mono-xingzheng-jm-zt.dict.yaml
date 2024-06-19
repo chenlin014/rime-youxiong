@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-zt # 正體簡碼
-version: "0.0.1"
+version: "0.0.2"
 sort: by_weight
 columns:
   - text
@@ -726,6 +726,7 @@ columns:
 警	eis
 卵	rhm
 鶴	wwn
+函	xyv
 群	xgj
 緩	zap
 協	edy
@@ -1447,7 +1448,6 @@ columns:
 摩	tgm
 彥	sop
 棄	saf
-函	xvz
 郡	xgy
 堅	hab
 醬	zgf

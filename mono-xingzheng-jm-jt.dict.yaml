@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.0.1"
+version: "0.0.2"
 sort: by_weight
 columns:
   - text
@@ -491,6 +491,7 @@ columns:
 扇	wmy
 蹲	jiu
 卿	rhm
+函	xyv
 群	xgj
 鼻	nlk
 激	vvn
@@ -1330,7 +1331,6 @@ columns:
 柴	iif
 运	waz
 摩	tgm
-函	xvz
 郡	xgy
 毫	sam
 罐	mbn

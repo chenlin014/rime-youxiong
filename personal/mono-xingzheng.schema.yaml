@@ -60,9 +60,9 @@ translator:
     enable_user_dict: false
     max_phrase_length: 5
     preedit_format:
-        - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
+        - "xlit|zvklugpjsroedhaintxwfcmybq|广大川竹人巛米七二乙寸言卜之一曲儿口斤三又十梄目添月|"
     comment_format:
-        - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
+        - "xlit|zvklugpjsroedhaintxwfcmybq|广大川竹人巛米七二乙寸言卜之一曲儿口斤三又十梄目添月|"
 
 reverse_lookup:
     dictionary: simp_pinyin

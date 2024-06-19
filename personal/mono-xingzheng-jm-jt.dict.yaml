@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt
-version: "0.0.1"
+version: "0.0.2"
 sort: by_weight
 columns:
   - text
@@ -491,6 +491,7 @@ columns:
 扇	hlr
 蹲	tdp
 卿	njl
+函	frb
 群	fvt
 鼻	kyi
 激	bbk
@@ -1330,7 +1331,6 @@ columns:
 柴	ddm
 运	hag
 摩	zvl
-函	fbg
 郡	fvr
 毫	eal
 罐	lsk

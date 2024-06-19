@@ -3,7 +3,7 @@
 
 ---
 name: xingzheng-zt
-version: "0.5.8"
+version: "0.5.9"
 use_preset_vocabulary: false
 ...
 
@@ -1685,7 +1685,7 @@ use_preset_vocabulary: false
 浴	isHJhdH
 翼	agcAGCijsHJ
 哲	dsGBh
-涵	isBagsBHIJ
+涵	isASisBHIJ
 鈣	hdsDdjG
 菌	abBHCIbij
 敵	cjBIhDJS
@@ -1898,7 +1898,7 @@ use_preset_vocabulary: false
 卿	ghciCcdjsAGB
 琪	bcdBCS
 鶴	gbiHCSagcs
-函	bAGSbhij
+函	asISbhij
 確	bsGBIhcs
 郡	bcisHbhc
 奈	ghACJS
@@ -4042,7 +4042,7 @@ use_preset_vocabulary: false
 墉	hiABJcdjGJ
 揖	dsHbhcs
 攙	dsGDbdsI
-菡	abBagsBHIJ
+菡	abASisBHIJ
 伎	hcIJbdj
 脛	gjDagiAC
 愕	hcisHdAS
@@ -4566,7 +4566,7 @@ use_preset_vocabulary: false
 牲	hidGHID
 氳	ghidsBHCIhdAGBHS
 牒	hcdsIJSgBC
-戦	gbcADijIDJ
+戦	bhcidjADijIDJ
 漩	isCJSbCI
 殞	dGCDhGCIDJ
 玳	bcdHCbcdjs
@@ -7515,7 +7515,7 @@ use_preset_vocabulary: false
 罽	agbhGHDJghjBH
 嶢	hdjHIhiGHS
 崁	hdjHIgds
-崡	hdjBagsBHIJ
+崡	hdjASisBHIJ
 牤	hidABCJ
 黧	bijGCcdGHJS
 僸	hcBCbcACJS
@@ -11752,7 +11752,7 @@ use_preset_vocabulary: false
 恞	hcisGHbcdj
 涆	isADdIJ
 褅	gbdsCJgbiHCJS
-顄	bAGSbhijHCIDJ
+顄	asISbhijHCIDJ
 鳭	bhsAGCS
 翨	agcAGCdCI
 跇	ghisIJSg
@@ -11772,7 +11772,7 @@ use_preset_vocabulary: false
 醥	agbhcAGBHJacjs
 軯	giDbiIJ
 輷	giGCbcj
-蜬	bhjsBagsBHIJ
+蜬	bhjsASisBHIJ
 踥	ghisABIbhi
 鄵	hHbcBHC
 睼	cidjADdCI
@@ -18500,7 +18500,7 @@ use_preset_vocabulary: false
 𤎛	ghjIScHIS
 𣺾	isABbhiH
 𢉾	abjCIJScijsHDJ
-㮀	bcBagsBHIJ
+㮀	bcASisBHIJ
 𨀕	ghisGCIbcd
 䮴	hidjBDJShBIS
 𠽒	hABCShcidj
@@ -19999,7 +19999,7 @@ use_preset_vocabulary: false
 𨴦	bdjHIJgcj
 𤟂	ghdsCJbhjGJ
 檒	bcBCgbhj
-𨅰	ghisDSagsD
+𨅰	ghisBCbdjD
 𠻉	hBJghcs
 𤔷	aCgbcCDJ
 𮬩	hcisAGCS
@@ -22781,6 +22781,7 @@ use_preset_vocabulary: false
 叔	jsv
 齡	acidjv
 耕	bcdsv
+函	asv
 群	bcisv
 魅	bcijv
 襲	hidjsv
@@ -22805,7 +22806,6 @@ use_preset_vocabulary: false
 裊	agcsv
 祟	bhijv
 皰	aciv
-亟	asv
 冑	bhdjsv
 羋	jv
 甥	ghidv
@@ -22963,6 +22963,7 @@ use_preset_vocabulary: false
 剿	AGIv
 耆	BJSv
 輦	ACSv
+亟	ASv
 鴕	AGCSv
 蚩	BHIJv
 颼	GBHJv
@@ -23777,7 +23778,6 @@ use_preset_vocabulary: false
 遞	bjAGBSv
 卿	ghciAGBv
 鶴	gbiAGCSv
-函	bBHIJv
 確	bsHCSv
 緩	cijBDJv
 協	ijBHDv

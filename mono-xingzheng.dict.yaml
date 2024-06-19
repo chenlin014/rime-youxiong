@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.2"
+version: "0.0.3"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1703,7 +1703,7 @@ encoder:
 浴	vvooj
 翼	ytyeo
 哲	dvpdj
-涵	vvxkz
+涵	vvxvz
 鈣	paaiz
 菌	eijdm
 敵	saujm
@@ -1916,7 +1916,7 @@ encoder:
 卿	rhmxy
 琪	caec
 鶴	wwnir
-函	xvkvz
+函	xyvvz
 確	gawwn
 郡	xgjay
 奈	gdbk
@@ -4060,7 +4060,7 @@ encoder:
 墉	batxq
 揖	dvjac
 攙	dvrrs
-菡	eixkz
+菡	eixvz
 伎	nvedx
 脛	qvazb
 愕	uijax
@@ -4584,7 +4584,7 @@ encoder:
 牲	mbmc
 氳	myjol
 牒	nxezf
-戦	pvkeh
+戦	vdkeh
 漩	vvsxi
 殞	avrjl
 玳	canvh
@@ -7533,7 +7533,7 @@ encoder:
 罽	lkguk
 嶢	llbbg
 崁	llbar
-崡	llxkz
+崡	llxvz
 牤	mbsh
 黧	mfrbu
 僸	nvffb
@@ -11770,7 +11770,7 @@ encoder:
 恞	uigdy
 涆	vvkae
 褅	wtswl
-顄	xvkzg
+顄	xyvzg
 鳭	ydrz
 翨	ytyai
 跇	jieaz
@@ -11790,7 +11790,7 @@ encoder:
 醥	fdfjb
 軯	fkaue
 輷	fkrys
-蜬	jzxkz
+蜬	jzxvz
 踥	jisuz
 鄵	jajfy
 睼	lbkai
@@ -18518,7 +18518,7 @@ encoder:
 𤎛	uovmb
 𣺾	vvezj
 𢉾	tgzzl
-㮀	faxkz
+㮀	faxvz
 𨀕	jihvc
 䮴	cuxju
 𠽒	jaaig
@@ -20017,7 +20017,7 @@ encoder:
 𨴦	xscix
 𤟂	qmszq
 檒	fafaq
-𨅰	jidka
+𨅰	jifxa
 𠻉	jawam
 𤔷	yvmpx
 𮬩	uirz
