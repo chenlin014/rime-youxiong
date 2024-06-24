@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.3"
+version: "0.0.4"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -50,7 +50,7 @@ encoder:
 那	rosor
 人	uo	uoo
 個	kbtct
-看	loys
+看	loya
 中	tt	ttt
 呢	tafln
 來	mauou
@@ -70,7 +70,7 @@ encoder:
 很	udfu
 多	nene
 做	kbctl
-想	maysh
+想	mayah
 點	yisdt
 被	hzfd
 地	sard
@@ -93,7 +93,7 @@ encoder:
 買	yiyu
 讓	eoecn
 嗯	tatvh
-着	pwys
+着	pwya
 小	iu	iuu
 得	udiao
 先	lsno
@@ -181,7 +181,7 @@ encoder:
 卡	dado
 靠	lstai
 幫	sasky
-算	leysc
+算	leyac
 者	sl	sll
 忙	pdej
 起	surr
@@ -230,7 +230,7 @@ encoder:
 跑	tdnrr
 次	zonu
 網	gaype
-睡	yslcs
+睡	yalcs
 裝	gvsen
 哦	taloj
 挺	obrls
@@ -291,7 +291,7 @@ encoder:
 米	pm	pmm
 座	zvuus
 豬	vqsl
-聊	wcnjr
+聊	wcnlr
 取	wcfe
 低	kbnje
 難	catsk
@@ -362,7 +362,7 @@ encoder:
 遠	hastn
 單	tatic
 海	bblag
-相	mays
+相	maya
 熱	sauqp
 光	iuvn
 咋	talad
@@ -589,7 +589,7 @@ encoder:
 石	va	vaa
 香	lmia
 封	sasao
-眼	ysfu
+眼	yafu
 易	ianrx
 冷	zouoh
 借	kbcai
@@ -703,7 +703,7 @@ encoder:
 民	rsjo
 極	maffa
 命	uoatr
-睇	ysprk
+睇	yaprk
 忘	ejhg
 茶	cduom
 冰	zoib
@@ -936,7 +936,7 @@ encoder:
 吖	tapod
 守	hooe
 露	mbtnt
-冒	iays
+冒	iaya
 昇	ialbc
 唄	tayu
 榮	puphm
@@ -998,7 +998,7 @@ encoder:
 悶	fohg
 微	udyql
 佳	kbsas
-瞭	ysuii
+瞭	yauii
 雅	jdkd
 魔	zvmmk
 司	rbabt
@@ -1277,7 +1277,7 @@ encoder:
 跨	tdvaf
 盧	djidy
 森	mamam
-瞎	yshwt
+瞎	yahwt
 卷	psrs
 于	aboe
 井	soko
@@ -1296,7 +1296,7 @@ encoder:
 略	idndt
 掃	obfhy
 吶	tayou
-目	ys	yss
+目	ya	yaa
 蒙	cdhav
 託	eolbj
 托	oblbj
@@ -1667,7 +1667,7 @@ encoder:
 傾	kbnnv
 鼓	sstcf
 霞	mbfff
-瞧	yskdp
+瞧	yakdp
 皇	kiwa
 企	uodd
 互	abgf
@@ -1687,7 +1687,7 @@ encoder:
 盆	uaroy
 檢	mauuu
 護	eockf
-眉	flys
+眉	flya
 傘	uouuc
 碧	wakiv
 籍	lewci
@@ -1772,7 +1772,7 @@ encoder:
 莉	cdlmi
 損	obtay
 櫃	majay
-盼	ysuar
+盼	yauar
 握	obflj
 謀	eocsm
 廟	zvccq
@@ -1972,7 +1972,7 @@ encoder:
 舟	xr	xrr
 訴	eoxoe
 態	geqnh
-盯	ysad
+盯	yaad
 繡	gafkg
 蜜	hohlt
 漂	bbmts
@@ -1988,7 +1988,7 @@ encoder:
 蒼	cduht
 鵝	lojln
 疑	nnlfd
-鼎	ysgvk
+鼎	yagvk
 釣	xanre
 慌	pdcek
 蔥	cdknh
@@ -2062,7 +2062,7 @@ encoder:
 罩	yidic
 蓉	cdhut
 憶	pdeih
-卵	njlre
+卵	njpre
 遷	hamvr
 尺	fleb
 禍	heyt
@@ -2252,7 +2252,7 @@ encoder:
 奏	wuabv
 咒	tataq
 釋	xmysp
-盲	ejys
+盲	ejya
 姿	zonug
 炫	pueag
 賜	yuinx
@@ -2348,7 +2348,7 @@ encoder:
 鹼	dotuu
 窯	hupwp
 措	obcai
-眠	ysrsj
+眠	yarsj
 途	hauol
 鄂	tatfr
 捅	obfeq
@@ -2433,7 +2433,7 @@ encoder:
 凹	togd
 葬	cdanc
 咦	tavor
-瞪	ysftp
+瞪	yaftp
 詹	nbvue
 侃	kbtak
 授	obxhf
@@ -2443,7 +2443,7 @@ encoder:
 闊	fobbl
 纖	gauia
 棗	maymy
-瞄	yscdi
+瞄	yacdi
 婭	glsg
 駱	wpndt
 馳	wprd
@@ -2517,7 +2517,7 @@ encoder:
 豫	feftv
 蒜	cdsis
 淩	bbsun
-雀	iulbk
+雀	iukd
 鈦	xavoe
 亨	eataf
 詳	eopw
@@ -2553,7 +2553,7 @@ encoder:
 羞	pwfbc
 注	bbebw
 嫂	glkdf
-瞳	yseis
+瞳	yaeis
 黛	kbjsp
 妾	epgl
 拂	obrgk
@@ -2627,7 +2627,7 @@ encoder:
 謹	eoctw
 脹	qbwj
 噓	tadji
-瞞	yscuu
+瞞	yacuu
 娛	gltgv
 蓄	cdegi
 梓	maec
@@ -2666,7 +2666,7 @@ encoder:
 掀	obxon
 誘	eolrl
 翰	coirr
-睜	ysxbf
+睜	yaxbf
 撓	obssv
 掩	obvig
 蹬	tdftp
@@ -2708,7 +2708,7 @@ encoder:
 膝	qbmui
 嗦	tachg
 璇	waefd
-眨	yslbh
+眨	yalbh
 循	udxcy
 臀	flcqq
 矛	fefbk
@@ -2791,7 +2791,7 @@ encoder:
 鎚	xahlr
 桓	masoi
 碘	vaycu
-瞅	yslmp
+瞅	yalmp
 廊	zvefr
 焰	punbk
 壘	idiis
@@ -2813,7 +2813,7 @@ encoder:
 沫	bbabm
 滯	bbchy
 臻	jswul
-眺	ysbbn
+眺	yabbn
 寂	hodif
 醣	mozft
 晏	iahog
@@ -2888,7 +2888,7 @@ encoder:
 嘰	tagju
 靴	cckbn
 慮	djidh
-眸	ysgel
+眸	yagel
 烟	putov
 惱	pdgku
 巾	yd	ydd
@@ -2906,7 +2906,7 @@ encoder:
 硪	valoj
 迥	hayot
 巖	yytwl
-瞬	ysxnc
+瞬	yaxnc
 邑	tari
 〇	ta	taa
 鉻	xandt
@@ -2980,7 +2980,7 @@ encoder:
 蕩	cdbnx
 菇	cdgct
 砌	vajor
-眯	yspm
+眯	yapm
 闌	fomay
 嬲	idrir
 辱	vjoe
@@ -3053,7 +3053,7 @@ encoder:
 弧	rgxe
 弩	glfer
 撰	obrcu
-瞿	ysysk
+瞿	yayak
 卞	eado
 蛤	tguat
 襄	eatcn
@@ -3130,7 +3130,7 @@ encoder:
 黏	lmudt
 縷	gaitg
 甭	vdqs
-瞟	ysmts
+瞟	yamts
 舅	ksidr
 錚	xanbf
 阪	rtxof
@@ -3140,7 +3140,7 @@ encoder:
 繭	cdydt
 鬱	lsynx
 曠	iaziu
-睹	yssl
+睹	yasl
 禿	lmno
 諦	eoehy
 疲	zafd
@@ -3153,7 +3153,7 @@ encoder:
 酬	mobok
 橘	mafut
 啪	taobk
-睛	yswdq
+睛	yawdq
 斂	uoaul
 遁	haxcy
 晝	fssia
@@ -3249,7 +3249,7 @@ encoder:
 摞	obidg
 暇	iafff
 岐	yycof
-睬	ysxbm
+睬	yaxbm
 郊	eauur
 璧	fltwe
 挾	obvuu
@@ -3353,7 +3353,7 @@ encoder:
 瀨	bbmny
 滷	bbdtu
 匣	jbir
-鉬	xays
+鉬	xaya
 銹	xalrl
 凳	ftapq
 隙	rtiii
@@ -3394,7 +3394,7 @@ encoder:
 淪	bbuyc
 礁	vakdp
 睏	iatom
-瞻	ysnue
+瞻	yanue
 躬	kwrg
 餌	ufwc
 脖	qbchr
@@ -3424,7 +3424,7 @@ encoder:
 炯	puyot
 莘	cdec
 盔	vopuy
-睦	yssus
+睦	yasus
 仟	kblc
 炕	pueaq
 渦	bbyt
@@ -3476,7 +3476,7 @@ encoder:
 荀	cdnri
 逍	haiuq
 冼	zolsn
-泪	bbys
+泪	bbya
 拗	obggr
 檯	mashj
 轍	mieql
@@ -3656,7 +3656,7 @@ encoder:
 姍	glyoc
 橡	mantv
 嗄	taakn
-眩	yseag
+眩	yaeag
 弈	eakuc
 珞	wandt
 拈	obdot
@@ -3725,7 +3725,7 @@ encoder:
 舀	xbks
 閑	foma
 搔	obfet
-矇	yscav
+矇	yacav
 縈	puphg
 嬪	glhiy
 梧	masft
@@ -3775,7 +3775,7 @@ encoder:
 剔	ianxi
 崴	yyjag
 胯	qbvaf
-眷	psys
+眷	psya
 癸	ftabv
 緞	gakwq
 馴	wpko
@@ -3850,7 +3850,7 @@ encoder:
 嬉	glspt
 殖	abncy
 珀	waki
-眶	ysjbw
+眶	yajbw
 稼	lmhov
 錛	xavcc
 咎	nddot
@@ -4001,7 +4001,7 @@ encoder:
 驪	wpaez
 敕	matal
 嘖	tawdy
-瞼	ysuuu
+瞼	yauuu
 謁	eoiug
 讒	eonne
 愉	pduqi
@@ -4317,7 +4317,7 @@ encoder:
 嘩	taccs
 僚	kbvii
 忿	uaroh
-孵	njlxr
+孵	njpxr
 紊	euga
 罄	ssfly
 髯	wjxys
@@ -4408,7 +4408,7 @@ encoder:
 鬃	wjxhs
 啶	tahad
 晌	iakyt
-睫	ysafd
+睫	yaafd
 飭	uflar
 鈿	xaid
 獾	qlctk
@@ -4665,7 +4665,7 @@ encoder:
 蒞	cdbke
 檫	mahns
 饕	tafdu
-盹	ysjog
+盹	yajog
 脩	kbdnq
 畲	uosii
 鎵	xahov
@@ -4678,7 +4678,7 @@ encoder:
 垟	sapw
 硌	vandt
 盎	yovoy
-睢	yskd
+睢	yakd
 徠	udmuu
 斛	nbqzc
 泮	bbps
@@ -4731,7 +4731,7 @@ encoder:
 呿	tasag
 胄	isqb
 禺	iayog
-矚	ysfnt
+矚	yafnt
 笆	leri
 鉈	xahon
 竣	epgun
@@ -4745,7 +4745,7 @@ encoder:
 韭	iwab
 暝	iaheu
 凼	ibgd
-睨	ysksn
+睨	yaksn
 仩	kbda
 倌	kbhor
 銦	xatov
@@ -4824,7 +4824,7 @@ encoder:
 栩	marzr
 攴	dofe
 哧	tasku
-睞	ysmuu
+睞	yamuu
 僖	kbspt
 傣	kbwui
 倏	kbdnv
@@ -4882,7 +4882,7 @@ encoder:
 鈐	xauef
 貉	xqndt
 瀕	bbdiv
-闃	foysv
+闃	foyav
 翀	rzrzt
 妊	gllbs
 紓	gaffd
@@ -4932,7 +4932,7 @@ encoder:
 搪	obzft
 葑	cdsso
 噫	taeih
-瞰	ysfwl
+瞰	yafwl
 攵	lu	luu
 僮	kbeis
 佗	kbhon
@@ -4961,7 +4961,7 @@ encoder:
 鸕	djiyn
 螭	tgeyg
 峒	yyyat
-県	ysgbi
+県	yagbi
 狽	qlyu
 觥	nbqiv
 羔	pwpe
@@ -5190,7 +5190,7 @@ encoder:
 豕	vq	vqq
 呎	tafle
 嵊	yylzn
-睋	ysloj
+睋	yaloj
 幃	ydftc
 况	zotan
 褰	hocen
@@ -5273,7 +5273,7 @@ encoder:
 萁	cdcw
 葩	cdkir
 蛐	tgiai
-勖	iaysr
+勖	iayar
 岜	yyri
 笪	leiaa
 舐	ldnj
@@ -5475,7 +5475,7 @@ encoder:
 齬	dusft
 嘧	tahly
 嵬	yykt
-瞑	ysheu
+瞑	yaheu
 穡	lmstt
 氪	lrctn
 笳	lerlt
@@ -5584,7 +5584,7 @@ encoder:
 蠓	tgcav
 蚪	tgzoc
 吒	talbj
-瞋	yscyu
+瞋	yacyu
 毎	lagrc
 倥	kbhus
 猓	qliam
@@ -5801,7 +5801,7 @@ encoder:
 獬	qlnrl
 胝	qbnje
 礱	edva
-濉	bbysk
+濉	bbyak
 洺	bbnet
 邃	hahpv
 屐	flucf
@@ -5856,7 +5856,7 @@ encoder:
 酐	moabc
 櫳	maed
 哚	taqom
-眭	yssas
+眭	yasas
 鴦	yovon
 峰	yyndw
 侞	kbglt
@@ -6148,7 +6148,7 @@ encoder:
 趵	tdnre
 帰	iofhy
 罟	yicot
-矍	ysykf
+矍	yaykf
 峋	yynri
 嶋	yyng
 髏	yhitg
@@ -6183,7 +6183,7 @@ encoder:
 炱	getap
 墻	sastt
 摜	obgry
-苜	cdys
+苜	cdya
 硨	vami
 錁	xaiam
 窆	hulbh
@@ -6304,7 +6304,7 @@ encoder:
 蠕	tgmbv
 蹼	tdipp
 暌	iafav
-眇	ysiul
+眇	yaiul
 儐	kbhiy
 鈽	xavoy
 釙	xado
@@ -6582,7 +6582,7 @@ encoder:
 柙	mair
 雫	mbabd
 嚧	tadiy
-瞠	ysits
+瞠	yaits
 覬	yyapy
 侏	kblsi
 戧	uohtj
@@ -6828,7 +6828,7 @@ encoder:
 桎	majs
 蜞	tgcw
 蛸	tgiuq
-盱	ysabo
+盱	yaabo
 溷	bbtov
 袈	rlten
 覡	sduuy
@@ -6850,7 +6850,7 @@ encoder:
 茛	cdfu
 叶	taco
 喰	tauf
-眚	lwys
+眚	lwya
 徭	udxly
 胴	qbyat
 觚	nbqsx
@@ -6921,7 +6921,7 @@ encoder:
 鴞	tafrn
 黼	ipiym
 嵖	yymia
-睺	yskfl
+睺	yakfl
 侀	kbaci
 鋱	xajeh
 鉯	xageu
@@ -6969,7 +6969,7 @@ encoder:
 髹	wjxkm
 揶	obwcr
 呬	tayi
-瞌	yssgy
+瞌	yasgy
 鼯	ksgft
 猱	qlfkm
 縻	zvmmg
@@ -7000,7 +7000,7 @@ encoder:
 抨	obapc
 蝌	tglzc
 哘	taud
-矓	ysed
+矓	yaed
 臾	ksuo
 螣	qbpst
 夌	sauan
@@ -7010,7 +7010,7 @@ encoder:
 剞	voati
 綔	voalg
 囮	tokbn
-眄	ysagr
+眄	yaagr
 嶈	yygno
 黐	lmuyg
 懞	pdcav
@@ -7033,7 +7033,7 @@ encoder:
 蒶	cdgur
 唖	tasti
 賅	yuegu
-睽	ysfav
+睽	yafav
 箅	leiak
 傜	kbxly
 鏚	xajdi
@@ -7100,7 +7100,7 @@ encoder:
 搠	obpgq
 枵	mataf
 螈	tgvki
-睥	ysktc
+睥	yaktc
 臬	kyma
 傺	kbnss
 邠	uaror
@@ -7391,7 +7391,7 @@ encoder:
 丮	rjsd
 縁	gafsv
 璿	waduy
-睚	ysvss
+睚	yavss
 癿	kigb
 鱒	napmo
 瘙	zafet
@@ -7563,7 +7563,7 @@ encoder:
 輞	miype
 霂	mbbbm
 黷	yisyy
-眈	yshhn
+眈	yahhn
 犤	lsynn
 儞	kbauu
 敍	uoldf
@@ -7658,7 +7658,7 @@ encoder:
 痼	zatct
 汧	bbabc
 涷	bbmai
-窅	huys
+窅	huya
 垗	sabbn
 瑅	waiad
 藒	cdlug
@@ -7680,7 +7680,7 @@ encoder:
 諵	eocyp
 竝	epep
 洢	bbkbf
-郿	flysr
+郿	flyar
 姽	glnvr
 堷	saepi
 珵	wataw
@@ -7743,7 +7743,7 @@ encoder:
 磙	vaegn
 齮	duvat
 罣	yisas
-瞴	yslcp
+瞴	yalcp
 飳	ufebw
 譫	eonue
 遹	hafut
@@ -7760,7 +7760,7 @@ encoder:
 蘾	cdsin
 蘞	cduul
 樫	majfs
-睃	ysgun
+睃	yagun
 頲	relsv
 怓	pdglf
 禔	heiad
@@ -7868,7 +7868,7 @@ encoder:
 姁	glnrt
 嫋	glrrz
 喤	takiw
-眳	ysnet
+眳	yanet
 釭	xasd
 鋂	xalag
 洀	bbxr
@@ -7984,7 +7984,7 @@ encoder:
 蟿	migqt
 暦	vvmmi
 晄	iaiuv
-眛	yssoi
+眛	yasoi
 罥	yitaq
 罠	yirsj
 嶵	yyyii
@@ -8062,8 +8062,8 @@ encoder:
 甽	idko
 黢	yisun
 斁	yispl
-盻	ysuaf
-睒	yspup
+盻	yauaf
+睒	yapup
 秪	lmnje
 僈	kbiyf
 虒	xodj
@@ -8125,7 +8125,7 @@ encoder:
 楳	macsm
 朿	mayo
 旼	iaeu
-瞍	yskdf
+瞍	yakdf
 鍉	xaiad
 銛	xald
 鮠	nanvr
@@ -8167,7 +8167,7 @@ encoder:
 踺	tdrfs
 欥	ianu
 嵁	yycwg
-眙	ysget
+眙	yaget
 氕	lrlb
 譾	eoprr
 迉	hafl
@@ -8246,7 +8246,7 @@ encoder:
 喦	tatty
 暅	iapsi
 幓	ydgux
-瞹	ysxhn
+瞹	yaxhn
 皊	kiuoh
 鐚	xasgh
 鑴	xayut
@@ -8342,7 +8342,7 @@ encoder:
 垪	sapac
 蓱	cdbpc
 遝	hayii
-眴	ysnri
+眴	yanri
 筭	lewac
 稂	lmebf
 鮦	nayat
@@ -8439,7 +8439,7 @@ encoder:
 鄠	mbafr
 蟥	tgciu
 晻	iavig
-睆	yshsn
+睆	yahsn
 穊	lmfjn
 鞗	kbdnc
 侅	kbegu
@@ -8457,10 +8457,10 @@ encoder:
 嫽	glvii
 抮	obuox
 嚆	tacyt
-眊	yslj
-眕	ysuox
-眵	ysnen
-瞷	ysfoi
+眊	yalj
+眕	yauox
+眵	yanen
+瞷	yafoi
 箖	lemam
 釿	xaxo
 鱝	naccy
@@ -8499,7 +8499,7 @@ encoder:
 圁	toeo
 曨	iaed
 鼷	ksggv
-眢	nsys
+眢	nsya
 諆	eocw
 絰	gajs
 剅	abtpi
@@ -8548,8 +8548,8 @@ encoder:
 嶲	yykyg
 敳	yyapl
 嶰	yynrl
-瞵	yspnc
-矊	ysgky
+瞵	yapnc
+矊	yagky
 牥	lser
 嶨	ksuuy
 擧	ksaul
@@ -8679,7 +8679,7 @@ encoder:
 綖	garld
 玭	wannn
 晊	iajs
-盳	ysej
+盳	yaej
 簻	lehay
 簜	lebnx
 儜	kbhya
@@ -8737,8 +8737,8 @@ encoder:
 嚠	tanxi
 暕	iamay
 巓	yynuv
-睎	ysuvy
-眹	yspav
+睎	yauvy
+眹	yapav
 勧	lskdr
 箟	leinn
 鋙	xasft
@@ -8984,7 +8984,7 @@ encoder:
 驎	wppnc
 挍	obeuu
 鞄	ccnrr
-蔝	cdysp
+蔝	cdyap
 柂	malar
 豲	vqvki
 豗	vnvq
@@ -9153,9 +9153,9 @@ encoder:
 齛	ducag
 噀	tarcu
 氀	itgll
-氍	ysykl
-眽	ysxon
-睠	yspsr
+氍	yaykl
+眽	yaxon
+睠	yapsr
 箒	lefhy
 忥	lrhg
 侴	uoaci
@@ -9369,7 +9369,7 @@ encoder:
 噣	taynt
 罞	yiffk
 崿	yytaf
-睩	ysfsi
+睩	yafsi
 筻	leaiu
 稙	lmcoy
 筩	lefeq
@@ -9415,7 +9415,7 @@ encoder:
 惄	daifh
 蛜	tgkbf
 喩	tauqg
-矙	ysfwl
+矙	yafwl
 牣	lsroe
 倰	kbsun
 鯈	kbdnn
@@ -9449,7 +9449,7 @@ encoder:
 豭	vqfff
 蠙	tghiy
 嵜	yyeat
-睟	yseuc
+睟	yaeuc
 髇	yheyt
 鵞	lojln
 儓	kbshj
@@ -9494,7 +9494,7 @@ encoder:
 嗊	tasdy
 咈	targk
 暿	iaspt
-盷	ysnrz
+盷	yanrz
 犅	lsypy
 犏	lshyc
 嵆	lmvny
@@ -9557,7 +9557,7 @@ encoder:
 蚳	tgnje
 咺	tasoi
 羇	yicat
-睄	ysiuq
+睄	yaiuq
 垈	kbjes
 弅	uaroc
 旟	erldu
@@ -9598,7 +9598,7 @@ encoder:
 扡	obrd
 垔	mtsa
 虖	djlpo
-睧	ysnji
+睧	yanji
 鉥	xamae
 怗	pddot
 恀	pdnen
@@ -9686,7 +9686,7 @@ encoder:
 瑃	wawu
 桟	majl
 杣	mayy
-瞶	ystay
+瞶	yatay
 衖	udcau
 鋗	xataq
 腞	qbgfv
@@ -9822,7 +9822,7 @@ encoder:
 踛	tdsus
 鼈	ibylh
 罿	yieis
-睌	ysntn
+睌	yantn
 穟	lmhpv
 箯	lekiu
 躾	kwpwv
@@ -10080,7 +10080,7 @@ encoder:
 螾	tghiu
 鄤	iayfr
 猒	iaqbv
-眐	ysabd
+眐	yaabd
 嶊	yyobk
 岒	yyuef
 巕	yyper
@@ -10133,7 +10133,7 @@ encoder:
 呟	taeag
 蟞	ibylt
 鷩	ibyln
-瞁	ysysv
+瞁	yayav
 郔	reldr
 皭	kixfo
 鑁	xauun
@@ -10277,8 +10277,8 @@ encoder:
 嗃	taeyt
 昦	iavok
 帩	ydiuq
-眒	ysim
-瞛	ysuud
+眒	yaim
+瞛	yauud
 鼶	ksgxd
 雔	kdkd
 牉	kfps
@@ -10382,9 +10382,9 @@ encoder:
 蠎	tgccc
 跦	tdlsi
 曣	iacnp
-睖	yssun
+睖	yasun
 逬	halac
-犑	lsysv
+犑	lsyav
 犉	lsetr
 籧	lehdv
 牏	kfuqi
@@ -10491,7 +10491,7 @@ encoder:
 簒	leylg
 鸒	ksadn
 獌	qliyf
-贕	njeyy
+贕	njpyy
 粊	nnnnp
 鰞	nank
 譪	eocug
@@ -10532,7 +10532,7 @@ encoder:
 逿	hainx
 羃	yicvy
 崰	yygoi
-眅	ysxof
+眅	yaxof
 秮	lmget
 峊	lbrfy
 鼵	ksghv
@@ -10578,7 +10578,7 @@ encoder:
 遉	hadoy
 喣	tantp
 礨	idiiv
-矘	ysisp
+矘	yaisp
 岪	yyrgk
 骾	yhaiu
 矲	lvynn
@@ -10672,7 +10672,7 @@ encoder:
 蹝	tdudd
 朄	immay
 晜	iaprk
-瞫	ysmic
+瞫	yamic
 篭	leeig
 饁	ufsgy
 鑕	xaxxy
@@ -10766,7 +10766,7 @@ encoder:
 巏	yyctk
 嵲	yykym
 崷	yypom
-矉	yshiy
+矉	yahiy
 犐	lslzc
 篎	leyil
 鵅	ndtan
@@ -10800,7 +10800,7 @@ encoder:
 蟟	tgvii
 蠦	tgdiy
 齖	dujd
-瞡	yssey
+瞡	yasey
 稑	lmsus
 傂	kbxod
 偯	kbetn
@@ -10851,7 +10851,7 @@ encoder:
 怢	pdlsu
 怋	pdrsj
 懘	bbcyh
-湨	bbysv
+湨	bbyav
 阸	rthlr
 婘	glpsr
 諅	cweo
@@ -10914,7 +10914,7 @@ encoder:
 蛅	tgdot
 蝝	tggfv
 暡	iaurr
-狊	ysve
+狊	yave
 罼	yiics
 籗	lembk
 饎	ufspt
@@ -10951,7 +10951,7 @@ encoder:
 罭	yijta
 岏	yyson
 崵	yyinx
-睮	ysuqi
+睮	yauqi
 籈	lemsa
 鄅	lbtgr
 笰	lergk
@@ -10977,8 +10977,8 @@ encoder:
 檥	maplj
 蝍	tgfur
 哤	tavnx
-睊	ystaq
-矌	ysziu
+睊	yataq
+矌	yaziu
 筀	lesas
 鏙	xayyk
 錎	xanbk
@@ -11001,7 +11001,7 @@ encoder:
 蚥	tguau
 昒	ianrx
 鄨	ibytr
-眃	yssog
+眃	yasog
 幧	ydttm
 罻	yifso
 鷽	ksuun
@@ -11028,7 +11028,7 @@ encoder:
 枆	malj
 鷐	iavjn
 昈	iahl
-眓	ysjlg
+眓	yajlg
 罬	yifff
 胹	qbvy
 鸃	ngplj
@@ -11106,7 +11106,7 @@ encoder:
 踒	tdlmg
 畖	idxe
 冔	iatao
-矂	ysttm
+矂	yattm
 鴸	lsiun
 穐	lmnig
 籏	leelc
@@ -11146,7 +11146,7 @@ encoder:
 蠮	tgjrr
 剻	yyqqi
 骫	yhqt
-睕	yshon
+睕	yahon
 篕	lesgy
 鵹	lmnln
 敿	lbvtl
@@ -11178,7 +11178,7 @@ encoder:
 醙	mokdf
 蠳	tgyyg
 螰	tgzf
-眲	yswc
+眲	yawc
 簝	levii
 餟	uffff
 鯺	nasl
@@ -11201,7 +11201,7 @@ encoder:
 黤	yisig
 峬	yyms
 剬	yyvyi
-瞲	ysfut
+瞲	yafut
 垼	udqfs
 鋺	xahon
 峱	qlfcy
@@ -11245,7 +11245,7 @@ encoder:
 嚃	tahyi
 哅	tanug
 獘	ibylv
-瞚	yshiu
+瞚	yahiu
 劗	lsnyi
 篧	lehhk
 狜	qlcot
@@ -11336,7 +11336,7 @@ encoder:
 黳	jblsp
 蜌	tgnns
 曋	iamic
-矐	ysmbk
+矐	yambk
 幝	ydtic
 帗	ydvfe
 嶀	yymaf
@@ -11452,7 +11452,7 @@ encoder:
 跙	tdyw
 嚵	tanne
 晇	iavaf
-睅	ysiac
+睅	yaiac
 奰	yiyyv
 穛	lmkdp
 稯	lmuun
@@ -11489,7 +11489,7 @@ encoder:
 黕	yishn
 峌	yyjs
 崺	yyerr
-眝	yshoa
+眝	yahoa
 篏	lecsn
 秅	lmlbj
 簔	leecn
@@ -11673,7 +11673,7 @@ encoder:
 巀	yyikj
 嵣	yyzft
 嶭	yylre
-眣	yslsu
+眣	yalsu
 儥	kbsyy
 狘	qljlg
 獧	qlytn
@@ -11706,7 +11706,7 @@ encoder:
 柖	marot
 趹	tdfbv
 嶜	yyjni
-矏	yskhe
+矏	yakhe
 顉	xavu
 鮴	nakbm
 謯	eodjy
@@ -11754,7 +11754,7 @@ encoder:
 躨	tdpun
 嗋	tarrq
 嶱	yycug
-睔	ysuyc
+睔	yauyc
 聟	lvtaw
 鷮	lbvtn
 鼣	ksgov
@@ -11792,9 +11792,9 @@ encoder:
 蜬	tgfbg
 踥	tdepg
 鄵	tatmr
-睼	ysiad
+睼	yaiad
 嶟	yypmo
-眑	ysggr
+眑	yaggr
 揫	lmpul
 筄	lebbn
 僁	kbxmh
@@ -11824,7 +11824,7 @@ encoder:
 蜐	tgsgr
 蟘	tgkjy
 蜦	tguyc
-矔	ysctk
+矔	yactk
 幭	ydcje
 嵷	yyuud
 峉	yyndt
@@ -11894,7 +11894,7 @@ encoder:
 矺	valbj
 匷	jbyyk
 刞	ywio
-眱	ysvor
+眱	yavor
 龤	uoank
 艪	xrnai
 臐	qblsp
@@ -11964,7 +11964,7 @@ encoder:
 爂	ksytp
 豼	xqnnn
 鰖	navsq
-毈	njewq
+毈	njpwq
 觓	nbqsg
 鷾	epihn
 罋	eagly
@@ -11993,7 +11993,7 @@ encoder:
 膟	qbebc
 烶	purls
 韟	fatvc
-瞇	yshap
+瞇	yahap
 槃	xrqfm
 蓾	cddtu
 藃	cdetn
@@ -12171,7 +12171,7 @@ encoder:
 虃	cdbia
 椁	maetr
 蟙	tgeij
-郹	ysver
+郹	yaver
 毤	uagnl
 貁	xqhu
 猑	qlinn
@@ -12194,7 +12194,7 @@ encoder:
 攓	obhut
 靲	ccuef
 麧	maulr
-瞝	yseyg
+瞝	yaeyg
 犥	lszfp
 瓾	lmgla
 觾	nbqnp
@@ -12221,7 +12221,7 @@ encoder:
 蠤	pomtt
 軝	minj
 蹪	tdtay
-郻	ysggr
+郻	yaggr
 欨	nrtan
 覢	pupuy
 窲	hupzc
@@ -12255,7 +12255,7 @@ encoder:
 祼	heiam
 踍	tdslr
 蹳	tdfrq
-矎	ysnun
+矎	yanun
 餰	ufudb
 痺	zaktc
 蛶	tgxbo
@@ -12279,7 +12279,7 @@ encoder:
 鴈	vvkbn
 藚	cdsyy
 鷻	ngerl
-眦	ysddn
+眦	yaddn
 亘	soia
 甪	lbqs
 蔆	cdbun
@@ -12538,7 +12538,7 @@ encoder:
 蒅	cdbqm
 蟺	tgeia
 洟	bbvor
-睍	ysyn
+睍	yayn
 佪	kbtot
 澂	bbywl
 彊	rgwii
@@ -12610,7 +12610,7 @@ encoder:
 棊	cwma
 棡	maypy
 噚	tafto
-瞜	ysitg
+瞜	yaitg
 筴	levuu
 餔	ufms
 餗	ufmat
@@ -13221,13 +13221,13 @@ encoder:
 账	yuwj
 帻	ydwdy
 财	yuoel
-瞒	yscuu
+瞒	yacuu
 巅	yycuv
 嵘	yychm
 赎	yuczv
 赙	yumso
 颛	yyvyv
-眬	ysed
+眬	yaed
 贿	yuvoq
 鸯	yovon
 贼	yujlv
@@ -13242,7 +13242,7 @@ encoder:
 赐	yuinx
 幞	ydipp
 岿	yyiof
-𪾢	ysyn
+𪾢	yayn
 婴	yuyug
 峤	yylvk
 贝	yu	yuu
@@ -13251,7 +13251,7 @@ encoder:
 赂	yundt
 岚	yyqd
 岁	yyne
-睁	ysnbf
+睁	yanbf
 购	yunrg
 罚	yieoi
 赃	yuzvs
@@ -13263,7 +13263,7 @@ encoder:
 髋	yhhcy
 髌	yhhxu
 峄	yyfes
-瞩	ysfyg
+瞩	yafyg
 赆	yufez
 剀	yyrri
 觊	yyrry
@@ -13466,7 +13466,7 @@ encoder:
 钠	xayou
 钡	xayu
 舰	xryn
-钼	xays
+钼	xaya
 锄	xaywr
 钎	xalc
 锇	xaloj
@@ -14593,11 +14593,11 @@ encoder:
 晖	iahhm
 旸	iarbx
 㬎	iaggp
-睐	yssoi
+睐	yasoi
 䎃	yosrr
-䴗	ysven
-鶪	ysven
-眍	ysjbu
+䴗	yaven
+鶪	yaven
+眍	yajbu
 帏	ydsdr
 帼	ydtwe
 羁	yiccw
@@ -14620,7 +14620,7 @@ encoder:
 𪨰	yyiai
 岗	yyyou
 岘	yyyn
-𨟠	ysykr
+𨟠	yaykr
 嵚	yyxan
 刿	yynei
 峥	yynbf
@@ -14629,7 +14629,7 @@ encoder:
 崂	yychr
 𫖮	yyrrv
 赒	yuqst
-睑	ysusb
+睑	yausb
 罂	yuyly
 赈	yuvj
 赗	yuiay
@@ -14641,7 +14641,7 @@ encoder:
 赅	yuegu
 鹦	yuygn
 觃	ynra
-䁖	yspmg
+䁖	yapmg
 鹘	yhng
 矫	lvlvk
 鳘	lagln
@@ -15007,7 +15007,7 @@ encoder:
 阇	fosl
 闱	fosdr
 𬮱	fomts
-阒	foysv
+阒	foyav
 闳	fovog
 闾	fotat
 阄	fonig
@@ -15150,7 +15150,7 @@ encoder:
 𫖳	fvtav
 屩	fluyt
 屃	flyu
-鹛	flysn
+鹛	flyan
 𬳽	wplsn
 鸤	flng
 䴙	flten
@@ -15271,7 +15271,7 @@ encoder:
 缁	gagoi
 绌	gagdy
 𩹬	namct
-𥈴	ysdjj
+𥈴	yadjj
 𣴛	bbjlv
 𡄍	talew
 鉳	xazdn
@@ -15340,7 +15340,7 @@ encoder:
 𤄱	bbxyu
 嘫	tanvp
 𨰺	xaegl
-𥇺	ysgvv
+𥇺	yagvv
 𬟛	hopdi
 𥎁	fefdt
 𨪞	xazfq
@@ -15397,7 +15397,7 @@ encoder:
 𠰀	targd
 𡌣	sayij
 𬜽	cdvac
-𥊛	yseqw
+𥊛	yaeqw
 𥘪	helac
 𧽈	surgl
 𣛣	mafac
@@ -15407,7 +15407,7 @@ encoder:
 𥷧	lebrk
 𡎝	safav
 𢹈	oblig
-𪾤	ysjv
+𪾤	yajv
 𬂙	epils
 𣷯	bbhax
 𫽯	djeul
@@ -15427,7 +15427,7 @@ encoder:
 𦵠	cdklg
 𨁪	tdmo
 𣷲	bbhlx
-𥌹	ysxky
+𥌹	yaxky
 𡠣	glfjn
 𧹪	sakyc
 㗢	talsr
@@ -15469,7 +15469,7 @@ encoder:
 𫼚	obeau
 𠸦	taloy
 𱫻	pufcj
-𥆟	ysptn
+𥆟	yaptn
 𫗻	pakcq
 𪂯	nggct
 𪢰	totyq
@@ -15634,7 +15634,7 @@ encoder:
 啛	taafg
 槏	mapiu
 𤵺	zaigl
-𥇼	ysvac
+𥇼	yavac
 𬁮	poyvp
 𤷶	zawdn
 𪦭	glctn
@@ -15643,7 +15643,7 @@ encoder:
 𪝪	kbfnd
 𪢷	saej
 𩞝	ufkun
-𥉪	ysblg
+𥉪	yablg
 𤏢	purpv
 𠑬	kbusv
 𣰙	ljmms
@@ -15715,7 +15715,7 @@ encoder:
 𨆣	tdcyg
 𣨕	abntk
 𢴗	obbpp
-𥆀	ysbbs
+𥆀	yabbs
 𫭿	uounn
 𬟻	tgeau
 㵢	bbmbi
@@ -15748,7 +15748,7 @@ encoder:
 媎	glsl
 𩟻	uficn
 𩑰	iaabv
-𥊡	ysmin
+𥊡	yamin
 𢝘	pdkss
 纙	gaygk
 𦝄	qbsun
@@ -15831,7 +15831,7 @@ encoder:
 𣴓	bbkbl
 𨀿	tdsnz
 𩆾	mbdaf
-𥍘	ysusv
+𥍘	yausv
 𠽄	taoum
 𦍉	yigat
 𬈚	bbwqf
@@ -15850,7 +15850,7 @@ encoder:
 𥰆	leehy
 𦡠	wacuq
 𤍉	puyye
-𥈹	yshuj
+𥈹	yahuj
 𧔾	tglqv
 𠽎	tabss
 𡎢	uound
@@ -15899,7 +15899,7 @@ encoder:
 𪵟	ljfly
 𤻪	zambv
 𪭣	obfde
-𥊝	ysspq
+𥊝	yaspq
 𣎀	qbzdt
 𨲅	wjreh
 撍	objni
@@ -15914,7 +15914,7 @@ encoder:
 𪤄	saysg
 𡅎	talni
 𬟖	vopgt
-𥅦	yswoi
+𥅦	yawoi
 𪸘	pusag
 𡌀	satri
 𢆭	gotlc
@@ -15935,7 +15935,7 @@ encoder:
 𪺹	qlglf
 袊	hzuoh
 𫠰	abdlj
-𥈭	ystaf
+𥈭	yataf
 𫔳	foeus
 𣼼	bbrmi
 𤀛	bbfuu
@@ -15974,7 +15974,7 @@ encoder:
 㵒	bbrky
 𤠆	qletn
 𩨼	yhxs
-𥌬	yszus
+𥌬	yazus
 𣻁	bbxac
 𨄹	tdhlt
 𦞹	qbvjo
@@ -15985,7 +15985,7 @@ encoder:
 𬔦	epboq
 𨨨	xauad
 𨉞	kwsun
-𥈿	yssdy
+𥈿	yasdy
 𨢼	mokun
 𬦳	tdxq
 𠿃	tagcm
@@ -16024,7 +16024,7 @@ encoder:
 𪩵	udeay
 𤉖	pumi
 𧛆	hzibi
-𥈲	ysnfh
+𥈲	yanfh
 𥻼	pmnk
 𧃵	cdctp
 𨃓	tdcum
@@ -16100,7 +16100,7 @@ encoder:
 𬄱	macfy
 𫠺	dafuh
 𪭚	hlius
-眜	ysabm
+眜	yaabm
 𦲿	cdycg
 𬹯	kyicu
 𢇱	zvuaf
@@ -16135,7 +16135,7 @@ encoder:
 𪣮	sabfn
 磮	vayyc
 𦰦	cdrrl
-𥊥	ysrnk
+𥊥	yarnk
 𪩱	rifmy
 㖡	taene
 𬗵	gaspq
@@ -16144,7 +16144,7 @@ encoder:
 鮋	nais
 𪽯	zardi
 𫢖	kbrnd
-𥆁	ysani
+𥆁	yaani
 樳	mafto
 鴼	ngndt
 𥽍	pmmms
@@ -16179,8 +16179,8 @@ encoder:
 艔	xrzcf
 𩄎	mbfly
 𫲼	horbu
-𥄯	ysuef
-𥍎	ysigv
+𥄯	yauef
+𥍎	yaigv
 𫽶	obriv
 𤍆	pumiv
 𬥪	sstfy
@@ -16309,7 +16309,7 @@ encoder:
 𬴝	eatsv
 𫄉	gatnt
 𪂠	iaman
-𪶛	maysi
+𪶛	mayai
 𫏈	tdiuv
 𬡬	hzlsr
 唹	taeuz
@@ -16363,7 +16363,7 @@ encoder:
 𪞼	eauzn
 𩩿	yhepi
 𤲂	iduad
-𥍖	ysjyy
+𥍖	yajyy
 𢫄	obmag
 𪇫	ngkzc
 𪲂	maiar
@@ -16444,7 +16444,7 @@ encoder:
 𤹽	zaeyu
 𢬐	obqri
 𠥤	jbctm
-𬪁	njltr
+𬪁	njptr
 㲸	bbrj
 𡅋	tamly
 𠳚	tarrl
@@ -16522,13 +16522,13 @@ encoder:
 𤠂	qlcgt
 𨇛	tdsly
 𩝇	ufcsm
-䁠	yspiu
+䁠	yapiu
 𪦍	ejgiv
 𦝋	qbfo
 𥱯	leiso
 𬗢	gaycg
 𢺎	obqug
-𥈺	ysxdi
+𥈺	yaxdi
 𡳥	flvuc
 𠶌	tahax
 㮧	mank
@@ -16538,7 +16538,7 @@ encoder:
 䐠	qbcek
 𠁹	ttkdu
 𣫷	lagrp
-𥉮	yspgq
+𥉮	yapgq
 𫹰	hgfo
 𠅜	eakni
 𥞵	lmvuu
@@ -16569,7 +16569,7 @@ encoder:
 𡚄	vodcj
 𫵨	flpyi
 㴥	bbyiq
-𥆺	ysmo
+𥆺	yamo
 𪪏	zvdof
 𥯇	lexrg
 𧳇	xquat
@@ -16578,7 +16578,7 @@ encoder:
 𤾷	kioip
 𤭶	nruqa
 𬍆	qlsle
-𥉭	ysoxt
+𥉭	yaoxt
 𡦅	ranng
 𫲃	glets
 𣄥	eapkf
@@ -16623,7 +16623,7 @@ encoder:
 𠖈	hhsad
 𧑅	tgsjg
 𫧂	lstne
-䀨	ysld
+䀨	yald
 𤴥	zarj
 𣐄	matt
 𢟹	pdvjo
@@ -16634,7 +16634,7 @@ encoder:
 𢷃	obfey
 𥱴	leobm
 𥸍	lefic
-𡙵	voysf
+𡙵	voyaf
 𥺐	pmtax
 𬑉	abmay
 𤢇	qllfs
@@ -16708,7 +16708,7 @@ encoder:
 𡝔	sagrg
 𬃪	maeat
 𢋠	eapne
-𥄭	yslac
+𥄭	yalac
 𡎛	saury
 𡳪	fllsk
 𪓇	yisuv
@@ -16727,7 +16727,7 @@ encoder:
 䕯	cdmsx
 𦄈	gaxai
 𠲜	taxbf
-𣙧	maysf
+𣙧	mayaf
 𪽠	kibni
 𢴎	obqtn
 𪭘	hljbf
@@ -16766,7 +16766,7 @@ encoder:
 𫔬	abrlf
 𣅗	iarr
 𣻂	bboxt
-𥋽	ysyic
+𥋽	yayic
 𢲩	obgru
 𧒊	tglti
 𨐷	eceld
@@ -16775,7 +16775,7 @@ encoder:
 𫭻	sarrh
 𢹌	obhil
 𠼽	taxby
-𬑫	ysaic
+𬑫	yaaic
 𫹄	fdfs
 𬩛	euohv
 𩷳	nafll
@@ -16908,7 +16908,7 @@ encoder:
 𱓕	tagfr
 湈	bbcsm
 喡	taftc
-𥊦	ysfnr
+𥊦	yafnr
 槯	mayyk
 𣙺	makun
 𭋙	tahgi
@@ -16928,7 +16928,7 @@ encoder:
 𪧡	coyho
 𠫏	vvluc
 𥓹	vaclu
-𥊙	yskun
+𥊙	yakun
 𡑩	sanen
 苝	cdzdn
 𡳹	fllnn
@@ -16956,7 +16956,7 @@ encoder:
 𤽵	kioqr
 𦆚	ganen
 𪳌	masyr
-𥆡	ysuft
+𥆡	yauft
 𡎞	sadoy
 𢵱	obfac
 𩸱	naxa
@@ -16980,7 +16980,7 @@ encoder:
 𪨀	iugdy
 𬊨	pugfr
 𬔙	rosoe
-睸	ysfly
+睸	yafly
 𠊚	kbiao
 鯜	naepg
 𨎟	miint
@@ -17007,7 +17007,7 @@ encoder:
 𧍏	tggct
 𨦩	xaejg
 𧟁	hzwpc
-䀡	ysdot
+䀡	yadot
 𧚭	hzpac
 𤝹	qllsi
 𠺸	tabhf
@@ -17117,9 +17117,9 @@ encoder:
 𬚿	youfm
 𪺦	kfqci
 𫦑	pwper
-𥋕	ysnuy
+𥋕	yanuy
 𠝻	cwgbi
-䁲	ysyiy
+䁲	yayiy
 𡎜	sacyp
 𣼫	bbifd
 𠓀	lsnnt
@@ -17192,7 +17192,7 @@ encoder:
 𢙫	pdtov
 𥻙	pmpwv
 𫲬	rblrs
-𥋼	ysuyg
+𥋼	yauyg
 𥙒	hegsg
 㗂	taily
 𠱇	tahu
@@ -17202,13 +17202,13 @@ encoder:
 𨧠	xaqac
 𢞆	pdelx
 𪮏	loidh
-𥋔	ysywl
+𥋔	yaywl
 𪷧	bbftp
 𫭚	saiu
 𬦹	tdndm
 𫆶	doihq
 𤇣	pulw
-䁐	yscyv
+䁐	yacyv
 𦝬	qbhuv
 𦞓	qbbxn
 䰼	nauef
@@ -17233,8 +17233,8 @@ encoder:
 𧁹	zvmct
 𡂒	taxxy
 𪷗	bbqkc
-𥆻	ystak
-眪	ysayu
+𥆻	yatak
+眪	yaayu
 𤊩	pumam
 萻	cdepi
 𬂻	mafac
@@ -17357,7 +17357,7 @@ encoder:
 𫴐	hoczc
 𣼳	bbspq
 𧀨	cdgug
-𥍒	yslth
+𥍒	yalth
 𪞧	zouan
 𡁚	tabts
 𧒌	tgtnt
@@ -17387,7 +17387,7 @@ encoder:
 𦵗	cdeoc
 𬰹	epiai
 㟴	yykt
-𥆹	ysyru
+𥆹	yayru
 咾	tasln
 𫥨	yivgy
 𫺙	pdiau
@@ -17407,7 +17407,7 @@ encoder:
 𬃂	mamsf
 𧋶	tgbbq
 𦝺	qbpwv
-鸜	ysykn
+鸜	yaykn
 𨶛	fosdy
 𩭶	wjxbi
 𫊶	tgiuv
@@ -17436,11 +17436,11 @@ encoder:
 𬠌	tgrsr
 𪫚	bbsfs
 㙤	sadpo
-𥄬	yssdf
+𥄬	yasdf
 𤉠	bbhnp
 𧤭	rinrl
 𫩒	tayd
-𥋲	ysziu
+𥋲	yaziu
 𨤔	fllxm
 𬥮	catry
 𨙝	mbihf
@@ -17450,7 +17450,7 @@ encoder:
 𩸵	nauad
 𨁮	tdeut
 𠹰	taylh
-𥆿	ysobe
+𥆿	yaobe
 𪯝	caqbm
 鈂	xahhn
 𫵫	flpnn
@@ -17458,7 +17458,7 @@ encoder:
 𢄩	ydchy
 𬳖	paknr
 𫁎	husrg
-𥈢	yspwv
+𥈢	yapwv
 𨃺	tdgyu
 𬷨	vjoen
 㩱	obxfo
@@ -17530,7 +17530,7 @@ encoder:
 㳉	bbqb
 𬐉	iufsk
 𱔪	taeuk
-𥅞	ysjes
+𥅞	yajes
 𫡮	hapmr
 㯖	macah
 𨏧	djiym
@@ -17569,7 +17569,7 @@ encoder:
 哣	taatp
 𥃛	xrqei
 捈	obuol
-𪾯	ysxon
+𪾯	yaxon
 𱢯	cdcmi
 𨤯	lciat
 𬂸	malil
@@ -17590,7 +17590,7 @@ encoder:
 𫼜	lodot
 𣼪	uabat
 𨻮	rthnl
-𥌷	yshyh
+𥌷	yahyh
 𪦸	raeau
 𣱶	bbdo
 𧏰	tgwhn
@@ -17663,7 +17663,7 @@ encoder:
 𥩯	eprlr
 𨄳	tdcdm
 𬇋	hlnj
-𥊤	ysuao
+𥊤	yauao
 𪱎	ialqi
 𠽆	taeyu
 𬈉	bbsat
@@ -17745,7 +17745,7 @@ encoder:
 𪝎	kbmuh
 𬚇	hlrfv
 𡄐	taeks
-𥉰	ysxbk
+𥉰	yaxbk
 𢴊	obhav
 𥒥	vanen
 𩄰	mbaip
@@ -17754,7 +17754,7 @@ encoder:
 𡁽	tamum
 𪡱	tawil
 𡀩	tacnt
-𥅲	yslsi
+𥅲	yalsi
 𠦯	psfu
 𥭎	lebbe
 𢩉	hlcau
@@ -17777,7 +17777,7 @@ encoder:
 𬷶	eatln
 𫆜	youfn
 𦛺	qbtri
-𥈱	ysrfy
+𥈱	yarfy
 𬯜	rtayu
 䳱	fefrn
 𫼳	obcde
@@ -17808,7 +17808,7 @@ encoder:
 𬜉	ldidh
 𱓱	cothr
 𧐸	tgqtx
-𬑑	yssln
+𬑑	yasln
 𬇆	ljssv
 𩠳	pakmk
 𬮙	foabr
@@ -17853,7 +17853,7 @@ encoder:
 𥵗	leein
 𥘶	hegur
 𧕃	tgnne
-𥆄	ysiuv
+𥆄	yaiuv
 𧎠	tgngq
 𠀗	calb
 𪽃	lwwus
@@ -17905,7 +17905,7 @@ encoder:
 𪞻	eaugv
 𨔉	haeuw
 㵊	bbiwf
-𥋟	ysplj
+𥋟	yaplj
 𥖐	varpv
 𡃎	taumv
 踭	tdnbf
@@ -18032,7 +18032,7 @@ encoder:
 𫴇	hodei
 𤋾	puepi
 𠽙	takff
-𥈁	yshnr
+𥈁	yahnr
 𨀌	tdtar
 𫭵	sapfc
 𣔨	maddq
@@ -18050,7 +18050,7 @@ encoder:
 𠸟	tavdy
 𫱑	glvlh
 𱢱	iadaf
-𥅃	ysiaa
+𥅃	yaiaa
 𣌴	iaioq
 僘	kbitl
 𣍀	iaitm
@@ -18168,7 +18168,7 @@ encoder:
 𪵅	abnyc
 𫋶	hzrnd
 𪪪	zvcwd
-𥍍	yscly
+𥍍	yacly
 𦙜	qbvvr
 𡗶	abvod
 𡄦	tajtt
@@ -18190,10 +18190,10 @@ encoder:
 𤺮	zahlk
 𨆡	tdcgm
 𦠽	qbxrp
-𠽗	taysf
+𠽗	tayaf
 𱤎	magnz
 𤃞	bbyuu
-𥇈	ystjg
+𥇈	yatjg
 𣊋	iaalt
 𡄏	tapth
 𠵏	tajat
@@ -18227,7 +18227,7 @@ encoder:
 𬥣	uarvr
 𫴺	magbi
 𥒅	vavte
-𥇶	ysxa
+𥇶	yaxa
 𣛤	iamuu
 㗳	talat
 𡑪	sacug
@@ -18249,7 +18249,7 @@ encoder:
 𡀮	tanen
 𢯨	obcay
 𱔒	taeoq
-𥄵	ysmae
+𥄵	yamae
 𱤒	abmiv
 𤅉	bbmfq
 擛	obcgm
@@ -18291,7 +18291,7 @@ encoder:
 𬧐	tdgai
 姅	glps
 𣋼	ianai
-𥆃	ysglt
+𥆃	yaglt
 𤀐	bbchy
 𪝹	kbhil
 𦅯	galso
@@ -18303,11 +18303,11 @@ encoder:
 𫲍	glcvi
 𠾸	tasrt
 𢗉	pdyou
-𪾟	ysaga
+𪾟	yaaga
 𠝇	zvnri
 𢹤	obsng
 𧜵	hzchy
-𥌧	ysnai
+𥌧	yanai
 𫫒	tafsi
 𫮐	sapak
 𪲭	maesn
@@ -18325,7 +18325,7 @@ encoder:
 𠊙	kbhoy
 𢙽	lagrh
 㨂	obmai
-𥄰	yskbs
+𥄰	yakbs
 䲼	lwng
 𧿬	tdjog
 𫫛	tacdm
@@ -18385,7 +18385,7 @@ encoder:
 𨆷	tdipo
 𧻚	susoi
 𪽝	yisgi
-𪿀	yshyg
+𪿀	yahyg
 嚈	tavqv
 𣩦	abnsv
 𪹚	puehe
@@ -18396,7 +18396,7 @@ encoder:
 𥬋	leuaf
 焒	putat
 檂	maiiv
-𥉹	ysidg
+𥉹	yaidg
 𢩣	hlenw
 𦂿	gacrr
 𪐾	yisks
@@ -18428,14 +18428,14 @@ encoder:
 𢣧	pddaf
 𪶭	bbaip
 𬁥	slfii
-𥋴	ysmms
+𥋴	yamms
 枮	madot
 𦧘	youul
 𠄯	abfma
 𬺘	epigy
 𬦿	tdkbe
 𨁍	tdyn
-𬑛	ysufh
+𬑛	yaufh
 𩿚	ngzoc
 𠲧	tajes
 𪧻	kwoep
@@ -18453,7 +18453,7 @@ encoder:
 𢆠	maupc
 𣖟	maeoc
 𪷩	bbamm
-𥄮	yslbs
+𥄮	yalbs
 𥜤	hegjj
 𦲞	cdgvx
 㧺	obibi
@@ -18616,7 +18616,7 @@ encoder:
 𧿨	tdxof
 掑	obcw
 𢕸	udpnc
-𱳚	yseiv
+𱳚	yaeiv
 𦀐	gazvs
 𧺀	sakxi
 𠴍	tareh
@@ -18634,7 +18634,7 @@ encoder:
 𫪣	xoaks
 𨙍	halyt
 𤝑	qllbh
-𥅘	ysnbi
+𥅘	yanbi
 𨊌	kwpnc
 抈	obqb
 𡍝	sacyu
@@ -18647,7 +18647,7 @@ encoder:
 㖅	tajva
 𦎡	pwvol
 𡂎	taggi
-𥋓	ysiti
+𥋓	yaiti
 鑡	xadu
 𢷹	obzus
 𧛋	hzufh
@@ -18680,13 +18680,13 @@ encoder:
 𦁀	gayu
 𡏢	sawp
 𤯰	lwzne
-𥇻	yshoi
+𥇻	yahoi
 㓠	dotai
 𥶇	lenai
 𤣄	qlzfp
 𫩉	hegwf
 𤹘	zavjo
-𥈳	yshuv
+𥈳	yahuv
 𢹫	wdrly
 𣞽	mafpr
 𬛯	kyvei
@@ -18849,7 +18849,7 @@ encoder:
 𪫵	wacdh
 𥖕	takvf
 獜	qlpnc
-𫧾	njlgs
+𫧾	njpgs
 𪷥	bbeun
 𪽽	kixs
 𠡺	sagrr
@@ -18972,7 +18972,7 @@ encoder:
 𢠣	pdrmi
 𤳄	isysg
 𨡊	motri
-䁾	yscje
+䁾	yacje
 𩂟	mbjv
 𣾽	bblll
 𣿇	bblfh
@@ -19058,7 +19058,7 @@ encoder:
 𧻪	sujlv
 𫥸	rodot
 𣛩	maluw
-𥌸	ysfnk
+𥌸	yafnk
 𧛇	hzwj
 𪷮	bblul
 𫾕	obcvp
@@ -19081,7 +19081,7 @@ encoder:
 㖔	taavt
 𩷊	nagdl
 𥺎	pmywu
-𥇹	ysiao
+𥇹	yaiao
 𪶊	bbeuo
 𢝀	pdhuv
 溩	bbnk
@@ -19266,7 +19266,7 @@ encoder:
 𫥩	eauft
 𢺛	obfic
 𤵳	zamaa
-䀲	yslag
+䀲	yalag
 𨇍	tdssm
 𢽙	flljl
 𢪲	obnnn
@@ -19312,7 +19312,7 @@ encoder:
 𪳔	lsiyc
 𨑮	hakbc
 𠻪	tabpp
-𥊜	ysefv
+𥊜	yaefv
 𧵟	yuxe
 𠠚	duio
 𫦇	uardg
@@ -19344,7 +19344,7 @@ encoder:
 𫴳	fsowc
 𦁂	gakbp
 𠿴	tavao
-𥋵	ysein
+𥋵	yaein
 𢰥	obcgt
 﨡	tglw
 𤖸	kfebw
@@ -19360,7 +19360,7 @@ encoder:
 𢗠	pdjor
 𨯘	xakuu
 𥻡	pmfly
-𥋶	ysetl
+𥋶	yaetl
 𣛭	maslr
 𬕻	lewih
 橷	maknn
@@ -19368,7 +19368,7 @@ encoder:
 𡚦	gleb
 𩻕	namhn
 袩	hzdot
-𥌎	ysmbv
+𥌎	yambv
 𫅡	pwfpt
 𦋦	yicgy
 𤆻	pujor
@@ -19444,7 +19444,7 @@ encoder:
 𬨵	haxlh
 𬂨	maond
 𥱫	levow
-𥈶	yscyp
+𥈶	yacyp
 𠽕	taofd
 𢫘	obdof
 𠸚	tacnt
@@ -19505,7 +19505,7 @@ encoder:
 𬧻	itglm
 𬔫	epmyy
 𬖮	pmily
-𥊘	yshat
+𥊘	yahat
 𪤍	safcj
 𤺭	zalfs
 𩄓	mbcgm
@@ -19525,7 +19525,7 @@ encoder:
 㙁	salag
 𢹥	obvvs
 𠇍	uopd
-𥇁	yskew
+𥇁	yakew
 𣌂	iavqs
 𩽗	nawut
 𬋼	uauei
@@ -19589,7 +19589,7 @@ encoder:
 𫤓	kbnhf
 𡅷	taelj
 𥸁	lecsk
-𥇸	ysxsy
+𥇸	yaxsy
 𩠴	pakyi
 𫔮	foqb
 𦀹	gamao
@@ -19649,9 +19649,9 @@ encoder:
 𪭃	pdmiy
 𠒷	lsnke
 𣜰	maziu
-䁘	ysxly
+䁘	yaxly
 𪨚	flpew
-𣈖	yswus
+𣈖	yawus
 𣅘	iaabf
 𢳳	obyyc
 𫸉	zvfsp
@@ -19776,7 +19776,7 @@ encoder:
 嚛	takgm
 𬛘	qbpmo
 𬛒	qbbbs
-𥉲	ysfcj
+𥉲	yafcj
 𬷊	ngxe
 𩠔	pakyl
 𡫨	hohyy
@@ -19840,7 +19840,7 @@ encoder:
 𠜏	taydi
 𢶶	obeih
 𧁴	cduui
-𥊗	ysbpp
+𥊗	yabpp
 𢶻	obcdq
 𣠘	malbc
 𪸟	puned
@@ -19886,7 +19886,7 @@ encoder:
 𪯛	erlwg
 𪁴	nguut
 𣼯	bbset
-睈	ystaw
+睈	yataw
 𥃚	epiqy
 𢚶	pdxbg
 𣠰	malfi
@@ -19942,7 +19942,7 @@ encoder:
 𫡌	tatpr
 䳧	ngkfl
 𬳕	pakyl
-䁛	yskt
+䁛	yakt
 𣗓	soius
 𫋩	tgynp
 𫺴	ejhtq
@@ -19957,7 +19957,7 @@ encoder:
 𤈤	punug
 𪵤	lradt
 𠻷	taway
-𥌦	ysssm
+𥌦	yassm
 𫃔	pmdpr
 𧍊	tgvss
 𬒼	hegnn
@@ -20001,8 +20001,8 @@ encoder:
 𣦰	vvlte
 𬩍	hannp
 𦼛	cdsux
-𥉸	ysjfs
-𪿄	yslig
+𥉸	yajfs
+𪿄	yalig
 𤶺	zatan
 𫑺	molay
 𬲄	qosut
@@ -20020,7 +20020,7 @@ encoder:
 𠻉	tahal
 𤔷	rblxf
 𮬩	pdng
-𪾭	ysmam
+𪾭	yamam
 𪬪	uodih
 𠳑	taonr
 𫱩	glfcf
@@ -20053,7 +20053,7 @@ encoder:
 𠈋	kbjlv
 𤓢	puicn
 𡂲	taani
-𥉫	yseig
+𥉫	yaeig
 𡃓	taoxi
 𫈨	cdiuk
 𬢀	xonuy
@@ -20097,7 +20097,7 @@ encoder:
 𢷁	obqyp
 𦅰	gamic
 𫐹	hafly
-𥅿	ysobq
+𥅿	yaobq
 𫒬	xaknn
 𦪨	xrtte
 𫷞	lacih
@@ -20111,7 +20111,7 @@ encoder:
 𥻠	pmyil
 𡮋	iumal
 啺	tainx
-𪾦	ysdof
+𪾦	yadof
 𨫅	xakyc
 𢱒	obpwv
 𦅱	gatli
@@ -20140,7 +20140,7 @@ encoder:
 𫲤	rotar
 嚂	tajly
 𦝅	qburh
-矑	ysdiy
+矑	yadiy
 𦡬	qbuyg
 𪁆	ngxat
 𢶹	obiei
@@ -20316,7 +20316,7 @@ encoder:
 𡄩	taxfh
 𬴚	eaths
 抋	obhg
-𥊖	yssak
+𥊖	yasak
 𣷳	bbzne
 𠿳	taziu
 㮿	maics
@@ -20351,7 +20351,7 @@ encoder:
 𦣙	qbicn
 𡉏	sarr
 𦀑	gaeui
-𱳆	ktys
+𱳆	ktya
 𦼨	cddyu
 𡮭	rsrui
 𣋆	iafow
@@ -20372,12 +20372,12 @@ encoder:
 𢹪	obpux
 𪫓	udfnd
 𢯧	obuul
-𥃱	ysuo
+𥃱	yauo
 𫏠	tdily
 𩆷	mbuia
 𧋆	tgwoi
 𪹣	pudji
-䁩	ysna
+䁩	yana
 鉷	xacau
 𡞖	glzne
 焾	puufh
@@ -20463,7 +20463,7 @@ encoder:
 𢆁	ydliu
 𤔻	cdynx
 𥵿	lecav
-𥊞	ystta
+𥊞	yatta
 蒥	cdnri
 𢟖	pdbhf
 𪷘	bblil
@@ -20485,7 +20485,7 @@ encoder:
 𨃉	tduso
 𨰈	xacll
 𬟵	tglbq
-𥍛	ysywl
+𥍛	yaywl
 𩸳	namal
 𬁄	iacsn
 𢠅	pdwuk
@@ -20542,7 +20542,7 @@ encoder:
 𧟝	hzxkf
 𨁱	tdfll
 𬵘	nacqs
-𥋳	ysyyk
+𥋳	yayyk
 𢱐	obgbn
 𣹟	bbsdy
 𬝴	cdeuk
@@ -20562,7 +20562,7 @@ encoder:
 𡮨	yiyui
 𨳒	foiu
 𫦵	hoayr
-𥈵	ysmay
+𥈵	yamay
 𠲡	taglr
 𢶷	obnrl
 𤀚	bbcum
@@ -20607,7 +20607,7 @@ encoder:
 𣱆	hlnj
 𧥇	nbqyk
 𢚽	pdbgr
-䀩	ysndt
+䀩	yandt
 𥩍	hujni
 𣾺	bbfac
 𨅼	tdcuu
@@ -20627,7 +20627,7 @@ encoder:
 𫄓	gaypv
 𫐂	hoigm
 𪩨	nbyjf
-𢪷	obys
+𢪷	obya
 𦀎	gaani
 𤉕	isvop
 𧍍	tgmuu
@@ -20679,7 +20679,7 @@ encoder:
 𨷈	focyg
 𠶔	tapfs
 椲	maftc
-𥇷	ysyyv
+𥇷	yayyv
 𫠢	daad
 𪿍	lvtri
 𬋳	xbsrf
@@ -20690,7 +20690,7 @@ encoder:
 𤂨	bbmiv
 𨨫	xaxbm
 𠙣	qoysg
-𥋸	ysmbi
+𥋸	yambi
 𣜻	soivo
 𣌋	iauun
 𬉎	bbqis
@@ -20715,7 +20715,7 @@ encoder:
 㹭	qligl
 𠴫	tadif
 𫇖	ldeut
-𥌈	ysjly
+𥌈	yajly
 𤮟	agsak
 𥵖	leqih
 𬯩	rtany
@@ -20781,7 +20781,7 @@ encoder:
 𪵚	ljeag
 𦬻	cdglf
 𠲟	takbl
-𣮮	flysl
+𣮮	flyal
 𤻔	zacds
 𪽞	epigi
 𫸱	rgheg
@@ -20851,9 +20851,9 @@ encoder:
 𦓉	slnnt
 𣙩	mayhs
 𪽅	zvnel
-𥈰	ysbcu
+𥈰	yabcu
 𠶑	tapmg
-𥌫	yslgv
+𥌫	yalgv
 𬳘	pakiq
 𡄎	taxky
 𤝋	qleu
@@ -20868,7 +20868,7 @@ encoder:
 𫪹	wacct
 𨄴	tdspq
 𥱮	leoxg
-𥋺	yshxk
+𥋺	yahxk
 𠠊	yopsi
 𦝍	gvmuu
 𡮵	iuyis
@@ -20911,7 +20911,7 @@ encoder:
 𦠳	qbfrr
 𦗽	wczne
 𣉸	iaeor
-𱳍	ystnt
+𱳍	yatnt
 𤏪	puphr
 㛎	gltat
 𣟮	fefun
@@ -21002,7 +21002,7 @@ encoder:
 𡹠	yyhoy
 𡁾	taetn
 𪆧	ngsjg
-𬑅	ysnbd
+𬑅	yanbd
 𤶈	zamt
 𣻆	bbrlg
 𣐳	matau
@@ -21066,7 +21066,7 @@ encoder:
 𧶮	yutct
 䈊	lesun
 𩽖	nalew
-𥌥	yseim
+𥌥	yaeim
 𥑥	valw
 𥷒	levld
 𠰂	tason
@@ -21076,10 +21076,10 @@ encoder:
 𨭑	gaenx
 𡎤	sapwv
 𤠹	qlchy
-𥇀	yscde
+𥇀	yacde
 㨶	obng
 𣑌	magrt
-𥆂	yskls
+𥆂	yakls
 𣼩	bbrsg
 𬲞	ufgcm
 𥓸	vahzx
@@ -21092,7 +21092,7 @@ encoder:
 𠠩	idnqi
 𥃞	fsaug
 𤄮	bbsnn
-𥉬	ysaip
+𥉬	yaaip
 𤀏	bbejs
 𪮨	obbum
 𫆡	eagnd
@@ -21126,7 +21126,7 @@ encoder:
 𤥑	waejg
 𠿷	tafey
 𨅁	tdlee
-𥄫	ysrbu
+𥄫	yarbu
 𫴼	fooli
 𦁁	gapfc
 𦁸	gautr
@@ -21193,7 +21193,7 @@ encoder:
 𧏶	tgrtm
 𫾑	oblec
 𣖢	abmuc
-𥍑	ysmyt
+𥍑	yamyt
 搎	obrlg
 𠳹	tazvm
 𫆉	lmpuw
@@ -21220,7 +21220,7 @@ encoder:
 𫵡	fllqa
 炪	pugdy
 𫢩	flnef
-䀧	yscau
+䀧	yacau
 𫭧	sarlr
 𬛛	zdnqc
 掋	obzne
@@ -21292,7 +21292,7 @@ encoder:
 𠐅	kbwhy
 𠳘	takdl
 𧋹	tgavd
-𥃨	ysdo
+𥃨	yado
 𤸭	zauds
 𣍍	hhnii
 𥶮	lemyk
@@ -21303,7 +21303,7 @@ encoder:
 𦹵	cdict
 𤈞	puwoi
 𫑊	harty
-𣼹	bbysf
+𣼹	bbyaf
 𤁕	bbemt
 𠾷	tasrf
 𦅭	garpv
@@ -21396,7 +21396,7 @@ encoder:
 𤬲	agyou
 𪭇	pdpee
 𫐪	harni
-𥆽	ystef
+𥆽	yatef
 𪾉	fdwcr
 𥹘	pmayu
 𩈩	vatsr
@@ -21420,13 +21420,13 @@ encoder:
 𦨂	csmnc
 樍	mawdy
 𬰊	mbhae
-𥇂	ystri
+𥇂	yatri
 𡭱	gdyil
 掿	obcvt
 𢯝	obbbp
 𫿹	cdydx
 𧎸	tgeyt
-𥉯	ysmss
+𥉯	yamss
 𫇁	qblun
 𦀍	gavvd
 𦂛	gaelr
@@ -21528,7 +21528,7 @@ encoder:
 𬏻	zangl
 𡋁	sapay
 𬮜	foabv
-𥊠	ysyhs
+𥊠	yayhs
 㮲	manng
 𬉆	bbfpg
 𧐖	tgham
@@ -21577,7 +21577,7 @@ encoder:
 𬄅	mabis
 揂	obpom
 𪥉	abvor
-𥌀	yshns
+𥌀	yahns
 𪢒	tapgl
 𧑃	tgwrl
 𦞔	qbpiv
@@ -21659,7 +21659,7 @@ encoder:
 𫻈	glfft
 𢴌	obfot
 𫡀	paiek
-𥋒	yslti
+𥋒	yalti
 𫏥	tdeaf
 𩛄	ufayu
 𧐼	tgoic
@@ -21728,7 +21728,7 @@ encoder:
 𤻾	zaric
 𩻔	nahox
 𪬶	pdglg
-𥊚	yszmm
+𥊚	yazmm
 𠉠	kbxq
 𬄞	soiqs
 𫂨	lesti
@@ -21805,7 +21805,7 @@ encoder:
 𦼇	cdsgh
 㧡	obegu
 𧋟	tglag
-𥋷	yscnt
+𥋷	yacnt
 𫀟	sirul
 𠶖	tamaw
 𫽡	loury
@@ -21817,7 +21817,7 @@ encoder:
 𩽤	namok
 𡓾	sahtp
 𬔑	hudpo
-𥈯	yskis
+𥈯	yakis
 𠌨	kbjbi
 𣃱	erjbw
 𦟖	youuw
@@ -21920,7 +21920,7 @@ encoder:
 圚	totay
 𠡚	sonzr
 襵	hzwww
-𥆼	ysirs
+𥆼	yairs
 𤻑	zaziu
 𤀗	bbltk
 𫡻	ejtaq
@@ -21968,7 +21968,7 @@ encoder:
 𱘔	sarnc
 𩠧	pakrt
 𬈤	bbfnl
-𬑦	yskjn
+𬑦	yakjn
 𫽗	obvdy
 𫥴	riro
 𨄶	tdpei
@@ -21993,7 +21993,7 @@ encoder:
 𠖨	hhsav
 𣜲	mahcy
 𢫈	obcot
-𪾮	ysxls
+𪾮	yaxls
 𨮎	xacnt
 𣹖	bbany
 瀐	bbsaj
@@ -22028,7 +22028,7 @@ encoder:
 𧍋	tgiao
 𤓺	xbzoc
 埬	samai
-𥆾	ysreh
+𥆾	yareh
 𦢟	qboip
 𣈓	iaobf
 𪄥	ngyh
@@ -22097,12 +22097,12 @@ encoder:
 𤊫	pusaf
 𠼸	takig
 䈜	lekhf
-𬑩	ysllc
+𬑩	yallc
 𫫤	tahtl
 𤉓	vvpui
 𬠫	tgciq
 𠎫	kbccq
-𥊀	ysgux
+𥊀	yagux
 𫴱	fsolg
 𠯻	taggr
 𣹙	bbvqr
@@ -22259,10 +22259,10 @@ encoder:
 扖	obuo
 𨮹	xahct
 㾞	zamo
-𣭒	ljys
+𣭒	ljya
 𩇅	mbeiv
 呞	tarat
-𥊴	ysiwf
+𥊴	yaiwf
 梖	mayu
 𤇲	kblsp
 𢝸	pdyt
@@ -22314,7 +22314,7 @@ encoder:
 囒	tacmi
 䃹	vafmi
 𬵿	nacmi
-𥈵	ysmai
+𥈵	yamai
 𫋨	tgemi
 𢒞	maiax
 欗	macmi
@@ -22347,7 +22347,7 @@ encoder:
 媱	glnly
 猺	qlnly
 嗂	tanly
-䁘	ysnly
+䁘	yanly
 𡏟	sanly
 謡	eoxcg
 瑶	waxcg
@@ -22355,7 +22355,7 @@ encoder:
 埓	saneo
 将	zdxbo
 蒋	cdzxo
-直	coysg
+直	coyag
 置	yicyg
 植	macyg
 殖	abnyg
@@ -22378,7 +22378,7 @@ encoder:
 禛	hengu
 禛	singu
 闐	fongu
-瞋	ysngu
+瞋	yangu
 稹	lmngu
 寘	hongu
 瑱	wangu
@@ -22403,7 +22403,7 @@ encoder:
 𢅬	kiygu
 𩝻	ufngu
 𤠶	qlngu
-具	ysabu
+具	yaabu
 真	coyau
 鎮	xacau
 填	sacau
@@ -22442,7 +22442,7 @@ encoder:
 趂	sulai
 𫒂	laiis
 𫵇	flyli
-𥅘	yslai
+𥅘	yalai
 𠺰	talli
 𠰚	talai
 𢘝	pdlai
@@ -22502,7 +22502,7 @@ encoder:
 𪱕	iawld
 𪟳	lacld
 𪠉	vvdld
-𬑅	yslad
+𬑅	yalad
 𪥯	ladgf
 𫆡	eagld
 𪞀	iuvld
@@ -22539,3 +22539,85 @@ encoder:
 搢	obsgi
 溍	bbsgi
 鄑	sogir
+低	kbnja
+底	zvnja
+抵	obnja
+牴	lsnja
+邸	njabr
+祗	henja
+骶	yhnja
+氐	njab
+砥	vanja
+胝	qbnja
+羝	pwnja
+鴟	njabn
+詆	eonja
+柢	manja
+坻	sanja
+厎	vvnja
+袛	hznja
+秪	lmnja
+菧	cdzna
+茋	cdnja
+蚳	tgnja
+軧	minja
+岻	yynja
+泜	bbnja
+阺	rtnja
+弤	rgnja
+貾	yunja
+觝	nbqna
+𥓵	vazna
+𬺙	epina
+𢋠	eapna
+𧍉	tgzna
+𡌠	sakna
+𦝉	qbzna
+𬇉	njabr
+𤯰	lwzna
+𪂰	ngzna
+𦰣	cdkna
+𣷳	bbzna
+𡞖	glzna
+𪽅	zvnal
+𢋴	canna
+掋	obzna
+㭽	mazna
+𦨢	xrnja
+𦅴	fllna
+𠴓	takna
+印	kbsor
+茚	cdksr
+襃	eakmn
+褎	eakln
+𬏥	zaksr
+界	iduok
+髮	wjxue
+拔	obvue
+跋	tdvue
+魃	ktvue
+鈸	xavue
+紱	gavue
+菝	cdoue
+祓	hevue
+黻	ipiue
+茇	cdvue
+犮	vouee
+沷	bbvue
+妭	glvue
+秡	lmvue
+袚	hzvue
+軷	mivue
+韍	fatue
+胈	qbvue
+詙	eovue
+帗	ydvue
+蛂	tgvue
+鼥	ksgue
+瞂	xocue
+翇	rzrue
+𧛌	eanue
+響	gufei
+饗	gufru
+蠁	gufrt
+嚮	gufkt

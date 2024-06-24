@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.0.2"
+version: "0.0.3"
 sort: by_weight
 columns:
   - text
@@ -72,7 +72,7 @@ columns:
 些	iir
 住	nvs
 路	jir
-睡	lbm
+睡	lam
 报	dvy
 掉	dvi
 作	nvm
@@ -283,7 +283,7 @@ columns:
 登	xja
 微	oil
 任	nvb
-盼	lbo
+盼	lao
 魔	tgf
 司	yva
 奇	gda
@@ -342,7 +342,7 @@ columns:
 嗓	jaf
 游	vvy
 跨	jig
-眨	lbw
+眨	law
 蛇	jzw
 屏	xmu
 略	kir
@@ -434,7 +434,7 @@ columns:
 禁	fab
 桥	fan
 霞	fvx
-瞧	lbn
+瞧	lan
 箭	msu
 憋	kvl
 盟	kaq
@@ -507,7 +507,7 @@ columns:
 荒	eis
 腹	qvm
 疑	rrm
-眸	lbz
+眸	laz
 孩	yas
 怪	uib
 帽	lik
@@ -521,6 +521,7 @@ columns:
 毅	sug
 弦	yzs
 罩	lki
+卵	rhu
 迹	wao
 垂	mee
 宿	wdn
@@ -568,7 +569,7 @@ columns:
 嘶	jap
 姑	zme
 衡	oir
-眠	lby
+眠	lay
 富	wdk
 麟	txu
 崩	llq
@@ -583,11 +584,11 @@ columns:
 削	koq
 睿	idw
 葬	eia
-瞪	lbx
+瞪	lax
 危	rvg
 卸	mbi
 慈	uaz
-瞒	lbe
+瞒	lae
 鞭	een
 媛	zmp
 禹	mvj
@@ -611,7 +612,7 @@ columns:
 曦	kau
 羞	ucx
 娇	zmn
-瞳	lbs
+瞳	las
 按	dvz
 氢	myx
 稻	mfp
@@ -650,7 +651,7 @@ columns:
 嵌	lle
 袍	wtr
 臻	hbc
-眺	lbv
+眺	lav
 寂	wdi
 晕	kaw
 秤	mfa
@@ -669,7 +670,7 @@ columns:
 艇	pyy
 熄	uow
 逻	wal
-瞬	lbp
+瞬	lap
 埃	bam
 蛛	jzm
 层	xmb
@@ -683,7 +684,7 @@ columns:
 阜	mvy
 臧	zgh
 嗯	jaw
-瞿	lbl
+瞿	lal
 蛟	jzo
 椒	fai
 领	odw
@@ -692,13 +693,13 @@ columns:
 筐	msh
 剁	qdf
 笨	msa
-瞟	lbf
+瞟	laf
 舅	nbk
 阪	yjp
 褪	wtw
 鞠	eer
 酬	fdv
-睛	lbc
+睛	lac
 窍	wox
 垢	bap
 奚	pvz
@@ -722,12 +723,12 @@ columns:
 碌	gax
 禧	wsb
 戚	hgi
-睁	lbr
+睁	lar
 襟	wtf
 悦	uiu
 炯	uol
 盔	gdu
-睦	lbb
+睦	lab
 骂	jac
 尬	gro
 疚	tas
@@ -773,7 +774,7 @@ columns:
 脚	qvb
 酌	fdr
 漂	vvb
-眶	lbh
+眶	lah
 咎	rii
 粮	ufs
 祗	wsr
@@ -826,7 +827,7 @@ columns:
 狞	qmw
 蠡	zxg
 晌	kan
-睫	lba
+睫	laa
 虾	jza
 静	ciq
 氦	mys
@@ -925,7 +926,7 @@ columns:
 参	zsg
 瘠	tav
 毽	mhy
-瞄	lbk
+瞄	lak
 蜻	jzc
 避	was
 舨	pyp
@@ -1375,7 +1376,7 @@ columns:
 党	kor
 咸	hgj
 磺	gao
-瞅	lbu
+瞅	lau
 契	cig
 裘	dsr
 庸	tgq
@@ -1503,7 +1504,7 @@ columns:
 韵	sut
 髭	chr
 袈	ymr
-睽	lbg
+睽	lag
 肄	rrb
 蜢	jzl
 谿	pvj

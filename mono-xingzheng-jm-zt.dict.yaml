@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-zt # 正體簡碼
-version: "0.0.2"
+version: "0.0.3"
 sort: by_weight
 columns:
   - text
@@ -108,7 +108,7 @@ columns:
 使	nvs
 路	jir
 續	zal
-睡	lbm
+睡	lam
 裝	zgb
 招	dvy
 圖	jdj
@@ -430,7 +430,7 @@ columns:
 聯	cez
 程	mfj
 偏	nvw
-印	rha
+任	nvb
 銷	pak
 零	fvo
 環	cal
@@ -444,8 +444,7 @@ columns:
 娘	zms
 登	xja
 微	oil
-任	nvb
-瞭	lbo
+瞭	lao
 麻	tgf
 司	yva
 換	dvg
@@ -536,7 +535,7 @@ columns:
 噪	jaf
 跨	jig
 慮	ihk
-瞇	lbw
+瞇	law
 蛇	jzw
 購	loe
 略	kir
@@ -651,7 +650,7 @@ columns:
 刻	sak
 梯	fan
 擊	fkz
-瞧	lbn
+瞧	lan
 箭	msu
 盟	kaq
 延	ysm
@@ -662,7 +661,7 @@ columns:
 籍	msc
 習	yty
 鈣	paa
-擾	dva
+抵	dva
 弟	udy
 讀	sdl
 柯	faa
@@ -724,7 +723,7 @@ columns:
 褲	wtt
 扇	wmy
 警	eis
-卵	rhm
+卿	rhm
 鶴	wwn
 函	xyv
 群	xgj
@@ -748,7 +747,7 @@ columns:
 巷	eao
 腹	qvm
 鵝	mdh
-鼎	lbz
+鼎	laz
 龔	sie
 孩	yas
 頻	iik
@@ -761,6 +760,7 @@ columns:
 端	sug
 弦	yzs
 罩	lki
+卵	rhu
 途	wao
 郵	mee
 統	zas
@@ -825,7 +825,7 @@ columns:
 媒	zme
 衡	oir
 窯	wou
-眠	lby
+眠	lay
 錶	pac
 辯	ses
 輯	fkj
@@ -852,12 +852,12 @@ columns:
 削	koq
 籃	msh
 壑	idw
-瞪	lbx
+瞪	lax
 危	rvg
 卸	mbi
 塑	uaz
 闊	xdv
-瞬	lbe
+瞬	lae
 駝	cur
 鞭	een
 谷	oaj
@@ -884,7 +884,7 @@ columns:
 曦	kau
 羞	ucx
 媳	zmn
-眩	lbs
+眩	las
 揭	dvz
 貳	hsb
 氯	myx
@@ -904,7 +904,7 @@ columns:
 貌	pqn
 炳	uoa
 廚	tgb
-睜	lbp
+睜	lap
 踴	jix
 模	fag
 循	oip
@@ -932,7 +932,7 @@ columns:
 眾	lkn
 袍	wtr
 臻	hbc
-眺	lbv
+眺	lav
 寂	wdi
 醣	fdt
 秤	mfa
@@ -981,7 +981,7 @@ columns:
 轄	fkw
 臧	zgh
 患	jaw
-瞌	lbl
+瞌	lal
 蛻	jzo
 肅	xbn
 楚	fai
@@ -994,14 +994,14 @@ columns:
 稜	mfb
 縱	zai
 塚	baw
-睞	lbf
+睞	laf
 舅	nbk
 轎	fkm
 曠	kat
 褪	wtw
 靴	eer
 酬	fdv
-睛	lbc
+睛	lac
 窘	wox
 垢	bap
 鍍	pat
@@ -1036,12 +1036,12 @@ columns:
 嘴	jaq
 脅	ymy
 昭	kaj
-瞻	lbr
+瞻	lar
 襟	wtf
 貯	low
 禎	wsi
 盔	gdu
-睦	lbb
+睦	lab
 嘖	jac
 尬	gro
 贖	lob
@@ -1050,6 +1050,7 @@ columns:
 膽	qvs
 憾	uih
 毯	mhu
+邸	rha
 恆	uir
 軀	nch
 驥	cut
@@ -1105,7 +1106,7 @@ columns:
 頑	bdr
 腔	qvb
 釀	fdr
-眶	lbh
+眶	lah
 穩	mfw
 咎	rii
 粹	ufs
@@ -1167,7 +1168,7 @@ columns:
 狩	qmw
 蠡	zxg
 晌	kan
-睫	lba
+睫	laa
 蝠	jza
 氦	mys
 耆	bmr
@@ -1296,7 +1297,7 @@ columns:
 瘠	tav
 颶	qil
 毽	mhy
-瞠	lbk
+瞠	lak
 蛀	jzc
 錫	pap
 鰥	ral
@@ -1309,7 +1310,7 @@ columns:
 駙	cun
 酗	fdo
 貊	pqa
-牴	mbs
+犒	mbs
 獷	qmt
 蟋	jzp
 鮪	rag
@@ -1393,7 +1394,7 @@ columns:
 監	hal
 貪	odl
 盧	ihl
-矚	lbj
+矚	laj
 敲	sax
 郎	svy
 府	tgd
@@ -1462,6 +1463,7 @@ columns:
 毅	suq
 煎	uau
 垂	meb
+缽	mba
 疏	xvn
 廷	ysb
 顛	edg
@@ -1583,7 +1585,7 @@ columns:
 釜	oau
 釐	bdb
 恃	uid
-矇	lbg
+矇	lag
 縈	uoz
 羈	lkc
 甦	avm
@@ -1688,7 +1690,6 @@ columns:
 痊	tac
 隍	yjc
 黝	lky
-缽	mba
 貲	iil
 幛	lie
 髭	chr

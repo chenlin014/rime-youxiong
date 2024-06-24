@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt
-version: "0.0.2"
+version: "0.0.3"
 sort: by_weight
 columns:
   - text
@@ -72,7 +72,7 @@ columns:
 些	ddn
 住	kbe
 路	tdn
-睡	ysl
+睡	yal
 报	obr
 掉	obd
 作	kbl
@@ -283,7 +283,7 @@ columns:
 登	fta
 微	udy
 任	kbs
-盼	ysu
+盼	yau
 魔	zvm
 司	rba
 奇	voa
@@ -342,7 +342,7 @@ columns:
 嗓	tam
 游	bbr
 跨	tdv
-眨	ysh
+眨	yah
 蛇	tgh
 屏	flp
 略	idn
@@ -434,7 +434,7 @@ columns:
 禁	mas
 桥	mak
 霞	mbf
-瞧	ysk
+瞧	yak
 箭	lep
 憋	iby
 盟	iaq
@@ -507,7 +507,7 @@ columns:
 荒	cde
 腹	qbl
 疑	nnl
-眸	ysg
+眸	yag
 孩	rae
 怪	pds
 帽	ydi
@@ -521,6 +521,7 @@ columns:
 毅	epv
 弦	rge
 罩	yid
+卵	njp
 迹	hau
 垂	lcc
 宿	hok
@@ -568,7 +569,7 @@ columns:
 嘶	tax
 姑	glc
 衡	udn
-眠	ysr
+眠	yar
 富	hoi
 麟	zfp
 崩	yyq
@@ -583,11 +584,11 @@ columns:
 削	iuq
 睿	doh
 葬	cda
-瞪	ysf
+瞪	yaf
 危	nbv
 卸	lsd
 慈	pag
-瞒	ysc
+瞒	yac
 鞭	cck
 媛	glx
 禹	lbt
@@ -611,7 +612,7 @@ columns:
 曦	iap
 羞	pwf
 娇	glk
-瞳	yse
+瞳	yae
 按	obg
 氢	lrf
 稻	lmx
@@ -650,7 +651,7 @@ columns:
 嵌	yyc
 袍	hzn
 臻	jsw
-眺	ysb
+眺	yab
 寂	hod
 晕	iah
 秤	lma
@@ -669,7 +670,7 @@ columns:
 艇	xrr
 熄	puh
 逻	hay
-瞬	ysx
+瞬	yax
 埃	sal
 蛛	tgl
 层	fls
@@ -683,7 +684,7 @@ columns:
 阜	lbr
 臧	gvj
 嗯	tah
-瞿	ysy
+瞿	yay
 蛟	tgu
 椒	mad
 领	uoh
@@ -692,13 +693,13 @@ columns:
 筐	lej
 剁	qom
 笨	lea
-瞟	ysm
+瞟	yam
 舅	ksi
 阪	rtx
 褪	hzh
 鞠	ccn
 酬	mob
-睛	ysw
+睛	yaw
 窍	huf
 垢	sax
 奚	xbg
@@ -722,12 +723,12 @@ columns:
 碌	vaf
 禧	hes
 戚	jvd
-睁	ysn
+睁	yan
 襟	hzm
 悦	pdp
 炯	puy
 盔	vop
-睦	yss
+睦	yas
 骂	taw
 尬	vnu
 疚	zae
@@ -773,7 +774,7 @@ columns:
 脚	qbs
 酌	mon
 漂	bbs
-眶	ysj
+眶	yaj
 咎	ndd
 粮	pme
 祗	hen
@@ -826,7 +827,7 @@ columns:
 狞	qlh
 蠡	gfv
 晌	iak
-睫	ysa
+睫	yaa
 虾	tga
 静	wdq
 氦	lre
@@ -925,7 +926,7 @@ columns:
 参	gev
 瘠	zab
 毽	ljr
-瞄	ysi
+瞄	yai
 蜻	tgw
 避	hae
 舨	xrx
@@ -1375,7 +1376,7 @@ columns:
 党	iun
 咸	jvt
 磺	vau
-瞅	ysp
+瞅	yap
 契	wdv
 裘	oen
 庸	zvq
@@ -1503,7 +1504,7 @@ columns:
 韵	epz
 髭	wjn
 袈	rln
-睽	ysv
+睽	yav
 肄	nns
 蜢	tgy
 谿	xbt
