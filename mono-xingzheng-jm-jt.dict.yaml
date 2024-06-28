@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.0.3"
+version: "0.0.4"
 sort: by_weight
 columns:
   - text
@@ -619,7 +619,6 @@ columns:
 氨	myw
 惯	uil
 悔	uim
-势	dvq
 卖	edx
 瓣	sep
 貌	pqn
@@ -817,7 +816,7 @@ columns:
 痴	tam
 峭	llk
 畸	kig
-耽	ecw
+聪	cew
 疵	tai
 霾	fvp
 焕	uog
@@ -969,6 +968,7 @@ columns:
 貍	pqk
 发	zvm
 联	ceu
+势	dvq
 顾	ggy
 暂	fkp
 贩	lop
@@ -1222,7 +1222,7 @@ columns:
 给	zao
 缓	zap
 绝	zar
-缠	gat
+终	zat
 继	zau
 级	zay
 丝	zaz
@@ -1528,7 +1528,6 @@ columns:
 壳	bbq
 韬	bin
 麸	cib
-聪	cew
 酿	fdx
 辕	fkr
 输	fkk
@@ -1582,7 +1581,6 @@ columns:
 贺	yml
 驾	ymc
 叁	zsc
-终	zat
 殇	avp
 赘	cil
 觐	eal

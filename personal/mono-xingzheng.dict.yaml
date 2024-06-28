@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.4"
+version: "0.0.5"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1333,7 +1333,7 @@ encoder:
 磨	zvmmv
 呼	talpo
 賭	yusl
-液	bbekn
+液	bbene
 泉	kiib
 嫁	glhov
 捲	obpsr
@@ -2603,7 +2603,7 @@ encoder:
 渴	bbiug
 曝	iaiui
 閔	foeu
-撇	obqyl
+撇	obiyl
 梗	maaiu
 絡	gandt
 貫	gryu
@@ -4347,7 +4347,7 @@ encoder:
 渲	bbhsi
 寳	howiy
 闋	fofav
-耽	cwhhn
+耽	wchhn
 菅	cdhor
 仝	uosd
 猩	qlial
@@ -13159,7 +13159,7 @@ encoder:
 响	takyt
 哗	taknc
 囵	touon
-呛	tauon
+呛	tauor
 嗳	taxvf
 叽	taqo
 鹃	taqbn
@@ -13380,7 +13380,7 @@ encoder:
 饱	ufnrr
 颔	uoetv
 贪	uoefy
-伞	uopad
+伞	uopoc
 饼	ufpac
 馐	ufpfc
 邻	uohar
@@ -14192,7 +14192,7 @@ encoder:
 纺	gaer
 娴	glfom
 纩	gazv
-缠	vazis
+缠	gazis
 绊	gaps
 婵	glpic
 缯	gapyi

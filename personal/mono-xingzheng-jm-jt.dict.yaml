@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt
-version: "0.0.3"
+version: "0.0.4"
 sort: by_weight
 columns:
   - text
@@ -619,7 +619,6 @@ columns:
 氨	lrh
 惯	pdy
 悔	pdl
-势	obq
 卖	cof
 瓣	ecx
 貌	xqk
@@ -817,7 +816,7 @@ columns:
 痴	zal
 峭	yyi
 畸	idv
-耽	cwh
+聪	wch
 疵	zad
 霾	mbx
 焕	puv
@@ -969,6 +968,7 @@ columns:
 貍	xqi
 发	gbl
 联	wcp
+势	obq
 顾	vvr
 暂	mix
 贩	yux
@@ -1222,7 +1222,7 @@ columns:
 给	gau
 缓	gax
 绝	gan
-缠	vaz
+终	gaz
 继	gap
 级	gar
 丝	gag
@@ -1528,7 +1528,6 @@ columns:
 壳	ssq
 韬	sdk
 麸	wds
-聪	wch
 酿	mof
 辕	min
 输	mii
@@ -1582,7 +1581,6 @@ columns:
 贺	rly
 驾	rlw
 叁	gew
-终	gaz
 殇	abx
 赘	wdy
 觐	cay

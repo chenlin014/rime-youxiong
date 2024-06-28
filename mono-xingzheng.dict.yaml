@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.4"
+version: "0.0.5"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1334,7 +1334,7 @@ encoder:
 磨	tgffg
 呼	jamud
 賭	lobm
-液	vvsnr
+液	vvsrs
 泉	nkkv
 嫁	zmwdg
 捲	dvuby
@@ -2604,7 +2604,7 @@ encoder:
 渴	vvkoz
 曝	kakok
 閔	xdso
-撇	dvqlm
+撇	dvklm
 梗	faako
 絡	zarij
 貫	zylo
@@ -4348,7 +4348,7 @@ encoder:
 渲	vvwbk
 寳	wdckl
 闋	xdxag
-耽	ecwwr
+耽	cewwr
 菅	eiwdy
 仝	odbi
 猩	qmkam
@@ -13160,7 +13160,7 @@ encoder:
 响	janlj
 哗	janre
 囵	jdodr
-呛	jaodr
+呛	jaody
 嗳	japgx
 叽	jaqd
 鹃	jaqvr
@@ -13381,7 +13381,7 @@ encoder:
 饱	oxryy
 颔	odsjg
 贪	odsxl
-伞	oduai
+伞	odude
 饼	oxuae
 馐	oxuxe
 邻	odway
@@ -14193,7 +14193,7 @@ encoder:
 纺	zasy
 娴	zmxdf
 纩	zatg
-缠	gatkb
+缠	zatkb
 绊	zaub
 婵	zmuke
 缯	zaulk

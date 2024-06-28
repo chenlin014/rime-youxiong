@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-zt # 正體簡碼
-version: "0.0.3"
+version: "0.0.4"
 sort: by_weight
 columns:
   - text
@@ -894,7 +894,6 @@ columns:
 績	uil
 悔	uim
 磋	gab
-抗	dvq
 翅	edx
 鐸	pau
 瓣	sep
@@ -1157,7 +1156,7 @@ columns:
 痴	tam
 齲	iom
 畸	kig
-耽	ecw
+耽	cew
 瘧	tai
 霾	fvp
 煥	uog
@@ -1364,6 +1363,7 @@ columns:
 黨	kou
 領	odg
 鄉	zoy
+抗	dvq
 尚	koj
 熊	zsu
 慘	uip
