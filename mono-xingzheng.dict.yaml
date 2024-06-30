@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.5"
+version: "0.0.6"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -1146,7 +1146,7 @@ encoder:
 屆	xmbaz
 館	oxwdy
 丹	qasa
-乘	mvftr
+乘	mftir
 認	sdysw
 刻	sazok
 俊	nvzor
@@ -13559,7 +13559,7 @@ encoder:
 𬭁	pazy
 橥	qmbmf
 䏡	qvbk
-肤	qvbdo
+肤	qvbs
 狭	qmbdu
 𦙶	qvedj
 胧	qvsi
@@ -13998,7 +13998,7 @@ encoder:
 逦	waals
 写	wwaza
 窍	wobix
-窥	wobol
+窥	wobsl
 违	wabiy
 祷	wscid
 宝	wdcas
@@ -14318,7 +14318,7 @@ encoder:
 玚	cayvp
 擣	dvbjd
 撷	dvbjg
-撵	dvbof
+撵	dvbbf
 抟	dvbzs
 搟	dvfae
 挠	dvhmg
@@ -14726,7 +14726,7 @@ encoder:
 钲	paavi
 钙	paaiz
 镉	paaua
-𫓧	pabdo
+𫓧	pabs
 𬭳	pabuj
 铻	pabxj
 𬭬	paccx
