@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.0.5"
+version: "0.1.0"
 sort: by_weight
 columns:
   - text
@@ -123,6 +123,7 @@ columns:
 提	dvk
 除	yjo
 通	wax
+病	taa
 假	nvx
 段	nvc
 平	avu
@@ -331,7 +332,7 @@ columns:
 彩	pvf
 逃	wav
 姚	zmv
-症	taa
+症	tai
 跨	jig
 瞎	laj
 蛇	jzw
@@ -892,7 +893,6 @@ columns:
 畸	kig
 匆	rys
 猩	qmm
-疵	tai
 霾	fvp
 狩	qmd
 蠡	zxg

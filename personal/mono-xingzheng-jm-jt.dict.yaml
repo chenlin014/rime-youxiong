@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt
-version: "0.0.5"
+version: "0.1.0"
 sort: by_weight
 columns:
   - text
@@ -123,6 +123,7 @@ columns:
 提	obi
 除	rtu
 通	haf
+病	zaa
 假	kbf
 段	kbw
 平	abp
@@ -331,7 +332,7 @@ columns:
 彩	xbm
 逃	hab
 姚	glb
-症	zaa
+症	zad
 跨	tdv
 瞎	yat
 蛇	tgh
@@ -892,7 +893,6 @@ columns:
 畸	idv
 匆	nre
 猩	qll
-疵	zad
 霾	mbx
 狩	qlo
 蠡	gfv

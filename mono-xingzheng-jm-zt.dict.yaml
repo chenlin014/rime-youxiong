@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-zt # 正體簡碼
-version: "0.0.5"
+version: "0.1.0"
 sort: by_weight
 columns:
   - text
@@ -212,6 +212,7 @@ columns:
 通	wax
 貓	pqe
 餓	oxh
+病	taa
 假	nvx
 平	avu
 課	sdk
@@ -575,7 +576,7 @@ columns:
 念	odw
 逃	wav
 姚	zmv
-症	taa
+症	tai
 吸	jao
 跨	jig
 盧	ihl
@@ -1484,7 +1485,7 @@ columns:
 羯	uck
 翱	nkg
 奠	udg
-瘧	tai
+瘧	tah
 邕	zdj
 礎	gaf
 祟	zil

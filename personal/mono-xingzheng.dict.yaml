@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.0.6"
+version: "0.1.0"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -480,7 +480,7 @@ encoder:
 餓	ufloj
 票	mtsi
 六	eaua
-病	za	zaa
+病	zaayu
 咩	tapw
 假	kbfff
 久	nbeb
