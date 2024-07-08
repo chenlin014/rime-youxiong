@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.1.0"
+version: "0.1.1"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -751,7 +751,7 @@ encoder:
 距	tdjbf
 挑	obbbn
 純	gajog
-鬧	iowey
+鬧	wweay
 欲	uautn
 竟	epian
 源	bbvki
@@ -1364,7 +1364,7 @@ encoder:
 雄	vogek
 胸	qbnug
 框	majbw
-鬥	iowaw
+鬥	ww	www
 暴	iacui
 湊	bbwav
 陣	rtmi
@@ -5163,7 +5163,7 @@ encoder:
 陛	rtnns
 紸	gaebw
 觳	sshqq
-鬩	iowkn
+鬩	wwksn
 摶	obmio
 揸	obmia
 苊	cdvvr
@@ -5248,7 +5248,7 @@ encoder:
 淄	bbgoi
 逅	haxat
 逄	handc
-亜	sotai
+亜	sg	sgg
 堺	saiuk
 擷	obstv
 菽	cddif
@@ -5768,7 +5768,7 @@ encoder:
 惆	pdyst
 閂	foab
 邐	haaez
-鬮	iowlh
+鬮	wwlbh
 驁	wdrlw
 掇	obfff
 鶘	cotqn
@@ -5875,7 +5875,7 @@ encoder:
 怺	pdebi
 窕	hubbn
 陟	rtddi
-悪	sotih
+悪	sghg
 鼙	sstkc
 聵	wctay
 鴣	cotan
@@ -6471,7 +6471,7 @@ encoder:
 鯃	nasft
 糅	pmfkm
 嫗	gljtt
-鬨	iowcu
+鬨	wwcau
 嶅	wdrly
 騮	wpnri
 莠	cdlrl
@@ -7031,7 +7031,7 @@ encoder:
 扞	obabc
 蕻	cdwcu
 蒶	cdgur
-唖	tasti
+唖	tasg
 賅	yuegu
 睽	yafav
 箅	leiak
@@ -8760,7 +8760,7 @@ encoder:
 殗	abnig
 郚	sdftr
 朅	sagug
-鬪	iowpo
+鬪	wwapo
 駏	wpjbf
 騋	wpmuu
 騂	wpec
@@ -11275,7 +11275,7 @@ encoder:
 臅	qbynt
 鞷	abtac
 赮	sakff
-鬫	iowwl
+鬫	wwfwl
 鬕	wjxiv
 攡	obegk
 鷏	coyun
@@ -12937,7 +12937,7 @@ encoder:
 荙	cdhav
 载	samij
 莲	cdham
-莴	cdtyu
+莴	cdyt
 颧	cdtkv
 𦭜	cdtau
 莳	cdiao
@@ -13104,7 +13104,7 @@ encoder:
 龇	duddn
 战	dotaj
 蝇	tgtig
-蜗	tgtyu
+蜗	tgyt
 卤	dotou
 蛳	tgiay
 频	ddiuv
@@ -13447,7 +13447,7 @@ encoder:
 锢	xatct
 钟	xatt
 铝	xatat
-锅	xatyu
+锅	xayt
 𫓶	xataq
 钽	xaiaa
 锂	xairs
@@ -13564,7 +13564,7 @@ encoder:
 胧	qbed
 胨	qbjoi
 胪	qbdof
-脶	qbtyu
+脶	qbyt
 腽	qbiay
 狈	qlyu
 猡	qlyin
@@ -13958,7 +13958,7 @@ encoder:
 泸	bbdof
 涠	bbtsr
 渑	bbtig
-涡	bbtyu
+涡	bbyt
 湿	bbiai
 温	bbiay
 溅	bbyuj
@@ -14007,7 +14007,7 @@ encoder:
 窃	hujor
 祯	hedoy
 遗	hatay
-祸	hetyu
+祸	heyt
 褴	hzily
 裆	hziuf
 视	heyn
@@ -14143,7 +14143,7 @@ encoder:
 缉	gataw
 𬘡	gatov
 绳	gatig
-娲	gltyu
+娲	glyt
 织	gatau
 绢	gataq
 绯	gaiw
@@ -14258,7 +14258,7 @@ encoder:
 韧	sdrre
 击	soyy
 埙	satay
-埚	satyu
+埚	sayt
 鼕	sstnz
 垱	saiuf
 垲	sayyr
@@ -14566,8 +14566,8 @@ encoder:
 𫑡	taigr
 嘤	tayyg
 呐	tayou
-呙	tayou
-剐	tayui
+呙	yt	ytt
+剐	ytio
 哕	tayyn
 勋	tayur
 哙	tausg
@@ -15114,7 +15114,7 @@ encoder:
 𬸣	hocun
 寝	hozhf
 窜	hutat
-窝	hutyu
+窝	huyt
 窎	hung
 窦	huczv
 窭	hupmg
@@ -15299,7 +15299,7 @@ encoder:
 𪧸	saoks
 𨆝	tduyi
 䱛	najta
-𬹓	caiih
+𬹓	caish
 𪆦	xwvun
 𧍴	tgmay
 𪟀	roer
@@ -15622,7 +15622,7 @@ encoder:
 𧑁	tggux
 𥜡	henis
 𬎶	lwfsp
-鬦	iowzc
+鬦	wwzoc
 𫊚	cdkmt
 𱏯	idnln
 㤕	pdgdy
@@ -18116,7 +18116,7 @@ encoder:
 𥫌	epvvv
 𢴋	obgnz
 𤺱	zanvp
-𬅂	macih
+𬅂	macsh
 𩪽	yhggx
 惍	pdxa
 𩸸	naafg
@@ -18889,7 +18889,7 @@ encoder:
 𫅝	pwvia
 𧜐	hzgth
 𠴥	tabhn
-鬭	iowsx
+鬭	wwsgx
 𨆾	tdhns
 釟	xaua
 𥩇	hupth
@@ -20192,7 +20192,7 @@ encoder:
 𪤿	nenis
 𤶏	zaiuv
 𨇵	tdsnn
-𡆞	taisx
+𡆞	tawsx
 𤑟	punai
 𤏧	pulat
 𬕹	leead

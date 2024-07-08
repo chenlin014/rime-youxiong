@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-zt # 正體簡碼
-version: "0.1.0"
+version: "0.1.1"
 sort: by_weight
 columns:
   - text
@@ -349,7 +349,7 @@ columns:
 題	kaa
 距	jih
 挑	dvv
-鬧	kdc
+鬧	ccs
 欲	oar
 竟	sur
 源	vvg
@@ -1645,7 +1645,7 @@ columns:
 畚	zsg
 嶇	llh
 幗	lij
-鬨	kdo
+鬨	cce
 螂	jzy
 瘠	tav
 颶	qil

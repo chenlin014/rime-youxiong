@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.1.0"
+version: "0.1.1"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -752,7 +752,7 @@ encoder:
 距	jihvx
 挑	dvvvr
 純	zahdz
-鬧	kdcsl
+鬧	ccsal
 欲	oaojr
 竟	sukar
 源	vvgnk
@@ -1365,7 +1365,7 @@ encoder:
 雄	gdzsn
 胸	qvroz
 框	fahvc
-鬥	kdcac
+鬥	cc	ccc
 暴	kaeok
 湊	vvcag
 陣	yjfk
@@ -5164,7 +5164,7 @@ encoder:
 陛	yjrrb
 紸	zasvc
 觳	bbwqq
-鬩	kdcnr
+鬩	ccnbr
 摶	dvfkd
 揸	dvfka
 苊	eiggy
@@ -5249,7 +5249,7 @@ encoder:
 淄	vvzdk
 逅	wapaj
 逄	warie
-亜	bdjak
+亜	bz	bzz
 堺	bakon
 擷	dvbjg
 菽	eiikx
@@ -5769,7 +5769,7 @@ encoder:
 惆	uilbj
 閂	xdav
 邐	waast
-鬮	kdcmw
+鬮	ccmvw
 驁	ciymc
 掇	dvxxx
 鶘	edjqr
@@ -5876,7 +5876,7 @@ encoder:
 怺	uisvk
 窕	wovvr
 陟	yjiik
-悪	bdjkw
+悪	bzwz
 鼙	bbjne
 聵	cejal
 鴣	edjar
@@ -6472,7 +6472,7 @@ encoder:
 鯃	rabxj
 糅	ufxnf
 嫗	zmhjj
-鬨	kdceo
+鬨	cceao
 嶅	ciyml
 騮	curyk
 莠	eimym
@@ -7032,7 +7032,7 @@ encoder:
 扞	dvave
 蕻	eiceo
 蒶	eizoy
-唖	jabjk
+唖	jabz
 賅	loszo
 睽	laxag
 箅	mskan
@@ -8761,7 +8761,7 @@ encoder:
 殗	avrkz
 郚	bixjy
 朅	bazoz
-鬪	kdcud
+鬪	ccaud
 駏	cuhvx
 騋	cufoo
 騂	cuse
@@ -11276,7 +11276,7 @@ encoder:
 臅	qvlrj
 鞷	avjae
 赮	banxx
-鬫	kdccm
+鬫	ccxcm
 鬕	chpkg
 攡	dvszn
 鷏	edlor
@@ -12938,7 +12938,7 @@ encoder:
 荙	eiwag
 载	bafkh
 莲	eiwaf
-莴	eijlo
+莴	eilj
 颧	eijng
 𦭜	eijao
 莳	eikad
@@ -13105,7 +13105,7 @@ encoder:
 龇	ioiir
 战	idjah
 蝇	jzjkz
-蜗	jzjlo
+蜗	jzlj
 卤	idjdo
 蛳	jzkal
 频	iikog
@@ -13448,7 +13448,7 @@ encoder:
 锢	pajej
 钟	pajj
 铝	pajaj
-锅	pajlo
+锅	palj
 𫓶	pajaq
 钽	pakaa
 锂	pakyb
@@ -13565,7 +13565,7 @@ encoder:
 胧	qvsi
 胨	qvhdk
 胪	qvidx
-脶	qvjlo
+脶	qvlj
 腽	qvkal
 狈	qmlo
 猡	qmlkr
@@ -13959,7 +13959,7 @@ encoder:
 泸	vvidx
 涠	vvjby
 渑	vvjkz
-涡	vvjlo
+涡	vvlj
 湿	vvkak
 温	vvkal
 溅	vvloh
@@ -14008,7 +14008,7 @@ encoder:
 窃	wohdy
 祯	wsidl
 遗	wajal
-祸	wsjlo
+祸	wslj
 褴	wtkml
 裆	wtkox
 视	wslr
@@ -14144,7 +14144,7 @@ encoder:
 缉	zajac
 𬘡	zajdg
 绳	zajkz
-娲	zmjlo
+娲	zmlj
 织	zajao
 绢	zajaq
 绯	zakc
@@ -14259,7 +14259,7 @@ encoder:
 韧	biyys
 击	bdll
 埙	bajal
-埚	bajlo
+埚	balj
 鼕	bbjrt
 垱	bakox
 垲	bally
@@ -14567,8 +14567,8 @@ encoder:
 𫑡	jakzy
 嘤	jallz
 呐	jaldo
-呙	jaldo
-剐	jalok
+呙	lj	ljj
+剐	ljkd
 哕	jallr
 勋	jaloy
 哙	jaobz
@@ -15115,7 +15115,7 @@ encoder:
 𬸣	wdeor
 寝	wdtwx
 窜	wojaj
-窝	wojlo
+窝	wolj
 窎	worz
 窦	woetg
 窭	woufz
@@ -15300,7 +15300,7 @@ encoder:
 𪧸	badnb
 𨆝	jiolk
 䱛	rahja
-𬹓	eakkw
+𬹓	eakbw
 𪆦	pcgor
 𧍴	jzfal
 𪟀	ydsy
@@ -15623,7 +15623,7 @@ encoder:
 𧑁	jzzop
 𥜡	wsrkb
 𬎶	mcxbu
-鬦	kdcte
+鬦	cctde
 𫊚	einfj
 𱏯	kirmr
 㤕	uizil
@@ -18117,7 +18117,7 @@ encoder:
 𥫌	suggg
 𢴋	dvzrt
 𤺱	targu
-𬅂	faekw
+𬅂	faebw
 𩪽	lwzzp
 惍	uipa
 𩸸	raaxz
@@ -18890,7 +18890,7 @@ encoder:
 𫅝	ucgka
 𧜐	wtzjw
 𠴥	javwr
-鬭	kdcbp
+鬭	ccbzp
 𨆾	jiwrb
 釟	paoa
 𥩇	woujw
@@ -20193,7 +20193,7 @@ encoder:
 𪤿	rsrkb
 𤶏	takog
 𨇵	jibrr
-𡆞	jakbp
+𡆞	jacbp
 𤑟	uorak
 𤏧	uomaj
 𬕹	mssai

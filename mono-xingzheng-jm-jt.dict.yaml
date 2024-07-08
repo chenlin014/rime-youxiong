@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.1.0"
+version: "0.1.1"
 sort: by_weight
 columns:
   - text
@@ -1349,10 +1349,10 @@ columns:
 质	pde
 钵	paa
 链	paf
-锅	paj
 锁	pal
 销	pak
 锡	pap
+铜	paj
 锻	paq
 锦	pan
 铃	paw
@@ -1469,7 +1469,6 @@ columns:
 窃	woh
 祯	wsi
 遗	waj
-祸	wso
 褴	wtl
 袄	wtm
 鹤	wwn
@@ -1601,7 +1600,7 @@ columns:
 痉	tab
 烂	uou
 寝	wdx
-窝	woj
+窜	woj
 窦	woe
 禄	wsx
 褛	wtu

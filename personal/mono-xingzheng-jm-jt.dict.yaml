@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt
-version: "0.1.0"
+version: "0.1.1"
 sort: by_weight
 columns:
   - text
@@ -1349,10 +1349,10 @@ columns:
 质	xoc
 钵	xaa
 链	xam
-锅	xat
 锁	xay
 销	xai
 锡	xax
+铜	xat
 锻	xaq
 锦	xak
 铃	xah
@@ -1469,7 +1469,6 @@ columns:
 窃	huj
 祯	hed
 遗	hat
-祸	heu
 褴	hzy
 袄	hzl
 鹤	hhk
@@ -1601,7 +1600,7 @@ columns:
 痉	zas
 烂	pup
 寝	hof
-窝	hut
+窜	hut
 窦	huc
 禄	hef
 褛	hzp
