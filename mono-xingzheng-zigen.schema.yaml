@@ -36,6 +36,7 @@ engine:
     translators:
         - punct_translator
         - table_translator
+        - reverse_lookup_translator
     filters:
         - uniquifier
 
@@ -54,6 +55,11 @@ translator:
     comment_format:
         - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
 
+reverse_lookup:
+    dictionary: mono-xingzheng
+    prefix: "`"
+    tips: 〔新郑〕
+
 punctuator:
     import_preset: symbols
 
@@ -67,4 +73,4 @@ editor:
 recognizer:
     import_preset: default
     patterns:
-        punct: '^/([0-9]0?|[A-Za-z]+)$'
+        reverse_lookup: "`[a-z]*"
