@@ -97,3 +97,5 @@ __patch:
   - xingzheng-options:/two_stroke_mode
   # 單擊模式
   #- xingzheng-options:/one_stroke_mode
+  # 簡碼模式
+  #- xingzheng-options:/brief_mode

@@ -17,8 +17,8 @@ switches:
       states: [ 中文, 西文 ]
     - name: full_shape
       states: [ 半角, 全角 ]
-    - options: [ zh_jt, zh_trad, no_change ]
-      states: [ 简化汉字, 傳統漢字, 无转换 ]
+    - options: [ no_change, zh_trad, zh_jt ]
+      states: [ 无转换, 傳統漢字, 简化汉字 ]
       reset: 0
     - name: ascii_punct
       states: [ 。，, ．， ]
