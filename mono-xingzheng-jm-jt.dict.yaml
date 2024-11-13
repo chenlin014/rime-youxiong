@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.1.1"
+version: "0.2.1"
 sort: by_weight
 columns:
   - text
@@ -1342,8 +1342,8 @@ columns:
 顽	ava
 远	waa
 趋	bor
-颊	bdu
-郏	bdy
+颊	gdu
+郏	gdy
 壶	bbw
 壳	bbq
 韫	bsl

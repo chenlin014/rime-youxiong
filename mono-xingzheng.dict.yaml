@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.1.1"
+version: "0.2.1"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8174,7 +8174,7 @@ encoder:
 迉	waxm
 絧	zalaj
 賛	bsbsl
-頬	bduog
+頬	gduag
 耵	ceai
 瑒	cakrp
 藨	eitxu
@@ -12844,9 +12844,9 @@ encoder:
 趋	borvx
 坟	baso
 圹	batg
-颊	bduog
-夹	bduo
-郏	bduoy
+颊	gduag
+夹	gdua
+郏	gduay
 壶	bbwwk
 壳	bbwwq
 声	bbxm
@@ -12879,7 +12879,7 @@ encoder:
 玛	cacu
 聂	cexsx
 抚	dvavg
-挟	dvbdu
+挟	dvgdu
 摄	dvcxx
 挝	dvwad
 捞	dvewy
@@ -12928,7 +12928,7 @@ encoder:
 报	dvylx
 掺	dvzgp
 拟	dvzso
-荚	eibdu
+荚	eigdu
 苇	eibsy
 苌	eich
 协	edymo
@@ -13027,7 +13027,7 @@ encoder:
 厅	ggai
 厉	ggavy
 压	ggbas
-硖	gabdu
+硖	gagdu
 砖	gabsx
 夺	gdds
 硕	gago
@@ -13097,7 +13097,7 @@ encoder:
 轫	fkyds
 顿	avzkg
 辎	fkzdk
-蛱	jzbdu
+蛱	jzgdu
 龉	iobxj
 螨	jzeoo
 螮	jzewl
@@ -13215,7 +13215,7 @@ encoder:
 赋	loahi
 赇	loaks
 屿	llaza
-峡	llbdu
+峡	llgdu
 罢	lkbaz
 帱	licid
 帐	lich
@@ -13279,7 +13279,7 @@ encoder:
 犊	mbetg
 笼	mssi
 乔	mvgdn
-箧	mshbu
+箧	mshgu
 笺	mshm
 毡	mhidj
 乱	mizv
@@ -13305,7 +13305,7 @@ encoder:
 笾	msway
 俩	nvaoo
 粤	nwufa
-侠	nvbdu
+侠	nvgdu
 伟	nvbsy
 伥	nvch
 债	nvcil
@@ -13402,7 +13402,7 @@ encoder:
 铼	pabdk
 锗	pabm
 铑	pabmr
-铗	pabdu
+铗	pagdu
 钍	paba
 铸	pacid
 铒	pace
@@ -13560,7 +13560,7 @@ encoder:
 橥	qmbmf
 䏡	qabk
 肤	qabs
-狭	qmbdu
+狭	qmgdu
 𦙶	qaedj
 胧	qasi
 胨	qahdk
@@ -13829,7 +13829,7 @@ encoder:
 庑	tgavg
 疠	taavy
 闺	xdbab
-瘗	tabub
+瘗	tagub
 闫	xdcd
 冯	tdcu
 痨	taewy
@@ -13935,7 +13935,7 @@ encoder:
 𬇕	vvavy
 洼	vvbab
 鸿	vvbir
-浃	vvbdu
+浃	vvgdu
 𣲗	vvbsy
 涛	vvcid
 沣	vvci
@@ -14092,7 +14092,7 @@ encoder:
 骏	cuzor
 卫	ylav
 际	yjbk
-陕	yjbdu
+陕	yjgdu
 陆	yjbsz
 陇	yjsi
 陏	yjgvq
@@ -14402,7 +14402,7 @@ encoder:
 桠	fabz
 梾	fabdk
 𬷕	fbrz
-𬂩	fabdu
+𬂩	fagdu
 㭕	fabaz
 梼	facid
 酝	fdbdz
@@ -15044,7 +15044,7 @@ encoder:
 粪	ufeao
 糁	ufzgp
 𥻗	uffka
-惬	wzhbu
+惬	wzhgu
 愦	wzjal
 愠	wzkal
 恻	wzlok

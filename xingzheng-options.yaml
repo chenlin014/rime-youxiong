@@ -2,11 +2,11 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "qawsedrfvp;olikujncmtgyh"
+    alphabet: "qawsedrftgvp;olikujyhncm"
     algebra:
-      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdyyzzDCBAghijJIHGwsSv|
-      - xform|yy|y|
-      - xform|zz|z|
+      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdeeEEDCBAghijJIHGwsSv|
+      - xform|ee|e|
+      - xform|EE|E|
 
 use_dvorak_layout:
   chord_composer/+:
