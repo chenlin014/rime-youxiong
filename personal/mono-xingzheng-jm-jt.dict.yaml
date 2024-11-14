@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt
-version: "0.2.1"
+version: "0.2.2"
 sort: by_weight
 columns:
   - text
@@ -288,6 +288,7 @@ columns:
 校	mae
 糖	pmt
 旁	eae
+董	cds
 醉	moe
 妹	gls
 楚	mam
@@ -433,7 +434,6 @@ columns:
 粘	pmd
 炮	pun
 桌	doi
-萍	cdp
 朗	ebq
 鼓	ssc
 霞	mbf
@@ -1742,7 +1742,6 @@ columns:
 缘	gag
 戬	sgi
 叆	soh
-赉	soi
 觋	sdy
 韧	ser
 埙	say
@@ -1752,7 +1751,7 @@ columns:
 觐	cay
 鹊	can
 觏	csy
-莱	cds
+莱	cdp
 韩	cos
 鸪	con
 鞒	ccl
@@ -1801,6 +1800,7 @@ columns:
 雠	kde
 魉	kta
 鸽	uan
+徕	udm
 惩	udh
 饸	ufu
 馑	ufw

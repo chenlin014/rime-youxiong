@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng-jm-jt # 简体简码
-version: "0.2.1"
+version: "0.2.2"
 sort: by_weight
 columns:
   - text
@@ -288,6 +288,7 @@ columns:
 校	fas
 糖	ufj
 旁	sas
+董	eib
 醉	fds
 妹	zmb
 楚	faf
@@ -433,7 +434,6 @@ columns:
 粘	ufi
 炮	uor
 桌	idk
-萍	eiu
 朗	svq
 鼓	bbe
 霞	fvx
@@ -1742,7 +1742,6 @@ columns:
 缘	zaz
 戬	bzk
 叆	bdw
-赉	bdk
 觋	bil
 韧	bsy
 埙	bal
@@ -1752,7 +1751,7 @@ columns:
 觐	eal
 鹊	ear
 觏	ebl
-莱	eib
+莱	eiu
 韩	edb
 鸪	edr
 鞒	eem
@@ -1801,6 +1800,7 @@ columns:
 雠	nis
 魉	nja
 鸽	oar
+徕	oif
 惩	oiw
 饸	oxo
 馑	oxc

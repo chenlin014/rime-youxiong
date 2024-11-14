@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.2.1"
+version: "0.2.2"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8979,7 +8979,7 @@ encoder:
 蚚	jzpd
 饐	oxbju
 涒	vvxgj
-慭	bdkgw
+慭	faugw
 琈	capvy
 珓	casoo
 驎	cuure
@@ -12686,7 +12686,7 @@ encoder:
 两	avloo
 项	bigo
 专	bsxz
-来	bdkv
+来	faua
 动	bdzsy
 长	ch	chh
 联	ceuag
@@ -13399,7 +13399,7 @@ encoder:
 钉	paai
 铐	pabma
 𫓯	pabab
-铼	pabdk
+铼	pafau
 锗	pabm
 铑	pabmr
 铗	pagdu
@@ -14243,7 +14243,7 @@ encoder:
 叆	bdzgx
 福	bkajk
 神	bkkf
-赉	bdkvl
+赉	faual
 鼋	avajk
 祥	bkuc
 𫭼	baewy
@@ -14347,7 +14347,7 @@ encoder:
 𬜯	eiaoo
 䢼	eaouy
 觏	eblbl
-莱	eibdk
+莱	eifau
 韩	edkby
 贲	edeil
 觌	edxgl
@@ -14400,7 +14400,7 @@ encoder:
 莼	eizaz
 芗	eizo
 桠	fabz
-梾	fabdk
+梾	fafau
 𬷕	fbrz
 𬂩	fagdu
 㭕	fabaz
@@ -14594,7 +14594,7 @@ encoder:
 晖	kawwf
 旸	kayvp
 㬎	kazzu
-睐	labdk
+睐	lafau
 䎃	ldbyy
 䴗	lagsr
 鶪	lagsr
@@ -14611,7 +14611,7 @@ encoder:
 罴	lkbzu
 㠓	lleag
 㟃	llyaj
-崃	llbdk
+崃	llfau
 崄	llova
 𪨶	llgdf
 𪩘	lleug
@@ -14676,7 +14676,7 @@ encoder:
 氲	mykal
 俨	nvbzm
 俪	nvals
-俫	nvbdk
+俫	nvfau
 俦	nvcid
 伛	nvhvo
 雠	nisdn
@@ -14698,7 +14698,7 @@ encoder:
 鸰	oaxzr
 鸧	odylr
 郐	odbzy
-徕	oibdk
+徕	oifau
 惩	oiaiw
 衚	oiejq
 鸻	oirz
@@ -15068,7 +15068,7 @@ encoder:
 懔	wzsjb
 怿	wzxsb
 𣲘	vvavg
-涞	vvbdk
+涞	vvfau
 沍	vvavz
 喾	vdwmj
 𬒈	vdwwg
@@ -17141,7 +17141,7 @@ encoder:
 𧑒	jzsym
 𫏄	jieb
 斍	solr
-𣑎	bdkva
+𣑎	fauaa
 𬘏	zauba
 𨅂	jigil
 𪴽	giakm
@@ -18175,7 +18175,7 @@ encoder:
 𡄦	jahjj
 𥺕	ufdvy
 𤡁	qmeoo
-𣘾	bdkwq
+𣘾	fauwq
 𩟬	oxggg
 𬰉	fvkix
 𥕌	gafkp
@@ -20249,7 +20249,7 @@ encoder:
 嗗	jalw
 𡈡	jdzrt
 𪃍	kalzr
-𫣚	avjbk
+𫣚	avjfu
 𬦢	jixd
 𪤺	rsraz
 𣌌	kampg
@@ -20692,11 +20692,11 @@ encoder:
 𨨫	papvf
 𠙣	qdlbz
 𥋸	lafvk
-𣜻	bdkgd
+𣜻	faugd
 𣌋	kaoor
 𬉎	vvqkb
 𩂑	fvqdb
-𫣙	bdkjo
+𫣙	faujo
 𡮗	wakmg
 𥁷	vvmwl
 䓔	eibmy

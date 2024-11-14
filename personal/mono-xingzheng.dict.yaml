@@ -3,7 +3,7 @@
 
 ---
 name: mono-xingzheng
-version: "0.2.1"
+version: "0.2.2"
 sort: by_weight
 use_preset_vocabulary: true
 import_tables:
@@ -8978,7 +8978,7 @@ encoder:
 蚚	tgxo
 饐	ufstp
 涒	bbfvt
-慭	soivh
+慭	mapvh
 琈	waxbr
 珓	waeuu
 驎	wppnc
@@ -12685,7 +12685,7 @@ encoder:
 两	abyuu
 项	sdvu
 专	sefg
-来	soib
+来	mapa
 动	soger
 长	wj	wjj
 联	wcpav
@@ -13398,7 +13398,7 @@ encoder:
 钉	xaad
 铐	xasla
 𫓯	xasas
-铼	xasoi
+铼	xamap
 锗	xasl
 铑	xasln
 铗	xavop
@@ -14242,7 +14242,7 @@ encoder:
 叆	sogvf
 福	siati
 神	siim
-赉	soiby
+赉	mapay
 鼋	abati
 祥	sipw
 𫭼	sachr
@@ -14346,7 +14346,7 @@ encoder:
 𬜯	cdauu
 䢼	caupr
 觏	csysy
-莱	cdsoi
+莱	cdmap
 韩	coisr
 贲	cocdy
 觌	cofvy
@@ -14399,7 +14399,7 @@ encoder:
 莼	cdgag
 芗	cdgu
 桠	masg
-梾	masoi
+梾	mamap
 𬷕	msng
 𬂩	mavop
 㭕	masag
@@ -14593,7 +14593,7 @@ encoder:
 晖	iahhm
 旸	iarbx
 㬎	iaggp
-睐	yasoi
+睐	yamap
 䎃	yosrr
 䴗	yaven
 鶪	yaven
@@ -14610,7 +14610,7 @@ encoder:
 罴	yisgp
 㠓	yycav
 㟃	yyrat
-崃	yysoi
+崃	yymap
 崄	yyuba
 𪨶	yyvom
 𪩘	yycpv
@@ -14675,7 +14675,7 @@ encoder:
 氲	lriay
 俨	kbsgl
 俪	kbaye
-俫	kbsoi
+俫	kbmap
 俦	kbwdo
 伛	kbjbu
 雠	kdeok
@@ -14697,7 +14697,7 @@ encoder:
 鸰	uafgn
 鸧	uoryn
 郐	uosgr
-徕	udsoi
+徕	udmap
 惩	udadh
 衚	udctq
 鸻	udng
@@ -15067,7 +15067,7 @@ encoder:
 懔	hgets
 怿	hgfes
 𣲘	bbabv
-涞	bbsoi
+涞	bbmap
 沍	bbabg
 喾	bohlt
 𬒈	bohhv
@@ -17140,7 +17140,7 @@ encoder:
 𧑒	tgerl
 𫏄	tdcs
 斍	euyn
-𣑎	soiba
+𣑎	mapaa
 𬘏	gapsa
 𨅂	tdvdy
 𪴽	vdail
@@ -18174,7 +18174,7 @@ encoder:
 𡄦	tajtt
 𥺕	pmobr
 𤡁	qlcuu
-𣘾	soihq
+𣘾	maphq
 𩟬	ufvvv
 𬰉	mbidf
 𥕌	vamix
@@ -20248,7 +20248,7 @@ encoder:
 嗗	tayh
 𡈡	tognz
 𪃍	iaygn
-𫣚	abtsi
+𫣚	abtmp
 𬦢	tdfo
 𪤺	nenag
 𣌌	ialxv
@@ -20691,11 +20691,11 @@ encoder:
 𨨫	xaxbm
 𠙣	qoysg
 𥋸	yambi
-𣜻	soivo
+𣜻	mapvo
 𣌋	iauun
 𬉎	bbqis
 𩂑	mbqos
-𫣙	soitu
+𫣙	maptu
 𡮗	hailv
 𥁷	bblhy
 䓔	cdslr
