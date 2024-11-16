@@ -10,19 +10,19 @@ use_qwerty_layout:
 
 use_dvorak_layout:
   chord_composer/+:
-    alphabet: "'a,o.epuklsrnctghbjmyifd"
+    alphabet: "'a,o.epuyiklsrnctghfdbjm"
     algebra:
-      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdyyzzDCBAghijJIHGwsSv|
-      - xform|yy|y|
-      - xform|zz|z|
+      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdeeEEDCBAghijJIHGwsSv|
+      - xform|ee|e|
+      - xform|EE|E|
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: "qawrfsptv;oyiuelnkcmgdjh"
+    alphabet: "qawrfsptgdv;oyiuelnjhkcm"
     algebra:
-      - xlit|qwfpgdjhluy;arstneiovbkm|abcdyyzzDCBAghijJIHGwsSv|
-      - xform|yy|y|
-      - xform|zz|z|
+      - xlit|qwfpgdjhluy;arstneiocvkm|abcdeeEEDCBAghijJIHGwsSv|
+      - xform|ee|e|
+      - xform|EE|E|
 
 # 设单击为默认
 one_stroke_mode:
