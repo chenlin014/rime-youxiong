@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: xingzheng
-  name: 新郑
+  schema_id: youxiong
+  name: 有熊
   version: '0.4'
   author:
     - 陈林 <1chen0bryan@gmail.com>
@@ -60,9 +60,9 @@ speller:
 
 translator:
   # 正體字典
-  dictionary: xingzheng-zt
+  dictionary: youxiong-zt
   # 简体字典
-  # dictionary: xingzheng-jt
+  # dictionary: youxiong-jt
   enable_user_dict: false
 
 reverse_lookup:
@@ -88,14 +88,14 @@ recognizer:
 
 __patch:
   # 鍵盘布局
-  - xingzheng-options:/use_qwerty_layout
-  #- xingzheng-options:/use_dvorak_layout
-  #- xingzheng-options:/use_colemak_layout
+  - youxiong-options:/use_qwerty_layout
+  #- youxiong-options:/use_dvorak_layout
+  #- youxiong-options:/use_colemak_layout
   # 標點符號
-  - xingzheng-options:/punc_chord
+  - youxiong-options:/punc_chord
   # 雙擊模式
-  - xingzheng-options:/two_stroke_mode
+  - youxiong-options:/two_stroke_mode
   # 單擊模式
-  #- xingzheng-options:/one_stroke_mode
+  #- youxiong-options:/one_stroke_mode
   # 簡碼模式
-  #- xingzheng-options:/brief_mode
+  #- youxiong-options:/brief_mode

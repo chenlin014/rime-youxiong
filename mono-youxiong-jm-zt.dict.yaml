@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 ---
-name: mono-xingzheng-jm-zt # 正體簡碼
+name: mono-youxiong-jm-zt # 正體簡碼
 version: "0.2.3"
 sort: by_weight
 columns:

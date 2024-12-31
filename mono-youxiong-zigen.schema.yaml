@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-    schema_id: mono-xingzheng-zigen
-    name: 连击式新郑字根
+    schema_id: mono-youxiong-zigen
+    name: 连击式有熊字根
     version: "0.0"
     author:
         - 陈林 <1chen0bryan@gmail.com>
@@ -48,7 +48,7 @@ speller:
     auto_select_unique_candidate: true
 
 translator:
-    dictionary: mono-xingzheng-zigen
+    dictionary: mono-youxiong-zigen
     enable_user_dict: false
     preedit_format:
         - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
@@ -56,7 +56,7 @@ translator:
         - "xlit|qwertyuiopasdfghjklzxcvbnm|月之十儿广乙米卜人斤一言寸梄大七口曲目巛又三添二川竹|"
 
 reverse_lookup:
-    dictionary: mono-xingzheng
+    dictionary: mono-youxiong
     prefix: "`"
     tips: 〔新郑〕
 

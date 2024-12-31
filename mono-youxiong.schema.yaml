@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-    schema_id: mono-xingzheng
-    name: 连击新郑
+    schema_id: mono-youxiong
+    name: 连击有熊
     version: "0.1"
     author:
         - 陈林 <1chen0bryan@gmail.com>
@@ -56,7 +56,7 @@ speller:
     auto_select_unique_candidate: true
 
 translator:
-    dictionary: mono-xingzheng
+    dictionary: mono-youxiong
     enable_user_dict: false
     max_phrase_length: 5
     preedit_format:
