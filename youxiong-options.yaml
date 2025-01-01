@@ -31,8 +31,8 @@ one_stroke_mode:
       - "xform/^([a-uA-U]+[vyz]*)$/$1 /"
       - "xform/^([a-uA-U]+)w$/$1/"
 
-# 设双击为默认
-two_stroke_mode:
+# 设多击为默认
+multi_stroke_mode:
   chord_composer/+:
     output_format:
       - "xform/^([a-uA-U]+[yz]*)w$/$1 /"
