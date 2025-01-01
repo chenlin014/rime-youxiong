@@ -35,9 +35,8 @@ one_stroke_mode:
 two_stroke_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-u]+[A-U]*)$/$1v /"
       - "xform/^([a-uA-U]+[yz]*)w$/$1 /"
-      - "xform/^([a-uA-U])v$/$1/"
+      - "xform/^([a-uA-U]+v)$/$1 /"
 
 # 设简码为默认
 brief_mode:

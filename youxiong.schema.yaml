@@ -3,7 +3,7 @@
 
 schema:
   schema_id: youxiong
-  name: 有熊輸入法
+  name: 有熊输入法
   version: '0.4'
   author:
     - 陈林 <1chen0bryan@gmail.com>
