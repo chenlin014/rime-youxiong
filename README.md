@@ -2,9 +2,7 @@
 
 [Rime](https://rime.im/) 并击形码输入方案
 
-## 简介
-
-此方案改编自郑码，以并击的方式输入字根。
+[介绍文档](https://github.com/chenlin014/youxiong-doc/blob/main/introduction.md)
 
 ## 感谢
 
