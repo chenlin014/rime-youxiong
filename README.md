@@ -2,7 +2,7 @@
 
 [Rime](https://rime.im/) 并击形码输入方案
 
-[介绍文档](https://github.com/chenlin014/youxiong-doc/blob/main/introduction.md)
+[简介](https://github.com/chenlin014/youxiong-doc/blob/main/introduction.md)
 
 ## 感谢
 
