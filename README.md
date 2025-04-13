@@ -1,8 +1,24 @@
-# 有熊输入法
+# 【中州韻】有熊输入方案样品
 
-[Rime](https://rime.im/) 并击形码输入方案
+[Rime](https://rime.im/) 有熊输入方案样品
 
-[简介](https://github.com/chenlin014/youxiong-doc/blob/main/introduction.md)
+[有熊打字法](https://github.com/chenlin014/youxiong)
+
+## 所用设定
+- 解字方案：形意
+- 简码取码法：A, 空A, AZ, AB, YZ, ZA, BA, ZY 
+- 按式映射：早林
+- 并击系统: abcCBA
+- 字频：
+  - 正體：
+    - 教育部語文成果網
+    - 字頻總表
+  - 简体：
+    - 北京语言大学，邢红兵 xinghb@blcu.edu.cn
+    - 25亿字语料汉字字频表
+  - 日文：
+    - 文化庁
+    - 漢字出現頻度数調査
 
 ## 感谢
 
