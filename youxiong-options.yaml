@@ -50,7 +50,6 @@ brief_mode:
 punc_chord:
   chord_composer/algebra/+:
     - xform|^s$| |
-    - xform|^S$|\n|
     - xform|^Sv$|0|
     - xform|^D$|1|
     - xform|^C$|2|
