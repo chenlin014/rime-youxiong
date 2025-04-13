@@ -99,3 +99,6 @@ __patch:
   #- youxiong-options:/one_stroke_mode
   # 簡碼模式
   #- youxiong-options:/brief_mode
+
+  # 自选配置
+  - youxiong.custom:/patch?
