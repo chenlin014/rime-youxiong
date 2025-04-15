@@ -20,6 +20,11 @@
     - 文化庁
     - 漢字出現頻度数調査
 
+## 拼音反查
+繁體：[朙月拼音](https://github.com/rime/rime-luna-pinyin) ℞ `luna_pinyin`
+
+简体：[袖珍简化字拼音](https://github.com/rime/rime-pinyin-simp) ℞ `pinyin_simp`
+
 ## 感谢
 
 郑码发明人：郑易里、郑珑。
