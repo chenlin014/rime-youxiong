@@ -64,10 +64,7 @@ speller:
   auto_select_unique_candidate: false
 
 translator:
-  # 正體字典
-  dictionary: youxiong-zt
-  # 简体字典
-  # dictionary: youxiong-jt
+  dictionary: youxiong
   enable_user_dict: false
 
 reverse_lookup:

@@ -1,0 +1,61 @@
+# Rime dictionary
+# encoding: utf-8
+
+---
+name: abc-latin
+version: "2025-11-16"
+use_preset_vocabulary: false
+...
+
+a	dS
+A	dsS
+r	jS
+R	jsS
+i	cS
+I	csS
+e	iS
+E	isS
+u	bS
+U	bsS
+o	hS
+O	hsS
+l	aS
+L	asS
+h	gS
+H	gsS
+t	cdS
+T	cdsS
+d	ijS
+D	ijsS
+c	bcS
+C	bcsS
+g	hiS
+G	hisS
+z	abS
+Z	absS
+j	ghS
+J	ghsS
+s	djS
+S	djsS
+n	ciS
+N	cisS
+m	bhS
+M	bhsS
+f	agS
+F	agsS
+p	bdS
+P	bdsS
+b	hjS
+B	hjsS
+v	adS
+V	adsS
+w	gjS
+W	gjsS
+k	bcdS
+K	bcdsS
+y	hijS
+Y	hijsS
+q	abcS
+Q	abcsS
+x	ghiS
+X	ghisS
