@@ -19,6 +19,9 @@ switches:
     states: [ 中文, 拉丁 ]
   - name: full_shape
     states: [ 半角, 全角 ]
+  - options: [no_conv, zh_trad, zh_jt]
+    states: [ 无转换, 漢字, 汉字 ]
+    reset: 0
   - name: ascii_punct
     states: [ 。，, ．， ]
 
@@ -45,6 +48,8 @@ engine:
     - script_translator
     - reverse_lookup_translator
   filters:
+    - simplifier@traditional
+    - simplifier
     - uniquifier
 
 chord_composer:
@@ -74,6 +79,14 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+simplifier:
+    tips: all
+    option_name: zh_jt
+
+traditional:
+    opencc_config: s2t.json
+    option_name: zh_trad
 
 punctuator:
   import_preset: symbols
