@@ -4,25 +4,19 @@ use_qwerty_layout:
   chord_composer/+:
     alphabet: "qawsedrftgvp;olikujyhncm"
     algebra:
-      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdeeEEDCBAghijJIHGwsSv|
-      - xform|ee|e|
-      - xform|EE|E|
+      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdekEKDCBAghijJIHGwsSv|
 
 use_dvorak_layout:
   chord_composer/+:
     alphabet: "'a,o.epuyiklsrnctghfdbjm"
     algebra:
-      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdeeEEDCBAghijJIHGwsSv|
-      - xform|ee|e|
-      - xform|EE|E|
+      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdekEKDCBAghijJIHGwsSv|
 
 use_colemak_layout:
   chord_composer/+:
     alphabet: "qawrfsptgdv;oyiuelnjhkcm"
     algebra:
-      - xlit|qwfpgdjhluy;arstneiocvkm|abcdeeEEDCBAghijJIHGwsSv|
-      - xform|ee|e|
-      - xform|EE|E|
+      - xlit|qwfpgdjhluy;arstneiocvkm|abcdekEKDCBAghijJIHGwsSv|
 
 # 设单击为默认
 one_stroke_mode:
@@ -46,7 +40,7 @@ brief_mode:
       - "xform/^([a-uA-U]+)w$/$1 /"
       - "xform/^([a-uA-U]+)v$/$1/"
 
-# 以并击输入符号
+# 输入符号
 punc_chord:
   chord_composer/algebra/+:
     - xform|^s$| |
