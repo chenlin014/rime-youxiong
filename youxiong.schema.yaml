@@ -103,10 +103,10 @@ __patch:
   #- youxiong-options:/use_colemak_layout
   # 標點符號
   - youxiong-options:/punc_chord
-  # 多擊模式
-  - youxiong-options:/multi_stroke_mode
   # 單擊模式
-  #- youxiong-options:/one_stroke_mode
+  - youxiong-options:/one_stroke_mode
+  # 多擊模式
+  #- youxiong-options:/multi_stroke_mode
   # 簡碼模式
   #- youxiong-options:/brief_mode
 
