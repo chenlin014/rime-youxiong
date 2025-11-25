@@ -18,27 +18,31 @@ use_colemak_layout:
     algebra:
       - xlit|qwfpgdjhluy;arstneiocvkm|abcdekEKDCBAghijJIHGwsSv|
 
-# 设单击为默认
+# == 输入模式 ==
+# 「'」为分击符
+
+# 单击模式
 one_stroke_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-uA-U]+v?)$/$1 /"
-      - "xform/^([a-uA-U]+)w$/$1/"
+      - "xform/^([a-uA-U]+v?)$/$1 /" # 自动上屏
+      - "xform/^([a-uA-U]+)w$/$1'/"   # 左大内连击
 
-# 设多击为默认
+# 多击模式
 multi_stroke_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-uA-U]+)w$/$1 /"
-      - "xform/^([a-uA-U]+v)$/$1 /"
+      - "xform/^([a-uA-U]+)w$/$1 /" # 左大内上屏
+      - "xform/^([a-uA-U]+v)$/$1 /" # 右大内输简码
+      - "xform/^([a-uA-U]+)$/$1'/"
 
-# 设简码为默认
+# 简码模式
 brief_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-uA-U]+)$/$1v /"
-      - "xform/^([a-uA-U]+)w$/$1 /"
-      - "xform/^([a-uA-U]+)v$/$1/"
+      - "xform/^([a-uA-U]+)$/$1v /" # 默认为简码
+      - "xform/^([a-uA-U]+)w$/$1 /" # 左大内输单击字
+      - "xform/^([a-uA-U]+)v$/$1'/"  # 右大内连击
 
 # 输入符号
 punc_chord:

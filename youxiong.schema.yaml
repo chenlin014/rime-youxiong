@@ -59,9 +59,11 @@ editor:
     BackSpace: back_syllable
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'"
   auto_select: false
   auto_select_unique_candidate: false
+  algebra:
+    - derive/$/'/
 
 translator:
   dictionary: youxiong
