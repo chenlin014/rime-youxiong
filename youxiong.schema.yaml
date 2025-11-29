@@ -4,7 +4,7 @@
 schema:
   schema_id: youxiong
   name: 有熊输入法
-  version: '0.4'
+  version: '0.5'
   author:
     - 陈林 <1chen0bryan@gmail.com>
   description: |
@@ -59,11 +59,12 @@ editor:
     BackSpace: back_syllable
 
 speller:
-  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ'"
+  alphabet: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ|"
+  initials: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
   auto_select: false
   auto_select_unique_candidate: false
   algebra:
-    - derive/$/'/
+    - derive/$/|/
 
 translator:
   dictionary: youxiong

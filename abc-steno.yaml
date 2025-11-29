@@ -2,27 +2,28 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "qawsedrftgvp;olikujyhncm"
+    alphabet: "qawsedrftgcvp;olikujyhnm"
     algebra:
-      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdekEKDCBAghijJIHGwsSv|
+      - xlit|qwertgyhuiopasdfjkl;cvnm|abcdekEKDCBAghijJIHGtsST|
 
 use_dvorak_layout:
   chord_composer/+:
-    alphabet: "'a,o.epuyiklsrnctghfdbjm"
+    alphabet: "'a,o.epuyijklsrnctghfdbm"
     algebra:
-      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdekEKDCBAghijJIHGwsSv|
+      - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdekEKDCBAghijJIHGtsST|
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: "qawrfsptgdv;oyiuelnjhkcm"
+    alphabet: "qawrfsptgdcv;oyiuelnjhkm"
     algebra:
-      - xlit|qwfpgdjhluy;arstneiocvkm|abcdekEKDCBAghijJIHGwsSv|
+      - xlit|qwfpgdjhluy;arstneiocvkm|abcdekEKDCBAghijJIHGtsST|
 
 # == 显示风格 ==
 
 circle_square_format:
   - xform/([a-u])([A-U])/$1-$2/
   - xform/^([A-U])/-$1/
+
   - xform/^(b|h)/◯$1/
   - xform/-(B|H)/-◯$1/
   - xform/^(c|i)/◯◯$1/
@@ -32,9 +33,16 @@ circle_square_format:
   - xform/^(e|k)/◯◯◯◯$1/
   - xform/-(E|K)/-◯◯◯◯$1/
 
+  - xform/ag|bh|ci|dj|ek|EK|DJ|CI|BH|AG/◉/
+  - xlit/abcdeEDCBA/◓◓◓◓◓◓◓◓◓◓/
+  - xlit/ghijkKJIHG/◒◒◒◒◒◒◒◒◒◒/
+
 use_circle_square_format:
   chord_composer/+:
-    prompt_format: { __include: circle_square_format }
+    prompt_format:  { __include: circle_square_format }
+  translator/+:
+    preedit_format: { __include: circle_square_format }
+    comment_format: { __include: circle_square_format }
 
 # 输入符号
 punc_chord:
