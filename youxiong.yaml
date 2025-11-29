@@ -1,0 +1,73 @@
+# == 输入模式 ==
+# 「'」为分击符
+
+# 单击模式
+one_stroke_mode:
+  chord_composer/+:
+    output_format:
+      - "xform/^([a-uA-U]+v?)$/$1 /" # 自动上屏
+      - "xform/^([a-uA-U]+)w$/$1'/"   # 左大内连击
+
+# 多击模式
+multi_stroke_mode:
+  chord_composer/+:
+    output_format:
+      - "xform/^([a-uA-U]+)w$/$1 /" # 左大内上屏
+      - "xform/^([a-uA-U]+v)$/$1 /" # 右大内输简码
+      - "xform/^([a-uA-U]+)$/$1'/"
+
+# 简码模式
+brief_mode:
+  chord_composer/+:
+    output_format:
+      - "xform/^([a-uA-U]+)$/$1v /" # 默认为简码
+      - "xform/^([a-uA-U]+)w$/$1 /" # 左大内输单击字
+      - "xform/^([a-uA-U]+)v$/$1'/"  # 右大内连击
+
+# 输入符号
+punc_chord:
+  chord_composer/algebra/+:
+    - xform|^s$| |
+    - xform|^S$|{Return}|
+    - xform|^sSv$|0|
+    - xform|^sD$|1|
+    - xform|^sC$|2|
+    - xform|^sCD$|3|
+    - xform|^sB$|4|
+    - xform|^sBD$|5|
+    - xform|^sBC$|6|
+    - xform|^sBCD$|7|
+    - xform|^sA$|8|
+    - xform|^sAD$|9|
+    - xform|^sAC$|+|
+    - xform|^sACD$|-|
+    - xform|^sAB$|*|
+    - xform|^sABD$|/|
+    - xform|^sABC$|=|
+    - xform|^sABCD$|#|
+    - xform|^sJ$|.|
+    - xform|^sI$|,|
+    - xform|^sHJ$|:|
+    - xform|^sIJ$|;|
+    - xform|^sH$|?|
+    - xform|^sG$|!|
+    - xform|^sHI$|\|
+    - xform/^sGJ$/|/
+    - xform|^sHIJ$|$|
+    - xform|^sGI$|&|
+    - xform|^sGIJ$|_|
+    - xform|^sGH$|^|
+    - xform|^sGHJ$|%|
+    - xform|^sGHI$|~|
+    - xform|^sGHIJ$|@|
+    - xform|^sDS$|[|
+    - xform|^sAS$|]|
+    - xform|^sCS$|(|
+    - xform|^sBS$|)|
+    - xform|^sBCS$|'|
+    - xform|^sADS$|"|
+    - xform|^sBDS$|<|
+    - xform|^sACS$|>|
+    - xform|^sCDS$|{|
+    - xform|^sABS$|}|
+    - xform|^sABCDS$|`|

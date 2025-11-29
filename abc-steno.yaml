@@ -1,4 +1,4 @@
-# === 键盘布局 ===
+# == 键盘布局 ==
 
 use_qwerty_layout:
   chord_composer/+:
@@ -18,31 +18,23 @@ use_colemak_layout:
     algebra:
       - xlit|qwfpgdjhluy;arstneiocvkm|abcdekEKDCBAghijJIHGwsSv|
 
-# == 输入模式 ==
-# 「'」为分击符
+# == 显示风格 ==
 
-# 单击模式
-one_stroke_mode:
-  chord_composer/+:
-    output_format:
-      - "xform/^([a-uA-U]+v?)$/$1 /" # 自动上屏
-      - "xform/^([a-uA-U]+)w$/$1'/"   # 左大内连击
+circle_square_format:
+  - xform/([a-u])([A-U])/$1-$2/
+  - xform/^([A-U])/-$1/
+  - xform/^(b|h)/◯$1/
+  - xform/-(B|H)/-◯$1/
+  - xform/^(c|i)/◯◯$1/
+  - xform/-(C|I)/-◯◯$1/
+  - xform/^(d|j)/◯◯◯$1/
+  - xform/-(D|J)/-◯◯◯$1/
+  - xform/^(e|k)/◯◯◯◯$1/
+  - xform/-(E|K)/-◯◯◯◯$1/
 
-# 多击模式
-multi_stroke_mode:
+use_circle_square_format:
   chord_composer/+:
-    output_format:
-      - "xform/^([a-uA-U]+)w$/$1 /" # 左大内上屏
-      - "xform/^([a-uA-U]+v)$/$1 /" # 右大内输简码
-      - "xform/^([a-uA-U]+)$/$1'/"
-
-# 简码模式
-brief_mode:
-  chord_composer/+:
-    output_format:
-      - "xform/^([a-uA-U]+)$/$1v /" # 默认为简码
-      - "xform/^([a-uA-U]+)w$/$1 /" # 左大内输单击字
-      - "xform/^([a-uA-U]+)v$/$1'/"  # 右大内连击
+    prompt_format: { __include: circle_square_format }
 
 # 输入符号
 punc_chord:
