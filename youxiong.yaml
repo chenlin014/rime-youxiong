@@ -30,45 +30,45 @@ punc_chord:
   chord_composer/algebra/+:
     - xform|^s$| |
     - xform|^S$|{Return}|
-    - xform|^sSv$|0|
+    - xform|^sS$|0|
     - xform|^sD$|1|
     - xform|^sC$|2|
-    - xform|^sCD$|3|
+    - xform|^sDC$|3|
     - xform|^sB$|4|
-    - xform|^sBD$|5|
-    - xform|^sBC$|6|
-    - xform|^sBCD$|7|
+    - xform|^sDB$|5|
+    - xform|^sCB$|6|
+    - xform|^sDCB$|7|
     - xform|^sA$|8|
-    - xform|^sAD$|9|
-    - xform|^sAC$|+|
-    - xform|^sACD$|-|
-    - xform|^sAB$|*|
-    - xform|^sABD$|/|
-    - xform|^sABC$|=|
-    - xform|^sABCD$|#|
+    - xform|^sDA$|9|
+    - xform|^sCA$|+|
+    - xform|^sDCA$|-|
+    - xform|^sBA$|*|
+    - xform|^sDBA$|/|
+    - xform|^sCBA$|=|
+    - xform|^sDCBA$|#|
     - xform|^sJ$|.|
     - xform|^sI$|,|
-    - xform|^sHJ$|:|
-    - xform|^sIJ$|;|
+    - xform|^sJH$|:|
+    - xform|^sJI$|;|
     - xform|^sH$|?|
     - xform|^sG$|!|
-    - xform|^sHI$|\|
-    - xform/^sGJ$/|/
-    - xform|^sHIJ$|$|
-    - xform|^sGI$|&|
-    - xform|^sGIJ$|_|
-    - xform|^sGH$|^|
-    - xform|^sGHJ$|%|
-    - xform|^sGHI$|~|
-    - xform|^sGHIJ$|@|
+    - xform|^sIH$|\|
+    - xform/^sJG$/|/
+    - xform|^sJIH$|$|
+    - xform|^sIG$|&|
+    - xform|^sJIG$|_|
+    - xform|^sHG$|^|
+    - xform|^sJHG$|%|
+    - xform|^sIHG$|~|
+    - xform|^sJIHG$|@|
     - xform|^sDS$|[|
     - xform|^sAS$|]|
     - xform|^sCS$|(|
     - xform|^sBS$|)|
-    - xform|^sBCS$|'|
-    - xform|^sADS$|"|
-    - xform|^sBDS$|<|
-    - xform|^sACS$|>|
-    - xform|^sCDS$|{|
-    - xform|^sABS$|}|
-    - xform|^sABCDS$|`|
+    - xform|^sCBS$|'|
+    - xform|^sDAS$|"|
+    - xform|^sDBS$|<|
+    - xform|^sCAS$|>|
+    - xform|^sDCS$|{|
+    - xform|^sBAS$|}|
+    - xform|^sDCBAS$|`|

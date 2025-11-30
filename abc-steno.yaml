@@ -2,40 +2,73 @@
 
 use_qwerty_layout:
   chord_composer/+:
-    alphabet: "qawsedrftgcvp;olikujyhnm"
+    alphabet: "qawsedrftgcvyhujikolp;nm"
     algebra:
       - xlit|qwertgyhuiopasdfjkl;cvnm|abcdekEKDCBAghijJIHGtsST|
 
 use_dvorak_layout:
   chord_composer/+:
-    alphabet: "'a,o.epuyijklsrnctghfdbm"
+    alphabet: "'a,o.epuyijkfdghctrnlsbm"
     algebra:
       - xlit|',.pyifdgcrlaoeuhtnsjkbm|abcdekEKDCBAghijJIHGtsST|
 
 use_colemak_layout:
   chord_composer/+:
-    alphabet: "qawrfsptgdcv;oyiuelnjhkm"
+    alphabet: "qawrfsptgdcvjhlnueyi;okm"
     algebra:
       - xlit|qwfpgdjhluy;arstneiocvkm|abcdekEKDCBAghijJIHGtsST|
 
 # == 显示风格 ==
 
 circle_square_format:
-  - xform/([a-u])([A-U])/$1-$2/
-  - xform/^([A-U])/-$1/
+  - xform/^/|/
+  - xform/$/|/
 
-  - xform/^(b|h)/◯$1/
-  - xform/-(B|H)/-◯$1/
-  - xform/^(c|i)/◯◯$1/
-  - xform/-(C|I)/-◯◯$1/
-  - xform/^(d|j)/◯◯◯$1/
-  - xform/-(D|J)/-◯◯◯$1/
-  - xform/^(e|k)/◯◯◯◯$1/
-  - xform/-(E|K)/-◯◯◯◯$1/
+  - xform/([a-u])([A-U])/$1-$2/
+  - xform/\|([A-U])/|-$1/
+
+  - xform/\|(b|h)/|◎$1/
+  - xform/\|(c|i)/|◎◎$1/
+  - xform/\|(d|j)/|◎◎◎$1/
+  - xform/\|(e|k)/|◎◎◎◎$1/
+
+  - xform/(a|g)([\|-])/$1◎◎◎◎$2/
+  - xform/(b|h)([\|-])/$1◎◎◎$2/
+  - xform/(c|i)([\|-])/$1◎◎$2/
+  - xform/(d|j)([\|-])/$1◎$2/
+
+  - xform/(a|g)(c|i)/$1◎$2/
+  - xform/(b|h)(d|j)/$1◎$2/
+  - xform/(c|i)(e|k)/$1◎$2/
+  - xform/(a|g)(d|j)/$1◎◎$2/
+  - xform/(b|h)(e|k)/$1◎◎$2/
+  - xform/(a|g)(e|k)/$1◎◎◎$2/
+
+  - xform/-(D|J)/-◎$1/
+  - xform/-(C|I)/-◎◎$1/
+  - xform/-(B|H)/-◎◎◎$1/
+  - xform/-(A|G)/-◎◎◎◎$1/
+
+  - xform/(E|K)\|/$1◎◎◎◎|/
+  - xform/(D|J)\|/$1◎◎◎|/
+  - xform/(C|I)\|/$1◎◎|/
+  - xform/(B|H)\|/$1◎|/
+
+  - xform/(E|K)(C|I)/$1◎$2/
+  - xform/(D|J)(B|H)/$1◎$2/
+  - xform/(C|I)(A|G)/$1◎$2/
+  - xform/(E|K)(B|H)/$1◎◎$2/
+  - xform/(D|J)(A|G)/$1◎◎$2/
+  - xform/(a|g)(e|k)/$1◎◎◎$2/
 
   - xform/ag|bh|ci|dj|ek|EK|DJ|CI|BH|AG/◉/
-  - xlit/abcdeEDCBA/◓◓◓◓◓◓◓◓◓◓/
-  - xlit/ghijkKJIHG/◒◒◒◒◒◒◒◒◒◒/
+  - xform/[a-eA-E]/◓/
+  - xform/[g-kG-K]/◒/
+
+  - xform/^\|//
+  - xform/\|$//
+  - xform/ //
+  - xform/\|/ \| /
 
 use_circle_square_format:
   chord_composer/+:
