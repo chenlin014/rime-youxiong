@@ -113,7 +113,7 @@ __patch:
   # 簡碼模式
   #- youxiong:/brief_mode
   # 顯示風格
-  - abc-steno:/use_circle_square_format
+  #- abc-steno:/use_circle_square_format
 
   # 自选配置
   - youxiong.custom:/patch?

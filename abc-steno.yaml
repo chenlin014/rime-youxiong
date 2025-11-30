@@ -32,10 +32,10 @@ circle_square_format:
   - xform/\|(d|j)/|◎◎◎$1/
   - xform/\|(e|k)/|◎◎◎◎$1/
 
-  - xform/(a|g)([\|-])/$1◎◎◎◎$2/
-  - xform/(b|h)([\|-])/$1◎◎◎$2/
-  - xform/(c|i)([\|-])/$1◎◎$2/
-  - xform/(d|j)([\|-])/$1◎$2/
+  - xform/(a|g)([st]*[\|-])/$1◎◎◎◎$2/
+  - xform/(b|h)([st]*[\|-])/$1◎◎◎$2/
+  - xform/(c|i)([st]*[\|-])/$1◎◎$2/
+  - xform/(d|j)([st]*[\|-])/$1◎$2/
 
   - xform/(a|g)(c|i)/$1◎$2/
   - xform/(b|h)(d|j)/$1◎$2/
@@ -49,10 +49,10 @@ circle_square_format:
   - xform/-(B|H)/-◎◎◎$1/
   - xform/-(A|G)/-◎◎◎◎$1/
 
-  - xform/(E|K)\|/$1◎◎◎◎|/
-  - xform/(D|J)\|/$1◎◎◎|/
-  - xform/(C|I)\|/$1◎◎|/
-  - xform/(B|H)\|/$1◎|/
+  - xform/(E|K)([ST]*\|)/$1◎◎◎◎$2/
+  - xform/(D|J)([ST]*\|)/$1◎◎◎$2/
+  - xform/(C|I)([ST]*\|)/$1◎◎$2/
+  - xform/(B|H)([ST]*\|)/$1◎$2/
 
   - xform/(E|K)(C|I)/$1◎$2/
   - xform/(D|J)(B|H)/$1◎$2/
@@ -64,6 +64,8 @@ circle_square_format:
   - xform/ag|bh|ci|dj|ek|EK|DJ|CI|BH|AG/◉/
   - xform/[a-eA-E]/◓/
   - xform/[g-kG-K]/◒/
+  - xform/t|S/◧/
+  - xform/s|T/◨/
 
   - xform/^\|//
   - xform/\|$//
@@ -76,51 +78,5 @@ use_circle_square_format:
   translator/+:
     preedit_format: { __include: circle_square_format }
     comment_format: { __include: circle_square_format }
-
-# 输入符号
-punc_chord:
-  chord_composer/algebra/+:
-    - xform|^s$| |
-    - xform|^S$|{Return}|
-    - xform|^sSv$|0|
-    - xform|^sD$|1|
-    - xform|^sC$|2|
-    - xform|^sCD$|3|
-    - xform|^sB$|4|
-    - xform|^sBD$|5|
-    - xform|^sBC$|6|
-    - xform|^sBCD$|7|
-    - xform|^sA$|8|
-    - xform|^sAD$|9|
-    - xform|^sAC$|+|
-    - xform|^sACD$|-|
-    - xform|^sAB$|*|
-    - xform|^sABD$|/|
-    - xform|^sABC$|=|
-    - xform|^sABCD$|#|
-    - xform|^sJ$|.|
-    - xform|^sI$|,|
-    - xform|^sHJ$|:|
-    - xform|^sIJ$|;|
-    - xform|^sH$|?|
-    - xform|^sG$|!|
-    - xform|^sHI$|\|
-    - xform/^sGJ$/|/
-    - xform|^sHIJ$|$|
-    - xform|^sGI$|&|
-    - xform|^sGIJ$|_|
-    - xform|^sGH$|^|
-    - xform|^sGHJ$|%|
-    - xform|^sGHI$|~|
-    - xform|^sGHIJ$|@|
-    - xform|^sDS$|[|
-    - xform|^sAS$|]|
-    - xform|^sCS$|(|
-    - xform|^sBS$|)|
-    - xform|^sBCS$|'|
-    - xform|^sADS$|"|
-    - xform|^sBDS$|<|
-    - xform|^sACS$|>|
-    - xform|^sCDS$|{|
-    - xform|^sABS$|}|
-    - xform|^sABCDS$|`|
+  reverse_lookup/+:
+    comment_format: { __include: circle_square_format }
