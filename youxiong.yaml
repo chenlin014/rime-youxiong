@@ -5,7 +5,8 @@
 one_stroke_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-s]*)t([A-S]*)$/$1$2|/" # 左大内连击
+      - "xform/t(s?[A-T]*)$/$1t/"
+      - "xform/^([a-sA-S]+)t$/$1|/"  # 左大内连击
       - "xform/^([a-sA-S]+)T$/$1v/"  # 右大内输简码
       - "xform/^([a-sA-S]+v?)$/$1 /" # 自动上屏
 
@@ -13,16 +14,18 @@ one_stroke_mode:
 multi_stroke_mode:
   chord_composer/+:
     output_format:
-      - "xform/^([a-s]*)t([A-S]*)$/$1$2 /" # 左大内上屏
+      - "xform/t(s?[A-T]*)$/$1t/"
+      - "xform/^([a-sA-S]+)t$/$1 /"  # 左大内上屏
       - "xform/^([a-sA-S]+)T$/$1v /" # 右大内输简码
-      - "xform/^([a-sA-S]+)$/$1|/" # 加分击符
+      - "xform/^([a-sA-S]+)$/$1|/"   # 默认连击
 
 # 简码模式
 brief_mode:
   chord_composer/+:
     output_format:
+      - "xform/t(s?[A-T]*)$/$1t/"
       - "xform/^([a-sA-S]+)$/$1v /" # 默认为简码
-      - "xform/^([a-s]*)t([A-S]*)$/$1$2 /" # 左大内输单击字
+      - "xform/^([a-sA-S]+)t$/$1 /" # 左大内单击上屏
       - "xform/^([a-sA-S]+)T$/$1|/" # 右大内连击
 
 # 输入符号
